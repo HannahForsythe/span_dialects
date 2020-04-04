@@ -320,7 +320,8 @@ df <- rbind.fill(CDMX, ArgS, PS,  Spain1, Spain2, Spain3)
 ################
 #verb exploration - proportion of ser to estar
 ################
-
+#for this part of the analysis, we drop speaker EAMR-MOT, due to issues with her part-of-speech tags
+  
 #Define verb tags to search for in each line.
   #two high-frequency verbs:
   #'ser'
