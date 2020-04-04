@@ -72,7 +72,7 @@ names(CDMX) <- revalue(names(CDMX), c("."="empty", "..1"="empty1", "..2"="empty2
 CDMX$dialect <- as.factor("Mexican")
 
 #assign an ID for each speaker (concatenate the dyad and participant labels)
-CDMX$speaker <- as.factor(paste0(CDMX$participant, "_", CDMX$dyad))
+CDMX$speaker <- as.factor(paste0(CDMX$participant, "-", CDMX$dyad))
 
 #for the purposes of this project, we will only look at adult speech main lines (no comments or grammatical codes) 
 CDMX <- CDMX %>% filter(participant %in% c("MOT", "FAT") & tier %in% "%mor:") %>% 
@@ -321,7 +321,7 @@ df <- rbind.fill(CDMX, ArgS, PS,  Spain1, Spain2, Spain3)
 #verb exploration - proportion of ser to estar
 ################
 #for this part of the analysis, we drop speaker EAMR-MOT, due to issues with her part-of-speech tags
-  
+  df <- subset(df, speaker!="MOT-EAMR")
 #Define verb tags to search for in each line.
   #two high-frequency verbs:
   #'ser'
@@ -398,8 +398,8 @@ df <- rbind.fill(CDMX, ArgS, PS,  Spain1, Spain2, Spain3)
     ggtitle("Estimated proportion of different types of verbs across dialects of Spanish") +
     ylab("")
 
-  #follow-up plot. Since ser and estar mean similar things and can sometimes compete,
-  #it makes sense to ask if some dialects solve the competition directly.
+  #follow-up plot. Since ser and estar mean similar things,
+  #it makes sense to ask if some dialects rely on them to different degrees
   #i.e., the ratio between one and the other may be different
   #The same goes for 'manejar' and 'conducir'
   ratios <- dialect_verbs %>% select(dialect, speaker, ser_prop, est_prop, maneja_prop, conduci_prop)
@@ -410,7 +410,7 @@ df <- rbind.fill(CDMX, ArgS, PS,  Spain1, Spain2, Spain3)
   ratios$conduci_prop <- (ratios$conduci_prop)+.01
   ratios$conduci_over_maneja <- ratios$conduci_prop / ratios$maneja_prop
   
-  #This graph gives us a little more separation between dialects
+  #Check: this estar:ser graph gives us a little more separation between dialects than we saw in hifrq.plot
   ggplot(ratios, aes(x=dialect, y=estar_over_ser, color = dialect)) +
     geom_point(shape=1) +
     theme_bw() +
