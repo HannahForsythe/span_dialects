@@ -483,7 +483,7 @@ ratios <- dialect_verbs %>% select(dialect, speaker, ser_prop, est_prop)
   
 ```
 
-Now there less overlap between each dialect!
+Now there less overlap between each dialect! (see https://github.com/HannahForsythe/span_dialects/blob/master/Asset_2-ratio_estar_ser.pdf)
 
 The final step is to try this with other similar-meaning words. However, since most words are much, much less frequent than these two verbs, we have to be careful not to divide by zero. In the following code block, I add a small amount to each word's proportion before calculating the ratio of word pairs.
 
@@ -590,7 +590,7 @@ The final step is to try this with other similar-meaning words. However, since m
   
 ```
 
-The plot below shows us the following:
+The plot below shows us the following (see https://github.com/HannahForsythe/span_dialects/blob/master/Asset_3-ratio_word_pairs.pdf):
 
 1) The pair chico:nino clearly distinguishes Argentinian/Paraguayan from the other two. They also have a SLIGHTLY higher beber:tomar ratio than the other two.
 2) Spain is the only dialect with a conducir:manejar ratio over 1. 
