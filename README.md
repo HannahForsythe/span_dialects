@@ -402,7 +402,8 @@ The first feature we explore is the proportion of verbs with pronouns as subject
     ylab("")
 ```
 
-The Figure below displays our results:
+The Figure below displays our results: (see also https://github.com/HannahForsythe/span_dialects/blob/master/Asset_1-prop_subject_pronouns.pdf)
+
 ```{r}
   pro.plot
 #uncomment the following line to save this figure as a pdf
