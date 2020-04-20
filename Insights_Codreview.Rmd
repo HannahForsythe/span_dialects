@@ -698,6 +698,7 @@ chico_over_nino.lmer <- lm(chico_over_nino ~ dialect, data = ratios)
 ```
 
 General conclusions: In sum, the exploratory analysis shows that:
+
 1) Every dialect can be distinguished from every other dialect along at least SOME feature explored here.
 2) Rates of individual pronoun subjects are a promising and easy-to-implement feature to use when distinguishing dialects.
 3) In some cases, the ratio of similar-meaning word PAIRS may provide additional insight, over and above the overall rates of the INDIVIDUAL words.
