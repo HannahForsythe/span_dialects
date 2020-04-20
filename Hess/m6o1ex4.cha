@@ -1,0 +1,746 @@
+@UTF8
+@PID:	11312/c-00032648-1
+@Begin
+@Languages:	spa
+@Participants:	KAR Karina Adult , CHI Manuel Target_Child
+@ID:	spa|Hess|KAR|||||Adult|||
+@ID:	spa|Hess|CHI|6;10.19||||Target_Child|||
+@Date:	01-JUL-1999
+@Comment:	Education of CHI is primero , particular
+@Transcriber:	Karina Hess
+@Situation:	Tarea D (narraciones personales)
+@Comment:	sólo se transcriben los fragmentos en los que ocurren
+	narraciones personales
+*KAR:	y aparte de eso no has tenido accidentes .
+%mor:	coord|y=and adv|aparte=aside prep|de=of pro:dem|eso=that_one
+	adv|no=no aux|habe-2S&PRES=have part|tene-PPART-m=have
+	n|accidente&m-PL=accident .
+%gra:	1|0|ROOT 2|1|COORD 3|2|JCT 4|3|POBJ 5|7|JCT 6|7|AUX 7|1|COORD 8|7|OBJ
+	9|1|PUNCT
+*KAR:	de que te haya salido sangre ?
+%mor:	prep|de=of pro:rel|que=that pro:obj|te=you v|habe-13S&SUB&PRES=have
+	part|sali-PPART-m=leave n|sangre&f=blood ?
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|3|COMP 5|6|DET 6|4|OBJ 7|1|PUNCT
+*CHI:	sí .
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*KAR:	a_ver , platícame de alguna vez que +/.
+%mor:	co|a_ver cm|cm imp|platica-2S&IMP~pro:clit|1S=talk prep|de=of
+	qn|algún-f=some n|vez&f=turn pro:rel|que=that +/.
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|3|OBJ2 5|3|JCT 6|7|DET 7|5|POBJ 8|7|REL
+	9|1|PUNCT
+*CHI:	un día me caí .
+%mor:	det:art|un&m=one n|día&m=day pro:obj|me=me v|cae-1S&PRET=fall .
+%gra:	1|2|DET 2|4|SUBJ 3|2|MOD 4|0|ROOT 5|4|PUNCT
+%cod:	$C $O:tie
+*CHI:	que estaba saltando con la cuerda .
+%mor:	prep|que=than cop|esta-13S&PAS=be part|salta-PRPART=jump
+	prep|con=with det:art|el&f&SG=the n|cuerda&f=string .
+%gra:	1|0|ROOT 2|1|POBJ 3|2|PRED 4|3|JCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+%cod:	$C $O:obj
+*KAR:	aha@i .
+%mor:	co|aha .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	acá [//] y acá me quedó una costra .
+%mor:	coord|y=and adv|acá=there pro:obj|me=me v|queda-3S&PRET=stay
+	det:art|un-f=one n|costra&f=scab .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|1|COORD 5|6|DET 6|4|OBJ 7|1|PUNCT
+%cod:	$R $E:res $O:obj $O:lug
+%gpx:	muestra el lugar
+*KAR:	jii@i !
+%mor:	co|jii !
+%gra:	1|0|ROOT 2|1|PUNCT
+*KAR:	te quedó una costra ?
+%mor:	pro:obj|te=you v|queda-3S&PRET=stay det:art|un-f=one
+	n|costra&f=scab ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	sí .
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*KAR:	y luego ?
+%mor:	coord|y=and adv|luego=afterwards ?
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD
+*CHI:	por acá me quedó una marquita .
+%mor:	prep|por=for adv|acá=there pro:obj|me=me v|queda-3S&PRET=stay
+	det:art|un-f=one n|marca&f-DIM=mark .
+%gra:	1|2|JCT 2|3|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%cod:	$R $E:res $O:lug $O:obj
+%gpx:	muestra el lugar
+@New Episode
+*KAR:	oye , y cuando se te cayó el primer diente ?
+%mor:	co|oye=listen cm|cm coord|y=and conj|cuando=when pro:refl|se=itself
+	pro:obj|te=you v|cae-3S&PRET=fall det:art|el&m&SG=the
+	adj|primer&m=first n|diente&m=tooth ?
+%gra:	1|0|ROOT 2|1|COMP 3|2|CONJ 4|3|COORD 5|6|JCT 6|7|SUBJ 7|4|CMOD 8|10|DET
+	9|10|MOD 10|7|OBJ 11|1|PUNCT
+*KAR:	porque ya se te cayeron abajo .
+%mor:	conj|porque=because adv|ya=already pro:refl|se=itself
+	pro:obj|te=you v|cae-3P&PRET=fall adv|abajo=below .
+%gra:	1|5|SUBJ 2|3|JCT 3|5|SUBJ 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*KAR:	ya ví .
+%mor:	adv|ya=already v|ve-1S&PRET=see .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*CHI:	no , me lo tiré .
+%mor:	adv|no=no cm|cm pro:obj|me=me pro:obj|le-m=him v|tira-1S&PRET=throw
+	.
+%gra:	1|2|JCT 2|5|SUBJ 3|5|SUBJ 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*KAR:	tú te lo tiraste ?
+%mor:	pro:sub|tú=you pro:obj|te=you pro:obj|le-m=him v|tira-2S&PRET=throw
+	?
+%gra:	1|4|SUBJ 2|4|SUBJ 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*KAR:	a_ver , platícame .
+%mor:	co|a_ver cm|cm imp|platica-2S&IMP~pro:clit|1S=talk .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|3|OBJ2 5|1|PUNCT
+*KAR:	cómo estuvo eso .
+%mor:	pro:int|cómo=how cop|esta-3S&PRET=be pro:dem|eso=that_one .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	me los +/.
+%mor:	pro:obj|me=me det:art|el&m-PL=the +/.
+%gra:	1|0|ROOT 2|3|DET 3|1|PUNCT
+*CHI:	así estaba así picándome con un palillo los dientes .
+%mor:	adv|así=thus cop|esta-13S&PAS=be adv|así=thus
+	part|pica-PRPART~pro:clit|1S=prick/dive prep|con=with
+	det:art|un&m=one n|palo&m-DIM=stick det:art|el&m-PL=the
+	n|diente&m-PL=tooth .
+%gra:	1|2|JCT 2|0|ROOT 3|4|JCT 4|2|PRED 5|4|OBJ2 6|2|JCT 7|8|DET 8|6|POBJ
+	9|10|DET 10|8|MOD 11|2|PUNCT
+%xsub:	$AV $AV
+%cod:	$C $O:obj $O:obj
+%gpx:	hace como si tuviera un palillo y se picara los dientes
+*KAR:	aha@i .
+%mor:	co|aha .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	y en eso que me lo tiro .
+%mor:	coord|y=and prep|en=in pro:dem|eso=that_one pro:rel|que=that
+	pro:obj|me=me pro:obj|le-m=him v|tira-1S&PRES=throw .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|3|REL 5|7|SUBJ 6|7|OBJ 7|4|CMOD 8|1|PUNCT
+%xsub:	$AV
+%cod:	$C $O:tie
+*KAR:	ah !
+%mor:	co|ah !
+%gra:	1|0|ROOT 2|1|PUNCT
+*KAR:	y luego ?
+%mor:	coord|y=and adv|luego=afterwards ?
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD
+*CHI:	y el otro me lo tiré con un plumón .
+%mor:	coord|y=and det:art|el&m&SG=the pro:indef|otro-m=other
+	pro:obj|me=me pro:obj|le-m=him v|tira-1S&PRET=throw prep|con=with
+	det:art|un&m=one n|pluma&m-AUG=feather .
+%gra:	1|0|ROOT 2|3|DET 3|1|COORD 4|3|JCT 5|6|SUBJ 6|4|POBJ 7|6|JCT 8|9|DET
+	9|7|POBJ 10|1|PUNCT
+%cod:	$C $O:obj $O:obj
+%gpx:	utiliza el dedo para simular el plumón que le tira el diente
+*KAR:	sss@i !
+%mor:	co|sss !
+%gra:	1|0|ROOT 2|1|PUNCT
+@New Episode
+*KAR:	o sea que eres un niño muy bien portado ?
+%mor:	coord|o=or cop|se-13S&SUB&PRES=be pro:rel|que=that
+	cop|se-2S&PRES=be det:art|un&m=one n|niño-m=child adv|muy=very
+	adv|bien=well part|porta-PPART-m=behave ?
+%gra:	1|0|ROOT 2|1|COORD 3|1|REL 4|3|CMOD 5|6|DET 6|9|SUBJ 7|6|JCT 8|9|AUX
+	9|4|PRED 10|1|COORD
+*CHI:	no !
+%mor:	adv|no=no !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	es que ya no me acuerdo cómo +/.
+%mor:	cop|se-3S&PRES=be pro:rel|que=that adv|ya=already adv|no=no
+	pro:obj|me=me v|acorda-1S&PRES=remind co|cómo +/.
+%gra:	1|0|ROOT 2|1|REL 3|5|JCT 4|5|JCT 5|6|SUBJ 6|2|CMOD 7|6|OBJ 8|1|PUNCT
+%xsub:	$V
+*KAR:	uy@i , yo +/.
+%mor:	co|uy cm|cm pro:sub|yo=I +/.
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*CHI:	como que me subo hasta arriba de la casa de mi tía Celia .
+%mor:	adv|como=like pro:rel|que=that pro:obj|me=me v|subi-1S&PRES=go_up
+	prep|hasta=until adv|arriba=above prep|de=of det:art|el&f&SG=the
+	n|casa&f=house prep|de=of det:poss|mi=my n|tío-f=uncle n:prop|Celia
+	.
+%gra:	1|0|ROOT 2|1|REL 3|4|SUBJ 4|2|COMP 5|4|JCT 6|5|POBJ 7|6|JCT 8|9|DET
+	9|7|POBJ 10|9|JCT 11|12|DET 12|10|POBJ 13|12|MOD 14|1|PUNCT
+%cod:	$A:res $O:lug $O:obj $O:par
+*KAR:	jii@i !
+%mor:	co|jii !
+%gra:	1|0|ROOT 2|1|PUNCT
+*KAR:	a_ver , platícame de una vez .
+%mor:	co|a_ver cm|cm imp|platica-2S&IMP~pro:clit|1S=talk prep|de=of
+	det:art|un-f=one n|vez&f=turn .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|3|OBJ2 5|3|JCT 6|7|DET 7|5|POBJ 8|1|PUNCT
+*KAR:	que hayas hecho eso .
+%mor:	pro:rel|que=that v|habe-2S&SUB&PRES=have n|hecho&m=action
+	pro:dem|eso=that_one .
+%gra:	1|0|ROOT 2|1|CMOD 3|2|OBJ 4|3|MOD 5|1|PUNCT
+*CHI:	mhm@i .
+%mor:	co|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+%com:	piensa
+*CHI:	es que vamos bien poquitas veces .
+%mor:	cop|se-3S&PRES=be pro:rel|que=that v|i-1P&PRES=go adv|bien=well
+	qn|poquito-f-PL=little n|vez&f-PL=turn .
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|3|JCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+%xsub:	$AV $A
+%cod:	$O:cas $E:jus $E:sup $E:pal
+*CHI:	porque está muy lejos .
+%mor:	conj|porque=because cop|esta-3S&PRES=be adv|muy=very adv|lejos=far
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|PUNCT
+%xsub:	$AV $A
+%cod:	$E:cau $E:jus $E:sup $E:pal
+*KAR:	aha@i .
+%mor:	co|aha .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	más lejos que aquí .
+%mor:	adv|más=more adv|lejos=far pro:rel|que=that adv|aquí=here .
+%gra:	1|2|JCT 2|0|ROOT 3|2|REL 4|3|CMOD 5|2|PUNCT
+%xsub:	$AV $A
+%cod:	$E:jus $E:sup $E:cau
+*KAR:	aha@i .
+%mor:	co|aha .
+%gra:	1|0|ROOT 2|1|PUNCT
+*KAR:	y entonces ?
+%mor:	coord|y=and adv|entonces=then ?
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD
+*CHI:	a:h@i (..) y entonces que me subo hasta: [/] hasta el cuarto de
+	coser .
+%mor:	co|ah coord|y=and adv|entonces=then pro:rel|que=that pro:obj|me=me
+	v|subi-1S&PRES=go_up prep|hasta=until det:art|el&m&SG=the
+	n|cuarto&m=quarter prep|de=of inf|cose-INF=sew .
+%gra:	1|0|ROOT 2|1|CONJ 3|2|COORD 4|3|REL 5|6|SUBJ 6|4|CMOD 7|6|JCT 8|9|DET
+	9|7|POBJ 10|9|JCT 11|10|POBJ 12|1|PUNCT
+%cod:	$C $O:lug
+*KAR:	aha@i .
+%mor:	co|aha .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	y ahí estaban las llaves para entrar a la azotea .
+%mor:	coord|y=and adv|ahí=there cop|esta-3P&PAS=be det:art|el&f-PL=the
+	n|llave&f-PL=key prep|para=for inf|entra-INF=come_in prepart|a=to
+	det:art|el&f&SG=the n|azotea&f=platform .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|5|DET 5|3|PRED 6|7|INF 7|5|CMOD 8|7|OBJ
+	9|10|DET 10|8|OBJ 11|1|PUNCT
+%cod:	$O:obj $O:lug
+*CHI:	<y me> [//] y que entro .
+%mor:	coord|y=and pro:rel|que=that v|entra-1S&PRES=come_in .
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|1|PUNCT
+%cod:	$C
+*KAR:	aha@i .
+%mor:	co|aha .
+%gra:	1|0|ROOT 2|1|PUNCT
+*KAR:	y entraste ?
+%mor:	coord|y=and v|entra-2S&PRET=come_in ?
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD
+*CHI:	mhm@i .
+%mor:	co|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+%com:	afirma
+*CHI:	y le grité a mi mamá .
+%mor:	coord|y=and pro:ind|le&m=him v|grita-1S&PRET=shout prepart|a=to
+	det:poss|mi=my n|mamá&f=mommy .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|3|JCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+%cod:	$C $O:par
+*KAR:	0 .
+%act:	se ríe
+*CHI:	y me dijo .
+%mor:	coord|y=and pro:obj|me=me v|deci-3S&PRET=say .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|1|PUNCT
+%cod:	$R
+*CHI:	que me bajara .
+%mor:	pro:rel|que=that pro:obj|me=me v|baja-13S&SUB&PAS=come_down .
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|CMOD 4|1|PUNCT
+%cod:	$R
+*KAR:	a:y@i !
+%mor:	co|ay !
+%gra:	1|0|ROOT 2|1|PUNCT
+*KAR:	y: ?
+%mor:	coord|y=and ?
+%gra:	1|0|ROOT 2|1|COORD
+*CHI:	ya me bajé .
+%mor:	adv|ya=already pro:obj|me=me v|baja-1S&PRET=come_down .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%cod:	$R
+*KAR:	ya te bajaste ?
+%mor:	adv|ya=already pro:obj|te=you v|baja-2S&PRET=come_down ?
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	mhm@i .
+%mor:	co|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+%com:	afirma
+@New Episode
+*KAR:	yo cuando tenía seis años .
+%mor:	pro:sub|yo=I conj|cuando=when v|tene-13S&PAS=have det:num|seis=six
+	n|año&m-PL=year .
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|5|DET 5|3|OBJ 6|1|PUNCT
+*KAR:	incendié la sala de mi casa , bueno , la cortina .
+%mor:	v|incendia-1S&PRET=ignite det:art|el&f&SG=the n|sala&f=room
+	prep|de=of det:poss|mi=my n|casa&f=house cm|cm co|bueno=good cm|cm
+	det:art|el&f&SG=the n|cortina&f=curtain .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|JCT 5|6|DET 6|4|POBJ 7|6|MOD 8|7|CMOD
+	9|8|COMP 10|11|DET 11|9|OBJ 12|1|PUNCT
+*CHI:	y también nos ha platicado mi maestra .
+%mor:	coord|y=and adv|también=also pro:obj|nos=us aux|habe-3S&PRES=have
+	part|platica-PPART-m=talk det:poss|mi=my n|maestra&f=mistress .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|5|AUX 5|1|COORD 6|7|DET 7|1|COORD
+	8|1|PUNCT
+%cod:	$A:pro $O:par
+*CHI:	que: [/] que tenía una: sobrinita .
+%mor:	pro:rel|que=that v|tene-13S&PAS=have det:art|un-f=one
+	n|sobrino&f-DIM=niece .
+%gra:	1|0|ROOT 2|1|CMOD 3|4|DET 4|2|OBJ 5|1|PUNCT
+%cod:	$O:par $E:pal
+*CHI:	que era bebé de dos años .
+%mor:	pro:rel|que=that cop|se-13S&PAS=be n|bebé&m=baby prep|de=of
+	det:num|dos=two n|año&m-PL=year .
+%gra:	1|0|ROOT 2|1|CMOD 3|2|PRED 4|3|JCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+%cod:	$O:par $E:tan
+*KAR:	aha@i .
+%mor:	co|aha .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	y que este: (..) y que estaba jugando con cerillos en la cama de
+	sus papás .
+%mor:	coord|y=and pro:rel|que=that cop|esta-13S&SUB&PRES=be coord|y=and
+	prep|que=than cop|esta-13S&PAS=be part|juga-PRPART=play
+	prep|con=with n|cerillo&m-PL=match prep|en=in det:art|el&f&SG=the
+	n|cama&f=bed prep|de=of co|sus n|papá&m-PL=father .
+%gra:	1|0|ROOT 2|1|REL 3|2|COMP 4|3|PRED 5|4|JCT 6|5|POBJ 7|6|PRED 8|7|JCT
+	9|8|POBJ 10|9|JCT 11|12|DET 12|10|POBJ 13|12|JCT 14|15|DET 15|13|POBJ
+	16|1|PUNCT
+%cod:	$C $O:obj $O:lug $O:par
+*KAR:	aha@i .
+%mor:	co|aha .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	y entonces que prende el cerillo .
+%mor:	coord|y=and adv|entonces=then pro:rel|que=that
+	v|prende-3S&PRES=ignite det:art|el&m&SG=the n|cerillo&m=match .
+%gra:	1|0|ROOT 2|1|COORD 3|2|REL 4|3|CMOD 5|6|DET 6|4|OBJ 7|1|PUNCT
+%cod:	$C $O:obj
+*CHI:	y que ve .
+%mor:	coord|y=and pro:rel|que=that v|ve-3S&PRES=see .
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|1|PUNCT
+%cod:	$C
+*CHI:	que se prende .
+%mor:	pro:rel|que=that pro:refl|se=itself v|prende-3S&PRES=ignite .
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|CMOD 4|1|PUNCT
+%cod:	$O:gra
+*CHI:	y que echa el cerillo .
+%mor:	coord|y=and pro:rel|que=that v|echa-3S&PRES=throw
+	det:art|el&m&SG=the n|cerillo&m=match .
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|5|DET 5|3|OBJ 6|1|PUNCT
+%cod:	$C $O:obj
+*KAR:	sí .
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	y se incendia la cama .
+%mor:	coord|y=and pro:refl|se=itself v|incendia-3S&PRES=ignite
+	det:art|el&f&SG=the n|cama&f=bed .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|5|DET 5|3|OBJ 6|1|PUNCT
+%cod:	$C $O:obj
+*KAR:	a:y@i !
+%mor:	co|ay !
+%gra:	1|0|ROOT 2|1|PUNCT
+@New Episode
+*KAR:	tú has estado en una situación de peligro ?
+%mor:	pro:sub|tú=you aux|habe-2S&PRES=have part|esta-PPART-m=be
+	prep|en=in det:art|un-f=one n|situación&f=situation prep|de=of
+	n|peligro&m=danger ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|6|JCT 8|7|POBJ
+	9|3|PUNCT
+*CHI:	mhm:@i (..) a_ver , cuándo cuándo cuándo ?
+%mor:	co|mhm co|a_ver cm|cm pro:int|cuándo=when pro:int|cuándo=when
+	pro:int|cuándo=when ?
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|3|JCT 5|6|MOD 6|4|POBJ 7|1|PUNCT
+*CHI:	cuándo cuándo cuándo cuándo ?
+%mor:	pro:int|cuándo=when pro:int|cuándo=when pro:int|cuándo=when
+	pro:int|cuándo=when ?
+%gra:	1|0|ROOT 2|1|JCT 3|4|MOD 4|2|POBJ 5|1|PUNCT
+%com:	piensa
+*CHI:	ah , sí !
+%mor:	co|ah cm|cm co|sí=yes !
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+%cod:	$A:ate
+*CHI:	el coche robado .
+%mor:	det:art|el&m&SG=the n|coche&m=car part|roba-PPART-m=rob .
+%gra:	1|2|DET 2|0|ROOT 3|2|MOD 4|2|PUNCT
+%xsub:	$A
+%cod:	$A:res $O:obj
+*KAR:	jii@i !
+%mor:	co|jii !
+%gra:	1|0|ROOT 2|1|PUNCT
+*KAR:	a_ver , cuéntame del coche robado .
+%mor:	co|a_ver cm|cm imp|conta-2S&IMP~pro:clit|1S=count_tell
+	prep|de~det:art|el&m=of n|coche&m=car part|roba-PPART-m=rob .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|3|OBJ2 5|3|JCT 6|7|DET 7|5|POBJ 8|7|MOD
+	9|1|PUNCT
+*CHI:	es que teníamos un cochecito .
+%mor:	cop|se-3S&PRES=be pro:rel|que=that v|tene-1P&PAS=have
+	det:art|un&m=one n|coche&m-DIM=car .
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|5|DET 5|3|OBJ 6|1|PUNCT
+%cod:	$O:obj $E:pal
+*CHI:	que era robado .
+%mor:	pro:rel|que=that cop|se-13S&PAS=be part|roba-PPART-m=rob .
+%gra:	1|0|ROOT 2|1|CMOD 3|2|PRED 4|1|PUNCT
+%xsub:	$A
+%cod:	$O:gra
+*KAR:	aha@i .
+%mor:	co|aha .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	y luego mi mamá me lleva a comprar unas cosas .
+%mor:	coord|y=and adv|luego=afterwards det:poss|mi=my n|mamá&f=mommy
+	pro:obj|me=me v|lleva-3S&PRES=carry prepart|a=to inf|compra-INF=buy
+	det:art|un-f-PL=one n|cosa&f-PL=thing .
+%gra:	1|0|ROOT 2|4|JCT 3|4|DET 4|1|COORD 5|1|COORD 6|1|COORD 7|6|PRED
+	8|7|COMP 9|10|DET 10|8|OBJ 11|1|PUNCT
+%cod:	$C $O:par
+*CHI:	y luego ya cuando terminamos de comprarlas .
+%mor:	coord|y=and adv|luego=afterwards adv|ya=already conj|cuando=when
+	v|termina-1P&PRES&PRET=end prep|de=of
+	inf|compra-INF~pro:clit|OBJ&f&PL=buy .
+%gra:	1|0|ROOT 2|3|JCT 3|4|JCT 4|1|COORD 5|1|COORD 6|5|JCT 7|6|POBJ 8|7|OBJ2
+	9|1|PUNCT
+%cod:	$O:eve
+*CHI:	ahí está un señor .
+%mor:	adv|ahí=there cop|esta-3S&PRES=be det:art|un&m=one co|señor=sir .
+%gra:	1|2|JCT 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%cod:	$C $O:par
+*CHI:	que es inspector .
+%mor:	pro:rel|que=that cop|se-3S&PRES=be n|inspector&m=inspector .
+%gra:	1|0|ROOT 2|1|CMOD 3|2|PRED 4|1|PUNCT
+%cod:	$O:par
+*KAR:	aha@i .
+%mor:	co|aha .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	y que: dice .
+%mor:	coord|y=and pro:rel|que=that v|deci-3S&PRES=say .
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|1|PUNCT
+%cod:	$C
+*CHI:	que el coche está robado .
+%mor:	pro:rel|que=that det:art|el&m&SG=the n|coche&m=car
+	cop|esta-3S&PRES=be part|roba-PRPART-m=rob .
+%gra:	1|0|ROOT 2|3|DET 3|4|SUBJ 4|1|CMOD 5|4|PRED 6|1|PUNCT
+%xsub:	$A
+%cod:	$O:obj $O:gra
+*CHI:	y luego ya le limpiaron la [/] la placa falsa .
+%mor:	coord|y=and adv|luego=afterwards adv|ya=already pro:ind|le&m=him
+	v|limpia-3P&PRET=clean det:art|el&f&SG=the n|placa&f=old_coin
+	adj|falso-f=false .
+%gra:	1|0|ROOT 2|3|JCT 3|4|JCT 4|1|COORD 5|1|COORD 6|7|DET 7|5|OBJ 8|7|MOD
+	9|1|PUNCT
+%xsub:	$V
+%cod:	$R $E:sup
+*KAR:	aha@i .
+%mor:	co|aha .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	y: este: (..) y luego ya vi(mos) +/.
+%mor:	coord|y=and det:dem|este=this coord|y=and adv|luego=afterwards
+	adv|ya=already v|ve-1P&PRES&PRET=see +/.
+%gra:	1|0|ROOT 2|1|COORD 3|2|CONJ 4|5|JCT 5|6|JCT 6|3|COORD 7|1|COORD
+%cod:	$R
+*CHI:	vimos .
+%mor:	v|ve-1P&PRES&PRET=see .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	que era otro .
+%mor:	pro:rel|que=that cop|se-13S&PAS=be pro:indef|otro-m=other .
+%gra:	1|0|ROOT 2|1|CMOD 3|2|PRED 4|1|PUNCT
+%cod:	$O:obj
+*KAR:	aha@i .
+%mor:	co|aha .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	y allá tenía tres veces usado .
+%mor:	coord|y=and adv|allá=there v|tene-13S&PAS=have det:num|tres=three
+	n|vez&f-PL=turn part|usa-PPART-m=use .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|5|DET 5|3|OBJ 6|5|MOD 7|1|PUNCT
+%cod:	$O:gra
+*KAR:	jii@i !
+%mor:	co|jii !
+%gra:	1|0|ROOT 2|1|PUNCT
+*KAR:	tres veces usado ?
+%mor:	det:num|tres=three n|vez&f-PL=turn part|usa-PPART-m=use ?
+%gra:	1|2|DET 2|0|ROOT 3|2|MOD 4|2|PUNCT
+*CHI:	con la de nosotros cuatro .
+%mor:	prep|con=with det:art|el&f&SG=the prep|de=of
+	pro:sub|nosotro-m-PL=we det:num|cuatro=four .
+%gra:	1|0|ROOT 2|5|DET 3|2|JCT 4|3|POBJ 5|1|POBJ 6|1|PUNCT
+%cod:	$O:gra
+*KAR:	jii@i !
+%mor:	co|jii !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	y un día lo vimos fuera de la agencia .
+%mor:	coord|y=and det:art|un&m=one n|día&m=day pro:obj|le-m=him
+	v|ve-1P&PRES&PRET=see adv|fuera=outside prep|de=of
+	det:art|el&f&SG=the n|agencia&f=agency .
+%gra:	1|0|ROOT 2|3|DET 3|1|COORD 4|3|MOD 5|1|COORD 6|5|JCT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|1|PUNCT
+%cod:	$R $O:tie $O:lug
+*KAR:	ah , sí ?
+%mor:	co|ah cm|cm co|sí=yes ?
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*CHI:	en la esquina .
+%mor:	prep|en=in det:art|el&f&SG=the n|esquina&f=corner .
+%gra:	1|0|ROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+%cod:	$O:lug
+*CHI:	y fuimos cerca del corralón de dos colores de: [//] del de: [//]
+	este: Nissan .
+%mor:	coord|y=and cop|se-1P&PRET=be n|cerca&f=fence
+	prep|de~det:art|el&m=of n|corral&m-AUG=corral prep|de=of
+	det:num|dos=two n|color&m-PL=hue prep|de~det:art|el&m=of
+	det:dem|este=this n:prop|Nissan .
+%gra:	1|0|ROOT 2|1|COORD 3|2|PRED 4|3|JCT 5|6|DET 6|4|POBJ 7|6|JCT 8|9|DET
+	9|7|POBJ 10|9|JCT 11|12|DET 12|10|POBJ 13|12|APP 14|1|PUNCT
+%cod:	$R $O:lug $O:obj
+*KAR:	aha@i .
+%mor:	co|aha .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	y de: Volkswagen .
+%mor:	coord|y=and prep|de=of n:prop|Volkswagen .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+%cod:	$O:obj
+*CHI:	y: lo vimos e:l nuestro .
+%mor:	coord|y=and pro:obj|le-m=him v|ve-1P&PRES&PRET=see
+	det:art|el&m&SG=the pro:poss|nuestro-m=ours .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|5|DET 5|3|OBJ 6|1|PUNCT
+%cod:	$R $O:obj
+*CHI:	que era Nissan .
+%mor:	pro:rel|que=that cop|se-13S&PAS=be n:prop|Nissan .
+%gra:	1|0|ROOT 2|1|CMOD 3|2|PRED 4|1|PUNCT
+%cod:	$O:obj
+*CHI:	lo vimos fuera de la agencia .
+%mor:	pro:obj|le-m=him v|ve-1P&PRES&PRET=see adv|fuera=outside prep|de=of
+	det:art|el&f&SG=the n|agencia&f=agency .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+%cod:	$R $O:obj
+*KAR:	aha@i .
+%mor:	co|aha .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	que este: que estaba en la esquina de mi tía Carmen .
+%mor:	pro:rel|que=that cop|esta-13S&SUB&PRES=be pro:rel|que=that
+	cop|esta-13S&PAS=be prep|en=in det:art|el&f&SG=the
+	n|esquina&f=corner prep|de=of det:poss|mi=my n|tío-f=uncle
+	n:prop|Carmen .
+%gra:	1|0|ROOT 2|1|COMP 3|2|REL 4|3|COMP 5|4|JCT 6|7|DET 7|5|POBJ 8|7|JCT
+	9|10|DET 10|8|POBJ 11|10|MOD 12|1|PUNCT
+%cod:	$O:lug $O:par
+*KAR:	jii@i !
+%mor:	co|jii !
+%gra:	1|0|ROOT 2|1|PUNCT
+*KAR:	ahí en la esquina ?
+%mor:	adv|ahí=there prep|en=in det:art|el&f&SG=the n|esquina&f=corner ?
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*CHI:	mhm@i .
+%mor:	co|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+%com:	afirma
+*KAR:	híjola@i !
+%mor:	co|híjola !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	pero del otro lado .
+%mor:	conj|pero=but prep|de~det:art|el&m=of pro:indef|otro-m=other
+	n|lado&m=side .
+%gra:	1|0|ROOT 2|1|JCT 3|5|DET 4|5|DET 5|2|POBJ 6|1|PUNCT
+%cod:	$O:lug
+*CHI:	porque la agencia está de este lado .
+%mor:	conj|porque=because pro:obj|la-f=she n|agencia&f=agency
+	cop|esta-3S&PRES=be prep|de=of det:dem|este=this n|lado&m=side .
+%gra:	1|3|DET 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+%cod:	$O:lug $O:obj
+%gpx:	coloca la mano izquierda para señalar el lugar
+*CHI:	y el coche estaba de éste .
+%mor:	coord|y=and det:art|el&m&SG=the n|coche&m=car cop|esta-13S&PAS=be
+	prep|de=of pro:dem|éste=this_one .
+%gra:	1|0|ROOT 2|3|DET 3|1|COORD 4|1|COORD 5|4|JCT 6|5|POBJ 7|1|PUNCT
+%cod:	$O:obj $O:lug
+%gpx:	coloca la mano derecha para señalar el lugar
+*KAR:	a:h@i .
+%mor:	co|ah .
+%gra:	1|0|ROOT 2|1|PUNCT
+@New Episode
+*CHI:	ya no me acuerdo !
+%mor:	adv|ya=already adv|no=no pro:obj|me=me v|acorda-1S&PRES=remind !
+%gra:	1|2|JCT 2|3|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*KAR:	ay@i , te tienes que acordar !
+%mor:	co|ay cm|cm pro:obj|te=you v|tene-2S&PRES=have pro:rel|que=that
+	inf|acorda-INF=remind !
+%gra:	1|0|ROOT 2|1|JCT 3|4|OBJ 4|2|POBJ 5|4|REL 6|5|COMP 7|1|PUNCT
+*CHI:	no .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	sólo me acuerdo .
+%mor:	adv|sólo=only pro:obj|me=me v|acorda-1S&PRES=remind .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%xsub:	$V
+%cod:	$A:res $E:emo $E:sup $E:pal
+*CHI:	cuando me fracturé el brazo .
+%mor:	conj|cuando=when pro:obj|me=me v|fractura-1S&PRET=fracture
+	det:art|el&m&SG=the n|brazo&m=arm .
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|5|DET 5|3|OBJ 6|1|PUNCT
+%cod:	$A:res $O:obj
+*KAR:	jii@i !
+%mor:	co|jii !
+%gra:	1|0|ROOT 2|1|PUNCT
+*KAR:	te has fracturado el brazo ?
+%mor:	pro:obj|te=you aux|habe-2S&PRES=have part|fractura-PPART-m=fracture
+	det:art|el&m&SG=the n|brazo&m=arm ?
+%gra:	1|0|ROOT 2|3|AUX 3|1|COMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+*KAR:	a_ver , cuéntame eso .
+%mor:	co|a_ver cm|cm imp|conta-2S&IMP~pro:clit|1S=count_tell
+	pro:dem|eso=that_one .
+%gra:	1|0|ROOT 2|1|JCT 3|5|MOD 4|3|OBJ2 5|2|POBJ 6|1|PUNCT
+*KAR:	cómo estuvo !
+%mor:	pro:int|cómo=how cop|esta-3S&PRET=be !
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	es que me subí a una silla .
+%mor:	cop|se-3S&PRES=be pro:rel|que=that pro:obj|me=me
+	imp|subi-2S&IMP=go_up prepart|a=to det:art|un-f=one n|silla&f=chair
+	.
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|3|COMP 5|4|COMP 6|7|DET 7|5|OBJ 8|1|PUNCT
+%cod:	$C $O:obj
+*KAR:	aha@i .
+%mor:	co|aha .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	y quería agarrar un cereal .
+%mor:	coord|y=and v|quere-13S&PAS=want inf|agarra-INF=grab
+	det:art|un&m=one n|cereal&m=cereal .
+%gra:	1|0|ROOT 2|1|COORD 3|2|COMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+%xsub:	$V
+%cod:	$E:int $O:obj
+*KAR:	jii@i !
+%mor:	co|jii !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	y que en eso que me caigo .
+%mor:	coord|y=and pro:rel|que=that prep|en=in pro:dem|eso=that_one
+	pro:rel|que=that pro:obj|me=me v|cae-1S&PRES=fall .
+%gra:	1|0|CONJ 2|1|COORD 3|2|JCT 4|3|POBJ 5|4|REL 6|5|CMOD 7|6|ROOT 8|7|PUNCT
+%xsub:	$AV
+%cod:	$C
+%gpx:	baja abruptamente los brazos
+*KAR:	sss@i !
+%mor:	co|sss !
+%gra:	1|0|ROOT 2|1|PUNCT
+*KAR:	que te caes , aha@i .
+%mor:	pro:rel|que=that pro:obj|te=you v|cae-2S&PRES=fall cm|cm co|aha .
+%gra:	1|0|ROOT 2|1|CMOD 3|2|COMP 4|5|MOD 5|3|OBJ 6|1|PUNCT
+*KAR:	y luego ?
+%mor:	coord|y=and adv|luego=afterwards ?
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD
+*CHI:	y luego me fracturé el brazo izquierdo .
+%mor:	coord|y=and adv|luego=afterwards pro:obj|me=me
+	v|fractura-1S&PRET=fracture det:art|el&m&SG=the n|brazo&m=arm
+	adj|izquierdo-m=left .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|1|COORD 5|6|DET 6|4|OBJ 7|6|MOD
+	8|1|PUNCT
+%cod:	$C $O:obj
+*KAR:	aha@i .
+%mor:	co|aha .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	y ya me llevaron al hospital .
+%mor:	coord|y=and adv|ya=already pro:obj|me=me v|lleva-3P&PRET=carry
+	prepart|a~det:art|el&m=to n|hospital&m=hospital .
+%gra:	1|0|ROOT 2|3|JCT 3|1|COORD 4|1|COORD 5|4|COMP 6|7|DET 7|5|OBJ 8|1|PUNCT
+%cod:	$R $O:lug
+*CHI:	y dibujé en mi bracito .
+%mor:	coord|y=and v|dibuja-1S&PRET=draw prep|en=in det:poss|mi=my
+	n|brazo&m-DIM=arm .
+%gra:	1|0|ROOT 2|1|COORD 3|2|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+%cod:	$R $O:obj $E:pal
+*KAR:	dibujaste en tu bracito ?
+%mor:	v|dibuja-2S&PRET=draw prep|en=in det:poss|tu=your n|brazo&m-DIM=arm
+	?
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*CHI:	en el yeso .
+%mor:	prep|en=in det:art|el&m&SG=the n|yeso&m=plaster .
+%gra:	1|0|ROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+%cod:	$O:obj
+*KAR:	a:h@i !
+%mor:	co|ah !
+%gra:	1|0|ROOT 2|1|PUNCT
+@New Episode
+*KAR:	oye , nunca has estado en un choque ?
+%mor:	co|oye=listen cm|cm adv|nunca=never aux|habe-2S&PRES=have
+	part|esta-PPART-m=be prep|en=in det:art|un&m=one
+	v|choca-13S&SUB&PRES=collide ?
+%gra:	1|0|ROOT 2|1|COMP 3|5|JCT 4|5|AUX 5|2|PRED 6|5|JCT 7|8|DET 8|6|POBJ
+	9|1|PUNCT
+*CHI:	choque ?
+%mor:	v|choca-13S&SUB&PRES=collide ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	no .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*KAR:	ay@i , qué bueno !
+%mor:	co|ay cm|cm pro:int|qué=what adj|buen-m=good !
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|3|MOD 5|1|PUNCT
+*CHI:	mi [/] mi prima ya chocó una vez .
+%mor:	det:poss|mi=my adj|primo-f=great adv|ya=already
+	v|choca-3S&PRET=collide det:art|un-f=one n|vez&f=turn .
+%gra:	1|4|SUBJ 2|1|MOD 3|4|JCT 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%cod:	$A:res $O:par
+*KAR:	ah , sí ?
+%mor:	co|ah cm|cm co|sí=yes ?
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*KAR:	cómo estuvo eso ?
+%mor:	pro:int|cómo=how cop|esta-3S&PRET=be pro:dem|eso=that_one ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	es que iba manejando .
+%mor:	cop|se-3S&PRES=be pro:rel|que=that v|i-13S&PAS=go
+	part|maneja-PRPART=drive .
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|3|OBJ 5|1|PUNCT
+%cod:	$C
+*KAR:	aha@i .
+%mor:	co|aha .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	este: como era una subida muy grande .
+%mor:	det:dem|este=this adv|como=like cop|se-13S&PAS=be det:art|un-f=one
+	part|subi-PPART-f=go_up adv|muy=very adj|grande=big .
+%gra:	1|3|SUBJ 2|1|JCT 3|0|ROOT 4|5|DET 5|3|PRED 6|7|MOD 7|5|MOD 8|3|PUNCT
+%xsub:	$AV $A
+%cod:	$E:cau $O:obj $E:sup $E:pal
+*CHI:	y no vio .
+%mor:	coord|y=and adv|no=no v|ve-3S&PRET=see .
+%gra:	1|0|ROOT 2|3|JCT 3|1|COORD 4|1|PUNCT
+%cod:	$C $E:neg
+*CHI:	que estaba el alto .
+%mor:	pro:rel|que=that cop|esta-13S&PAS=be det:art|el&m&SG=the
+	adj|alto-m=tall .
+%gra:	1|0|ROOT 2|1|CMOD 3|4|DET 4|2|PRED 5|1|PUNCT
+%cod:	$O:obj
+%gpx:	señala la subida con una mano
+*CHI:	iba subiendo .
+%mor:	v|i-13S&PAS=go part|subi-PRPART=go_up .
+%gra:	1|2|AUX 2|0|ROOT 3|2|PUNCT
+%cod:	$C
+*CHI:	y chocó con una señora .
+%mor:	coord|y=and v|choca-3S&PRET=collide prep|con=with det:art|un-f=one
+	n|señora&f=lady .
+%gra:	1|0|ROOT 2|1|COORD 3|2|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+%cod:	$C $O:par
+*KAR:	híjola@i !
+%mor:	co|híjola !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	y ya !
+%mor:	coord|y=and adv|ya=already !
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD
+%com:	se refiere a que terminó su dibujo
+*KAR:	ya está ?
+%mor:	adv|ya=already cop|esta-3S&PRES=be ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*CHI:	y nos tocó .
+%mor:	coord|y=and pro:obj|nos=us v|toca-3S&PRET=touch .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|1|PUNCT
+%cod:	$R
+*CHI:	y se subió a nuestra casa .
+%mor:	coord|y=and pro:refl|se=itself v|subi-3S&PRET=go_up prepart|a=to
+	pro:poss|nuestro-f=ours n|casa&f=house .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|3|JCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+%cod:	$R $O:lug
+*CHI:	porque estaba cerquita .
+%mor:	conj|porque=because cop|esta-13S&PAS=be n|cerca&f-DIM=fence .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%xsub:	$A
+%cod:	$E:cau $E:pal
+*CHI:	todo está cerquita de nuestra casa .
+%mor:	qn|todo-m=all cop|esta-3S&PRES=be n|cerca&f-DIM=fence prep|de=of
+	det:poss|nuestro-f=our n|casa&f=house .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+%xsub:	$A
+%cod:	$A:cod $E:exa $E:pal $O:obj
+*KAR:	ah , sí ?
+%mor:	co|ah cm|cm co|sí=yes ?
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+@End

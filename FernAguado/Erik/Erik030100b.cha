@@ -1,0 +1,817 @@
+@UTF8
+@PID:	11312/c-00032293-1
+@Begin
+@Languages:	spa
+@Participants:	CHI Erik Target_Child , MOT Clara Mother
+@ID:	spa|FernAguado|CHI|3;01.00||||Target_Child|||
+@ID:	spa|FernAguado|MOT||female|||Mother|||
+@Date:	07-MAY-1999
+@Location:	Pamplona , Navarra , Spain
+@Situation:	CHI narra cuentos a MOT
+*CHI:	un patín .
+%mor:	det:art|un&m=one n|patín&m=skate .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	y qué más hay (.) sabes ?
+%mor:	coord|y=and pro:int|qué=what adv|más=more v|habe-3S&PRES&SPEC=have
+	co|sabes=you_know ?
+%gra:	1|0|ROOT 2|1|COORD 3|4|JCT 4|1|COORD 5|4|PRED 6|1|COORD
+*CHI:	nada .
+%mor:	pro:indef|nada=nothing .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	nada ?
+%mor:	pro:indef|nada=nothing ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	ála (.) pues ya hemos acaba(d)o .
+%mor:	co|ála co|pues=well adv|ya=already aux|habe-1P&PRES=have
+	part|acaba-PPART-m=finish .
+%gra:	1|0|ROOT 2|1|JCT 3|5|JCT 4|5|AUX 5|2|POBJ 6|1|PUNCT
+*CHI:	ya está .
+%mor:	adv|ya=already cop|esta-3S&PRES=be .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*MOT:	y en éste qué hay ?
+%mor:	coord|y=and prep|en=in pro:dem|éste=this_one pro:int|qué=what
+	v|habe-3S&PRES&SPEC=have ?
+%gra:	1|0|ROOT 2|1|JCT 3|5|SUBJ 4|5|OBJ 5|2|POBJ 6|1|COORD
+*CHI:	un niño patinando .
+%mor:	det:art|un&m=one co|niño=child part|patina-PRPART=skate .
+%gra:	1|3|DET 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*MOT:	patinando (.) que suerte .
+%mor:	part|patina-PRPART=skate pro:rel|que=that n|suerte&f=luck .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MOT:	y aquí qué pasa ?
+%mor:	coord|y=and adv|aquí=here pro:int|qué=what v|pasa-3S&PRES=pass ?
+%gra:	1|0|ROOT 2|3|JCT 3|1|COORD 4|1|COORD 5|1|COORD
+*CHI:	0 [*] agua .
+%mor:	imp|agua-2S&IMP=water_down .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	agua ?
+%mor:	imp|agua-2S&IMP=water_down ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	sí .
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	y se caerá el niño al agua ?
+%mor:	coord|y=and pro:refl|se=itself v|cae-3S&FUT=fall
+	det:art|el&m&SG=the n|niño-m=child prepart|a~det:art|el&m=to
+	n|agua&f=water ?
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|5|DET 5|3|OBJ 6|5|MOD 7|8|DET 8|6|OBJ
+	9|1|COORD
+*CHI:	sí .
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	sí y aquí qué ha pasa(d)o ?
+%mor:	co|sí=yes coord|y=and adv|aquí=here pro:int|qué=what
+	aux|habe-3S&PRES=have part|pasa-PPART-m=pass ?
+%gra:	1|0|ROOT 2|1|CONJ 3|2|COORD 4|1|JCT 5|6|AUX 6|4|POBJ 7|1|PUNCT
+*CHI:	0 [*] caído .
+%mor:	part|cae-PPART-m=fall .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	se ha caído ?
+%mor:	pro:refl|se=itself aux|habe-3S&PRES=have part|cae-PPART-m=fall ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*CHI:	sí .
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	y llora el chico ?
+%mor:	coord|y=and v|llora-3S&PRES=cry det:art|el&m&SG=the n|chico-m=child
+	?
+%gra:	1|0|ROOT 2|1|COORD 3|4|DET 4|2|OBJ 5|1|COORD
+*CHI:	no .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	no llora ?
+%mor:	adv|no=no v|llora-3S&PRES=cry ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*CHI:	no llora .
+%mor:	adv|no=no v|llora-3S&PRES=cry .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*CHI:	mira una rana .
+%mor:	co|mira=look det:art|un-f=one n|rana&f=frog .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MOT:	oh (.) una rana has visto .
+%mor:	co|oh=oh det:art|un-f=one n|rana&f=frog aux|habe-2S&PRES=have
+	part|ve-PPART-m=see .
+%gra:	1|0|ROOT 2|3|DET 3|5|SUBJ 4|5|AUX 5|1|OBJ 6|1|PUNCT
+*MOT:	qué es lo que vemos aquí ?
+%mor:	pro:int|qué=what cop|se-3S&PRES=be pro:obj|le-m=him
+	pro:rel|que=that v|ve-1P&PRES=see adv|aquí=here ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|REL 5|4|CMOD 6|5|JCT 7|2|PUNCT
+*CHI:	una granja .
+%mor:	det:art|un-f=one n|granja&f=grange .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	una granja ?
+%mor:	det:art|un-f=one n|granja&f=grange ?
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*CHI:	mira [/] mira se abre .
+%mor:	co|mira=look pro:refl|se=itself v|abri-3S&PRES=open .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*MOT:	se abre la granja .
+%mor:	pro:refl|se=itself v|abri-3S&PRES=open det:art|el&f&SG=the
+	n|granja&f=grange .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	no se .
+%mor:	adv|no=no pro:refl|se=itself .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*MOT:	y aquí qué hay ?
+%mor:	coord|y=and adv|aquí=here pro:int|qué=what v|habe-3S&PRES&SPEC=have
+	?
+%gra:	1|0|ROOT 2|3|JCT 3|1|COORD 4|1|COORD 5|1|COORD
+*CHI:	niños jugando .
+%mor:	n|niño-m-PL=child part|juga-PRPART=play .
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+*MOT:	jugando están los niños ?
+%mor:	part|juga-PRPART=play cop|esta-3P&PRES=be det:art|el&m-PL=the
+	n|niño-m-PL=child ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CHI:	sí .
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	claro (.) vamos a_ver (.) y aquí qué es esto ?
+%mor:	co|claro=obvious co|vamos=go co|a_ver coord|y=and adv|aquí=here
+	pro:int|qué=what cop|se-3S&PRES=be pro:dem|esto=this_one ?
+%gra:	1|7|SUBJ 2|3|MOD 3|7|SUBJ 4|3|CONJ 5|4|COORD 6|7|SUBJ 7|0|ROOT 8|7|PRED
+	9|7|PUNCT
+*CHI:	un cole(gio) .
+%mor:	det:art|un&m=one n|colegio&m=school .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	y éste niño que hace ?
+%mor:	coord|y=and pro:dem|éste=this_one co|niño=child pro:rel|que=that
+	v|hace-3S&PRES=do ?
+%gra:	1|0|ROOT 2|1|COORD 3|2|PRED 4|3|REL 5|4|CMOD 6|1|COORD
+*CHI:	tarea .
+%mor:	n|tarea&f=task .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	tarea sí .
+%mor:	n|tarea&f=task co|sí=yes .
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+*MOT:	a_ver (.) vamos a_ver más cosas .
+%mor:	co|a_ver v|i-1P&PRES=go co|a_ver adv|más=more n|cosa&f-PL=thing .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|MOD 4|5|MOD 5|2|OBJ 6|2|PUNCT
+*MOT:	y ahora aquí qué hacen ?
+%mor:	coord|y=and adv|ahora=now adv|aquí=here pro:int|qué=what
+	v|hace-3P&PRES=do ?
+%gra:	1|0|ROOT 2|3|JCT 3|4|JCT 4|1|COORD 5|1|COORD 6|1|COORD
+*CHI:	tocando el balón .
+%mor:	part|toca-PRPART=touch det:art|el&m&SG=the n|balón&m=ball .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MOT:	están jugando al balón y qué le ha da(d)o éste ?
+%mor:	aux|esta-3P&PRES=be part|juga-PRPART=play prepart|a~det:art|el&m=to
+	n|balón&m=ball coord|y=and pro:int|qué=what pro:ind|le&m=him
+	aux|habe-3S&PRES=have part|da-PPART-m=give pro:dem|éste=this_one ?
+%gra:	1|2|AUX 2|0|ROOT 3|2|COMP 4|5|DET 5|3|OBJ 6|5|CONJ 7|6|COORD 8|10|SUBJ
+	9|10|AUX 10|7|PRED 11|10|OBJ 12|2|PUNCT
+*CHI:	una bota .
+%mor:	det:art|un-f=one n|bota&f=wine_bag .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	con la bota (.) le ha da(d)o (.) una patada ?
+%mor:	prep|con=with det:art|el&f&SG=the n|bota&f=wine_bag
+	pro:ind|le&m=him aux|habe-3S&PRES=have part|da-PPART-m=give
+	det:art|un-f=one n|patada&f=kick ?
+%gra:	1|0|ROOT 2|3|DET 3|1|POBJ 4|3|MOD 5|6|AUX 6|1|POBJ 7|8|DET 8|6|OBJ
+	9|1|PUNCT
+*MOT:	sí .
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	aquí .
+%mor:	adv|aquí=here .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	claro (.) vamos a_ver .
+%mor:	co|claro=obvious co|vamos=go co|a_ver .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*MOT:	y aquí que hacen ?
+%mor:	coord|y=and adv|aquí=here pro:rel|que=that v|hace-3P&PRES=do ?
+%gra:	1|0|ROOT 2|1|COORD 3|2|REL 4|3|CMOD 5|1|COORD
+*CHI:	un chuchu@f .
+%mor:	det:art|un&m=one fam|chuchu .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	un chuchu@f están haciendo ?
+%mor:	det:art|un&m=one fam|chuchu aux|esta-3P&PRES=be part|hace-PRPART=do
+	?
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*CHI:	sí .
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	mamá yo antes 0 [*] haciendo el chuchu@f en el cole(gio) .
+%mor:	n|mamá&f=mommy pro:sub|yo=I adv|antes=before part|hace-PRPART=do
+	det:art|el&m&SG=the fam|chuchu prep|en=in det:art|el&m&SG=the
+	n|colegio&m=school .
+%gra:	1|0|ROOT 2|1|REL 3|4|JCT 4|2|CMOD 5|6|DET 6|4|OBJ 7|6|JCT 8|9|DET
+	9|7|POBJ 10|1|PUNCT
+*CHI:	así mira chuchu@f .
+%mor:	adv|así=thus v|mira-3S&PRES=look fam|chuchu .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	mira !
+%mor:	co|mira=look !
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	qué pasa ?
+%mor:	pro:int|qué=what v|pasa-3S&PRES=pass ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	mira !
+%mor:	co|mira=look !
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	qué le pasa ?
+%mor:	pro:int|qué=what pro:ind|le&m=him v|pasa-3S&PRES=pass ?
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	0 [*] descalzo .
+%mor:	adj|descalzo-m=barefoot .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	está descalzo (.) Dios mío .
+%mor:	cop|esta-3S&PRES=be adj|descalzo-m=barefoot n:prop|Dios
+	pro:poss|mío-m=mine .
+%gra:	1|0|ROOT 2|3|MOD 3|1|PRED 4|3|MOD 5|1|PUNCT
+*CHI:	y é(s)te [*] 0 [*] descalzo .
+%mor:	coord|y=and pro:dem|éste=this_one adj|descalzo-m=barefoot .
+%gra:	1|0|ROOT 2|1|COORD 3|2|MOD 4|1|PUNCT
+*MOT:	sí .
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	vamos a_ver .
+%mor:	co|vamos=go co|a_ver .
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*CHI:	mira .
+%mor:	co|mira=look .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	qué ?
+%mor:	pro:int|qué=what ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	no (.) nada .
+%mor:	adv|no=no v|nada-3S&PRES=swim .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*MOT:	nada ?
+%mor:	pro:indef|nada=nothing ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	algo se verá .
+%mor:	pro:indef|algo=something pro:refl|se=itself v|ve-3S&FUT=see .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	mira .
+%mor:	co|mira=look .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	qué hace ?
+%mor:	pro:int|qué=what v|hace-3S&PRES=do ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	0 [*] pintando .
+%mor:	part|pinta-PRPART=paint .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	y quién le ve ?
+%mor:	coord|y=and pro:int|quién=who pro:ind|le&m=him v|ve-3S&PRES=see ?
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|1|COORD 5|1|COORD
+*CHI:	é(s)te [*] y é(s)te [*] [=! señalando] .
+%mor:	pro:dem|éste=this_one coord|y=and pro:dem|éste=this_one .
+%gra:	1|0|ROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*MOT:	ah (.) bueno pues ya entonces está .
+%mor:	co|ah co|bueno=good co|pues=well adv|ya=already adv|entonces=then
+	cop|esta-3S&PRES=be .
+%gra:	1|6|SUBJ 2|6|SUBJ 3|6|SUBJ 4|5|JCT 5|6|MOD 6|0|ROOT 7|6|PUNCT
+*CHI:	eh (.) mira é(s)te [*] .
+%mor:	co|eh co|mira=look pro:dem|éste=this_one .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*MOT:	qué están haciendo éstos ?
+%mor:	pro:int|qué=what aux|esta-3P&PRES=be part|hace-PRPART=do
+	pro:dem|éste-m-PL=this_one ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	la comida .
+%mor:	det:art|el&f&SG=the n|comida&f=food .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	la comida ?
+%mor:	det:art|el&f&SG=the n|comida&f=food ?
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	y aquí qué hay ?
+%mor:	coord|y=and adv|aquí=here pro:int|qué=what v|habe-3S&PRES&SPEC=have
+	?
+%gra:	1|0|ROOT 2|3|JCT 3|1|COORD 4|1|COORD 5|1|COORD
+*CHI:	un nene .
+%mor:	det:art|un&m=one n|nene&m=child .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	y éste qué hay aquí quién es ?
+%mor:	coord|y=and pro:dem|éste=this_one pro:int|qué=what
+	v|habe-3S&PRES&SPEC=have adv|aquí=here pro:int|quién=who
+	cop|se-3S&PRES=be ?
+%gra:	1|0|ROOT 2|1|COORD 3|7|SUBJ 4|7|SUBJ 5|6|JCT 6|7|SUBJ 7|1|COORD
+	8|1|COORD
+*CHI:	0 [=! señalando] .
+%com:	se dibuja unos bigotes con la mano
+*MOT:	sí [/] sí pero dímelo .
+%mor:	co|sí=yes conj|pero=but
+	imp|deci-2S&IMP~pro:clit|1S~pro:clit|OBJ&m=say .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|3|OBJ2 5|3|OBJ2 6|1|PUNCT
+*CHI:	oye yo no !
+%mor:	co|oye=listen pro:sub|yo=I adv|no=no !
+%gra:	1|0|ROOT 2|1|POBJ 3|2|JCT 4|1|PUNCT
+*MOT:	ah (.) bueno pues no me lo digas .
+%mor:	co|ah co|bueno=good co|pues=well adv|no=no pro:obj|me=me
+	pro:obj|le-m=him v|deci-2S&SUB&PRES=say .
+%gra:	1|7|SUBJ 2|7|SUBJ 3|7|SUBJ 4|5|JCT 5|7|SUBJ 6|7|SUBJ 7|0|ROOT 8|7|PUNCT
+*CHI:	yo no sabo [*] .
+%mor:	pro:sub|yo=I adv|no=no v|sabe-1S&PRES=know .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*MOT:	ah (.) no sabes ?
+%mor:	co|ah adv|no=no v|sabe-2S&PRES=know ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*CHI:	no .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	ahora me entero yo .
+%mor:	adv|ahora=now pro:obj|me=me adj|entero-m=entire pro:sub|yo=I .
+%gra:	1|0|ROOT 2|1|JCT 3|4|MOD 4|2|POBJ 5|1|PUNCT
+*CHI:	oye una niña .
+%mor:	v|oí-3S&PRES=hear det:art|un-f=one co|niña=child .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MOT:	sí ?
+%mor:	co|sí=yes ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	no .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	y aquí quién hay ?
+%mor:	coord|y=and adv|aquí=here pro:int|quién=who
+	v|habe-3S&PRES&SPEC=have ?
+%gra:	1|0|ROOT 2|3|JCT 3|1|COORD 4|1|COORD 5|1|COORD
+*CHI:	el papá .
+%mor:	det:art|el&m&SG=the n|papá&m=father .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	y éste ?
+%mor:	coord|y=and pro:dem|éste=this_one ?
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD
+*CHI:	el niño .
+%mor:	det:art|el&m&SG=the n|niño-m=child .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	y ésta ?
+%mor:	coord|y=and pro:dem|éste-f=this_one ?
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD
+*CHI:	la mamá .
+%mor:	det:art|el&f&SG=the n|mamá&f=mommy .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	y aquí qué hay ?
+%mor:	coord|y=and adv|aquí=here pro:int|qué=what v|habe-3S&PRES&SPEC=have
+	?
+%gra:	1|0|ROOT 2|3|JCT 3|1|COORD 4|1|COORD 5|1|COORD
+*CHI:	0 [*] tanta [*] .
+%mor:	adj|tanto-f=so_much .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	sí ?
+%mor:	co|sí=yes ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	sí y la otra tanta [*] .
+%mor:	co|sí=yes coord|y=and det:art|el&f&SG=the qn|otro-f=other
+	adj|tanto-f=so_much .
+%gra:	1|0|ROOT 2|1|CONJ 3|4|DET 4|2|COORD 5|4|MOD 6|1|PUNCT
+*MOT:	sí ?
+%mor:	co|sí=yes ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	sí (.) tanta [*] .
+%mor:	co|sí=yes adj|tanto-f=so_much .
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+*CHI:	mira é(s)te [*] arriba !
+%mor:	v|mira-3S&PRES=look pro:dem|éste=this_one adv|arriba=above !
+%gra:	1|0|ROOT 2|1|OBJ 3|2|JCT 4|1|PUNCT
+*MOT:	y qué hace ?
+%mor:	coord|y=and pro:int|qué=what v|hace-3S&PRES=do ?
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|1|COORD
+*CHI:	0 [*] cuidando .
+%mor:	part|cuida-PRPART=take_care .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	oye (.) no 0 [*] ríes [*] .
+%mor:	co|oye=listen adv|no=no v|reí-2S&PRES=laugh .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*MOT:	no me río .
+%mor:	adv|no=no pro:obj|me=me v|reí-1S&PRES=laugh .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	cumpleaños .
+%mor:	n|cumpleaño&m-PL=birthday .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	es un cumpleaños y éste chico le ha regalado a la chica algo .
+%mor:	cop|se-3S&PRES=be det:art|un&m=one n|cumpleaño&m-PL=birthday
+	coord|y=and pro:dem|éste=this_one adj|chico-m=small pro:ind|le&m=him
+	aux|habe-3S&PRES=have part|regala-PPART-m=give_present prepart|a=to
+	det:art|el&f&SG=the n|chico-f=child pro:indef|algo=something .
+%gra:	1|0|ROOT 2|3|DET 3|1|PRED 4|3|CONJ 5|4|COORD 6|7|MOD 7|9|SUBJ 8|9|AUX
+	9|5|PRED 10|9|OBJ 11|12|DET 12|10|OBJ 13|12|MOD 14|1|PUNCT
+*CHI:	0 [*] papel +...
+%mor:	n|papel&m=paper +...
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	papel .
+%mor:	n|papel&m=paper .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	+, cortado así ?
+%mor:	part|corta-PPART-m=cut adv|así=thus ?
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*MOT:	sí ?
+%mor:	co|sí=yes ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	no .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	mira é(s)te [*] .
+%mor:	v|mira-3S&PRES=look pro:dem|éste=this_one .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	sí .
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	oye (.) no 0 [*] ríes [*] .
+%mor:	co|oye=listen adv|no=no v|reí-2S&PRES=laugh .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*MOT:	y quién es éste ?
+%mor:	coord|y=and pro:int|quién=who cop|se-3S&PRES=be
+	pro:dem|éste=this_one ?
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|3|PRED 5|1|COORD
+*CHI:	el gato .
+%mor:	det:art|el&m&SG=the n|gato-m=cat .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	ah (.) como me has dicho antes que no sabías tú quién era ?
+%mor:	co|ah adv|como=like pro:obj|me=me aux|habe-2S&PRES=have
+	part|deci-PPART-m=say adv|antes=before pro:rel|que=that adv|no=no
+	v|sabe-2S&PAS=know pro:sub|tú=you pro:int|quién=who
+	cop|se-13S&PAS=be ?
+%gra:	1|0|ROOT 2|1|JCT 3|2|JCT 4|5|AUX 5|3|POBJ 6|5|JCT 7|6|REL 8|9|JCT
+	9|12|SUBJ 10|12|SUBJ 11|12|SUBJ 12|7|CMOD 13|1|PUNCT
+*CHI:	eh (.) mamá (.) ot(r)o [*] cole(gio) .
+%mor:	co|eh n|mamá&f=mommy pro:indef|otro-m=other n|colegio&m=school .
+%gra:	1|2|DET 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	é(s)te [*] 0 [*] bebiendo .
+%mor:	pro:dem|éste=this_one part|bebe-PRPART=drink .
+%gra:	1|2|AUX 2|0|ROOT 3|2|PUNCT
+*MOT:	ah (.) sí .
+%mor:	co|ah co|sí=yes .
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*MOT:	mira (.) y aquí qué han puesto ?
+%mor:	co|mira=look coord|y=and adv|aquí=here pro:int|qué=what
+	aux|habe-3P&PRES=have part|pone-PPART-m=put ?
+%gra:	1|0|ROOT 2|1|CONJ 3|2|COORD 4|1|JCT 5|6|AUX 6|4|POBJ 7|1|PUNCT
+*CHI:	el papel .
+%mor:	det:art|el&m&SG=the n|papel&m=paper .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	el papel (.) pero me parece que se están comiendo la tarta de
+	cumpleaños .
+%mor:	det:art|el&m&SG=the n|papel&m=paper conj|pero=but pro:obj|me=me
+	v|parece-3S&PRES=seem pro:rel|que=that pro:refl|se=itself
+	aux|esta-3P&PRES=be part|come-PRPART=eat det:art|el&f&SG=the
+	n|tarta&f=tart prep|de=of n|cumpleaño&m-PL=birthday .
+%gra:	1|2|DET 2|4|SUBJ 3|2|MOD 4|5|SUBJ 5|0|ROOT 6|5|REL 7|6|COMP 8|9|AUX
+	9|7|COMP 10|11|DET 11|9|OBJ 12|11|JCT 13|12|POBJ 14|5|PUNCT
+*CHI:	po(r) [*] qué ?
+%mor:	prep|por=for pro:int|qué=what ?
+%gra:	1|0|ROOT 2|1|POBJ 3|1|PUNCT
+*MOT:	no ?
+%mor:	adv|no=no ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	sí .
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	yo tengo un cuento antes .
+%mor:	pro:sub|yo=I v|tene-1S&PRES=have det:art|un&m=one n|cuento&m=story
+	adv|antes=before .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|MOD 6|2|PUNCT
+*CHI:	mamá está solito .
+%mor:	n|mamá&f=mommy cop|esta-3S&PRES=be adj|solo-DIM=alone .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	está solito y qué hace ?
+%mor:	cop|esta-3S&PRES=be adj|solo-DIM=alone coord|y=and pro:int|qué=what
+	v|hace-3S&PRES=do ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|CONJ 4|3|COORD 5|4|PRED 6|1|PUNCT
+*MOT:	con qué juega ?
+%mor:	prep|con=with pro:int|qué=what v|juga-3S&PRES=play ?
+%gra:	1|0|ROOT 2|1|POBJ 3|1|POBJ 4|1|PUNCT
+*CHI:	así .
+%mor:	adv|así=thus .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	así .
+%mor:	adv|así=thus .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	y eso ?
+%mor:	coord|y=and pro:dem|eso=that_one ?
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD
+*MOT:	y eso qué ha pasado ahí ?
+%mor:	coord|y=and pro:dem|eso=that_one pro:int|qué=what
+	aux|habe-3S&PRES=have part|pasa-PPART-m=pass adv|ahí=there ?
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|5|AUX 5|1|COORD 6|1|COORD 7|1|COORD
+*CHI:	0 [*] llorando .
+%mor:	part|llora-PRPART=cry .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	está llorando ?
+%mor:	aux|esta-3S&PRES=be part|llora-PRPART=cry ?
+%gra:	1|2|AUX 2|0|ROOT 3|2|PUNCT
+*MOT:	quién llora ?
+%mor:	pro:int|quién=who v|llora-3S&PRES=cry ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*MOT:	yo no veo a nadie .
+%mor:	pro:sub|yo=I adv|no=no v|ve-1S&PRES=see prepart|a=to
+	pro:indef|nadie=nobody .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|INF 5|3|OBJ 6|3|PUNCT
+*CHI:	é(s)te [*] .
+%mor:	pro:dem|éste=this_one .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	y se terminó .
+%mor:	coord|y=and pro:refl|se=itself v|termina-3S&PRET=end .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|1|PUNCT
+*CHI:	mira .
+%mor:	co|mira=look .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	qué hay ?
+%mor:	pro:int|qué=what v|habe-3S&PRES&SPEC=have ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	<un muñeco de nie(ve)> [//] un muñeco de nieve .
+%mor:	det:art|un&m=one n|muñeco-m=doll prep|de=of n|nieve&f=snow .
+%gra:	1|2|DET 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*MOT:	claro (.) y qué más ?
+%mor:	co|claro=obvious coord|y=and pro:int|qué=what adv|más=more ?
+%gra:	1|0|ROOT 2|1|CONJ 3|2|COORD 4|3|JCT 5|1|PUNCT
+*MOT:	ves mas cosas aquí ?
+%mor:	co|ves=see conj|mas=moreover n|cosa&f-PL=thing adv|aquí=here ?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|MOD 5|1|PUNCT
+*CHI:	0 [*] vi(s)to [*] un regalo .
+%mor:	v|vesti-1S&PRES=dress det:art|un&m=one n|regalo&m=present .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MOT:	y qué más ?
+%mor:	coord|y=and pro:int|qué=what adv|más=more ?
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|1|COORD
+*CHI:	he vi(s)to [*] un pio .
+%mor:	aux|habe-1S&PRES=have part|ve-PPART-m=see det:art|un&m=one
+	v|pia-1S&PRES=chirp .
+%gra:	1|2|AUX 2|4|SUBJ 3|4|DET 4|0|ROOT 5|4|PUNCT
+*MOT:	y qué más ?
+%mor:	coord|y=and pro:int|qué=what adv|más=more ?
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|1|COORD
+*CHI:	0 [*] vi(s)to [*] un salmón .
+%mor:	v|vesti-1S&PRES=dress det:art|un&m=one n|salmón&m=salmon .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MOT:	sí y qué más ?
+%mor:	co|sí=yes coord|y=and pro:int|qué=what adv|más=more ?
+%gra:	1|0|ROOT 2|1|CONJ 3|2|COORD 4|3|JCT 5|1|PUNCT
+*CHI:	0 [*] vi(s)to [*] un palo .
+%mor:	v|vesti-1S&PRES=dress det:art|un&m=one n|palo&m=stick .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	espera .
+%mor:	imp|espera-2S&IMP=wait .
+%gra:	1|0|ROOT 2|1|PUNCT
+%com:	pasa de página
+*MOT:	sí (.) que nos cansamos de tanto ver .
+%mor:	co|sí=yes pro:rel|que=that pro:obj|nos=us v|cansa-1P&PRES&PRET=tire
+	prep|de=of adj|tanto-m=so_much inf|ve-INF=see .
+%gra:	1|0|ROOT 2|1|REL 3|4|SUBJ 4|2|CMOD 5|4|JCT 6|7|MOD 7|5|POBJ 8|1|PUNCT
+*CHI:	el trineo .
+%mor:	det:art|el&m&SG=the n|trineo&m=sled .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	el trineo .
+%mor:	det:art|el&m&SG=the n|trineo&m=sled .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*CHI:	mira la escoba .
+%mor:	v|mira-3S&PRES=look det:art|el&f&SG=the n|escoba&f=broom .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MOT:	la escoba .
+%mor:	det:art|el&f&SG=the n|escoba&f=broom .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	qué más ?
+%mor:	pro:int|qué=what adv|más=more ?
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*MOT:	<esto que hay aquí> [//] qué es esto que hay aquí ?
+%mor:	pro:int|qué=what cop|se-3S&PRES=be pro:dem|esto=this_one
+	pro:rel|que=that v|habe-3S&PRES&SPEC=have adv|aquí=here ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|REL 5|4|CMOD 6|5|JCT 7|2|PUNCT
+*CHI:	nieve y esto Navidad .
+%mor:	n|nieve&f=snow coord|y=and pro:dem|esto=this_one n:prop|Navidad .
+%gra:	1|0|ROOT 2|1|CONJ 3|2|COORD 4|3|PRED 5|1|PUNCT
+*CHI:	y é(s)te [*] e(s)tá [*] mirando .
+%mor:	coord|y=and pro:dem|éste=this_one aux|esta-3S&PRES=be
+	part|mira-PRPART=look .
+%gra:	1|0|ROOT 2|1|COORD 3|4|AUX 4|1|COORD 5|1|PUNCT
+*MOT:	ese está mirando y qué mira ?
+%mor:	det:dem|ese=that aux|esta-3S&PRES=be part|mira-PRPART=look
+	coord|y=and pro:int|qué=what v|mira-3S&PRES=look ?
+%gra:	1|3|SUBJ 2|3|AUX 3|6|SUBJ 4|3|CONJ 5|4|COORD 6|0|ROOT 7|6|PUNCT
+*CHI:	a é(s)te [*] .
+%mor:	prepart|a=to pro:dem|éste=this_one .
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+*MOT:	a ese chico .
+%mor:	prepart|a=to det:dem|ese=that n|chico-m=child .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MOT:	que ese chico qué hace ?
+%mor:	pro:rel|que=that det:dem|ese=that n|chico-m=child pro:int|qué=what
+	v|hace-3S&PRES=do ?
+%gra:	1|5|SUBJ 2|5|DET 3|5|SUBJ 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*CHI:	tira bolas de nieve .
+%mor:	v|tira-3S&PRES=throw n|bola&f-PL=ball prep|de=of n|nieve&f=snow .
+%gra:	1|0|ROOT 2|1|OBJ 3|2|JCT 4|3|POBJ 5|1|PUNCT
+*MOT:	bolas de nieve .
+%mor:	n|bola&f-PL=ball prep|de=of n|nieve&f=snow .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*CHI:	eh (.) mira (.) que bonito .
+%mor:	co|eh co|mira=look pro:rel|que=that co|bonito=pretty .
+%gra:	1|0|ROOT 2|1|REL 3|2|REL 4|3|CMOD 5|1|PUNCT
+*MOT:	mira (.) qué más ?
+%mor:	co|mira=look pro:int|qué=what adv|más=more ?
+%gra:	1|0|ROOT 2|1|POBJ 3|2|JCT 4|1|PUNCT
+*CHI:	0 [*] pio .
+%mor:	v|pia-1S&PRES=chirp .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	pio ?
+%mor:	v|pia-1S&PRES=chirp ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	y la nieve .
+%mor:	coord|y=and det:art|el&f&SG=the n|nieve&f=snow .
+%gra:	1|0|ROOT 2|3|DET 3|1|COORD 4|1|PUNCT
+*MOT:	en la nieve .
+%mor:	prep|en=in det:art|el&f&SG=the n|nieve&f=snow .
+%gra:	1|0|ROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*MOT:	y qué hacen ?
+%mor:	coord|y=and pro:int|qué=what v|hace-3P&PRES=do ?
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|1|COORD
+*CHI:	tocando .
+%mor:	part|toca-PRPART=touch .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	0 [*] trineo !
+%mor:	n|trineo&m=sled !
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	trineo ?
+%mor:	n|trineo&m=sled ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	se ha roto o qué ?
+%mor:	pro:refl|se=itself aux|habe-3S&PRES=have part|rompe-PPART-m=break
+	coord|o=or pro:int|qué=what ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|CONJ 5|4|COORD 6|3|PUNCT
+*MOT:	se ha roto ?
+%mor:	pro:refl|se=itself aux|habe-3S&PRES=have part|rompe-PPART-m=break ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*CHI:	sí .
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	del frío se ha roto .
+%mor:	prep|de~det:art|el&m=of n|frío&m=cold pro:refl|se=itself
+	aux|habe-3S&PRES=have part|rompe-PPART-m=break .
+%gra:	1|0|ROOT 2|3|DET 3|1|POBJ 4|3|MOD 5|6|AUX 6|1|POBJ 7|1|PUNCT
+*MOT:	y esto que sale por aquí qué es ?
+%mor:	coord|y=and pro:dem|esto=this_one pro:rel|que=that
+	v|sali-3S&PRES=leave prep|por=for adv|aquí=here pro:int|qué=what
+	cop|se-3S&PRES=be ?
+%gra:	1|0|ROOT 2|1|COORD 3|2|REL 4|3|CMOD 5|4|JCT 6|7|JCT 7|5|POBJ 8|1|COORD
+	9|1|COORD
+*CHI:	humo .
+%mor:	n|humo&m=smoke .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	mira (.) un caballo y tiene Navidad .
+%mor:	v|mira-3S&PRES=look det:art|un&m=one n|caballo&m=horse coord|y=and
+	v|tene-3S&PRES=have n:prop|Navidad .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|CONJ 5|4|COORD 6|5|PRED 7|1|PUNCT
+%com:	señala el pino que lleva el burrito
+*MOT:	ah (.) sí .
+%mor:	co|ah co|sí=yes .
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*CHI:	mira (.) Papa_Noel .
+%mor:	co|mira=look n:prop|Papa_Noel .
+%gra:	1|0|ROOT 2|1|POBJ 3|1|PUNCT
+*MOT:	y éstos quién son ?
+%mor:	coord|y=and pro:dem|éste-m-PL=this_one pro:int|quién=who
+	cop|se-3P&PRES=be ?
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|1|COORD 5|1|COORD
+*CHI:	los ciervos .
+%mor:	det:art|el&m-PL=the n|ciervo&m-PL=deer .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*CHI:	é(s)te [*] es Papa_Noel .
+%mor:	pro:dem|éste=this_one cop|se-3S&PRES=be n:prop|Papa_Noel .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	un xxx roto .
+%mor:	det:art|un&m=one part|rompe-PPART-m=break .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	sí y esto que hay aquí qué es ?
+%mor:	co|sí=yes coord|y=and pro:dem|esto=this_one pro:rel|que=that
+	v|habe-3S&PRES&SPEC=have adv|aquí=here pro:int|qué=what
+	cop|se-3S&PRES=be ?
+%gra:	1|0|ROOT 2|1|CONJ 3|2|COORD 4|3|REL 5|8|SUBJ 6|7|JCT 7|8|SUBJ 8|4|COMP
+	9|1|PUNCT
+*CHI:	0 [*] gato .
+%mor:	n|gato-m=cat .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	y éste ?
+%mor:	coord|y=and pro:dem|éste=this_one ?
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD
+*CHI:	un gato .
+%mor:	det:art|un&m=one n|gato-m=cat .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*CHI:	eh (.) mamá ot(r)o [*] ciervo .
+%mor:	co|eh n|mamá&f=mommy pro:indef|otro-m=other n|ciervo&m=deer .
+%gra:	1|2|DET 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*MOT:	y qué más vemos ?
+%mor:	coord|y=and pro:int|qué=what adv|más=more v|ve-1P&PRES=see ?
+%gra:	1|0|ROOT 2|1|COORD 3|4|JCT 4|1|COORD 5|1|COORD
+*CHI:	yo he visto un pino .
+%mor:	pro:sub|yo=I aux|habe-1S&PRES=have part|ve-PPART-m=see
+	det:art|un&m=one n|pino&m=pine .
+%gra:	1|0|ROOT 2|3|AUX 3|1|COMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+*CHI:	e(s)to [*] [=! señalando] .
+%mor:	pro:dem|esto=this_one .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	qué es eso que no veo bien yo ?
+%mor:	pro:int|qué=what cop|se-3S&PRES=be pro:dem|eso=that_one
+	pro:rel|que=that adv|no=no v|ve-1S&PRES=see adv|bien=well
+	pro:sub|yo=I ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|REL 5|6|JCT 6|4|CMOD 7|8|JCT 8|6|OBJ
+	9|2|PUNCT
+*CHI:	una t(r)ompeta [*] .
+%mor:	det:art|un-f=one n|trompa&f-DIM=horn .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	y qué toca éste chico ?
+%mor:	coord|y=and pro:int|qué=what v|toca-3S&PRES=touch
+	pro:dem|éste=this_one adj|chico-m=small ?
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|3|PRED 5|4|MOD 6|1|COORD
+*CHI:	ot(r)a [*] .
+%mor:	qn|otro-f=other .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	ah (.) que no sabía yo lo que tocaba .
+%mor:	co|ah pro:rel|que=that adv|no=no v|sabe-13S&PAS=know pro:sub|yo=I
+	pro:obj|le-m=him pro:rel|que=that v|toca-13S&PAS=touch .
+%gra:	1|0|ROOT 2|1|REL 3|4|JCT 4|2|CMOD 5|4|JCT 6|5|POBJ 7|6|REL 8|7|CMOD
+	9|1|PUNCT
+*MOT:	ahí va (.) aquí qué hay ?
+%mor:	adv|ahí=there v|i-3S&PRES=go adv|aquí=here pro:int|qué=what
+	v|habe-3S&PRES&SPEC=have ?
+%gra:	1|2|JCT 2|5|SUBJ 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*CHI:	un muñeco .
+%mor:	det:art|un&m=one n|muñeco-m=doll .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	un muñeco ?
+%mor:	det:art|un&m=one n|muñeco-m=doll ?
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	yo veo muchas casa y tú ?
+%mor:	pro:sub|yo=I v|ve-1S&PRES=see qn|mucho-f-PL=many n|casa&f=house
+	coord|y=and pro:sub|tú=you ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|CONJ 6|5|COORD 7|2|PUNCT
+*CHI:	muchas casas .
+%mor:	qn|mucho-f-PL=many n|casa&f-PL=house .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*CHI:	y yo he vi(s)to [*] un pino allí .
+%mor:	coord|y=and pro:sub|yo=I aux|habe-1S&PRES=have part|ve-PPART-m=see
+	det:art|un&m=one n|pino&m=pine adv|allí=there .
+%gra:	1|0|ROOT 2|1|COORD 3|4|AUX 4|1|COORD 5|6|DET 6|1|COORD 7|1|COORD
+	8|1|PUNCT
+*CHI:	ha abie(r)to [*] la ventana .
+%mor:	aux|habe-3S&PRES=have part|abri-PPART-m=open det:art|el&f&SG=the
+	n|ventana&f=window .
+%gra:	1|2|AUX 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	yo he vi(s)to [*] ot(r)o [*] pino .
+%mor:	pro:sub|yo=I aux|habe-1S&PRES=have part|ve-PPART-m=see
+	pro:indef|otro-m=other n|pino&m=pine .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*MOT:	claro (.) como han abierto la ventana .
+%mor:	co|claro=obvious adv|como=like aux|habe-3P&PRES=have
+	part|abri-PPART-m=open det:art|el&f&SG=the n|ventana&f=window .
+%gra:	1|4|SUBJ 2|1|JCT 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*MOT:	y estas cosas qué hay por aquí que son ?
+%mor:	coord|y=and det:dem|este-f-PL=this n|cosa&f-PL=thing
+	pro:int|qué=what v|habe-3S&PRES&SPEC=have prep|por=for adv|aquí=here
+	pro:rel|que=that cop|se-3P&PRES=be ?
+%gra:	1|0|ROOT 2|3|DET 3|1|COORD 4|3|MOD 5|1|COORD 6|5|JCT 7|6|POBJ 8|7|REL
+	9|8|CMOD 10|1|COORD
+*CHI:	nadie [*] .
+%mor:	pro:indef|nadie=nobody .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	nadie ?
+%mor:	pro:indef|nadie=nobody ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	nadie .
+%mor:	pro:indef|nadie=nobody .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	colorín .
+%mor:	n|color&m-AUG=hue .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	pero aún veo aquí más cosas eh ?
+%mor:	conj|pero=but adv|aún=notwithstanding v|ve-1S&PRES=see
+	adv|aquí=here adv|más=more n|cosa&f-PL=thing co|eh ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|6|JCT 5|6|MOD 6|3|OBJ 7|6|MOD 8|3|PUNCT
+*CHI:	y yo .
+%mor:	coord|y=and pro:sub|yo=I .
+%gra:	1|0|ROOT 2|1|COORD 3|1|PUNCT
+*MOT:	a_ver qué es esto que vemos aquí ?
+%mor:	co|a_ver pro:int|qué=what cop|se-3S&PRES=be pro:dem|esto=this_one
+	pro:rel|que=that v|ve-1P&PRES=see adv|aquí=here ?
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|REL 6|5|CMOD 7|6|JCT 8|3|PUNCT
+*CHI:	humo .
+%mor:	n|humo&m=smoke .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	yo tengo un cuento g(r)ande [*] en mi cua(r)to [*] .
+%mor:	pro:sub|yo=I v|tene-1S&PRES=have det:art|un&m=one n|cuento&m=story
+	adj|grande=big prep|en=in det:poss|mi=my n|cuarto&m=quarter .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|MOD 6|4|JCT 7|8|DET 8|6|POBJ
+	9|2|PUNCT
+*CHI:	qué ?
+%mor:	pro:int|qué=what ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	qué ?
+%mor:	pro:int|qué=what ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	nada .
+%mor:	pro:indef|nada=nothing .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	eh (.) mamá ya se como he llega(d)o antes .
+%mor:	co|eh n|mamá&f=mommy adv|ya=already pro:refl|se=itself
+	adv|como=like aux|habe-1S&PRES=have part|llega-PPART-m=arrive
+	adv|antes=before .
+%gra:	1|2|DET 2|0|ROOT 3|2|JCT 4|2|JCT 5|7|JCT 6|7|AUX 7|4|POBJ 8|7|JCT
+	9|2|PUNCT
+*MOT:	de qué ?
+%mor:	prep|de=of pro:int|qué=what ?
+%gra:	1|0|ROOT 2|1|POBJ 3|1|PUNCT
+*CHI:	mamá yo tengo un cuento así de g(r)ande [*] .
+%mor:	n|mamá&f=mommy pro:sub|yo=I v|tene-1S&PRES=have det:art|un&m=one
+	n|cuento&m=story adv|así=thus prep|de=of adj|grande=big .
+%gra:	1|3|SUBJ 2|1|MOD 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|JCT 7|6|JCT 8|7|POBJ
+	9|3|PUNCT
+@End

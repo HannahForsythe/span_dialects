@@ -1,0 +1,408 @@
+@UTF8
+@PID:	11312/c-00032592-1
+@Begin
+@Languages:	spa
+@Participants:	KAR Karina Adult , CHI Juan_Carlos Target_Child
+@ID:	spa|Hess|KAR|||||Adult|||
+@ID:	spa|Hess|CHI|6;09.18||||Target_Child|||
+@Date:	19-MAY-1999
+@Comment:	Education of CHI is primero , pública
+@Transcriber:	Karina Hess
+@Situation:	Tarea C (juicio sobre estructura narrativa)
+@Comment:	KAR lee las dos narraciones en dos ocasiones
+*KAR:	quién ganó ?
+%mor:	pro:int|quién=who v|gana-3S&PRET=win ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	el: rojo !
+%mor:	det:art|el&m&SG=the adj|rojo-m=red !
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*KAR:	la roja ?
+%mor:	det:art|el&f&SG=the adj|rojo-f=red ?
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*KAR:	porqué ?
+%mor:	pro:int|porqué=why ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	porque: (.) porque: (.) por la águila .
+%mor:	conj|porque=because conj|porque=because prep|por=for
+	det:art|el&f&SG=the n|águila&f=eagle .
+%gra:	1|0|ROOT 2|1|SCL 3|2|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+*KAR:	por el águila ?
+%mor:	prep|por=for det:art|el&m&SG=the n|águila&f=eagle ?
+%gra:	1|0|ROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*KAR:	qué dijo ella ?
+%mor:	pro:int|qué=what v|deci-3S&PRET=say pro:sub|ello-f=he ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	que: una ardilla se metió a un a(g)ujero .
+%mor:	pro:rel|que=that det:art|un-f=one n|ardilla&f=squirrel
+	pro:refl|se=itself v|mete-3S&PRET=put prepart|a=to det:art|un&m=one
+	n|agujero&m=hole .
+%gra:	1|0|ROOT 2|3|DET 3|5|SUBJ 4|3|MOD 5|1|COMP 6|5|COMP 7|8|DET 8|6|OBJ
+	9|1|PUNCT
+*KAR:	aha@i .
+%mor:	co|aha .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	se subió rápido al árbol .
+%mor:	pro:refl|se=itself v|subi-3S&PRET=go_up adj|rápido-m=rapid
+	prepart|a~det:art|el&m=to n|árbol&m=tree .
+%gra:	1|0|ROOT 2|1|CMOD 3|4|MOD 4|2|OBJ 5|6|DET 6|4|OBJ 7|1|PUNCT
+*KAR:	aha@i .
+%mor:	co|aha .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	y: se metió <a otro> [//] a:l: agujero .
+%mor:	coord|y=and pro:refl|se=itself v|mete-3S&PRET=put
+	prepart|a~det:art|el&m=to n|agujero&m=hole .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|3|COMP 5|6|DET 6|4|OBJ 7|1|PUNCT
+*KAR:	aha@i .
+%mor:	co|aha .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	y comió .
+%mor:	coord|y=and v|come-3S&PRET=eat .
+%gra:	1|0|ROOT 2|1|COORD 3|1|PUNCT
+*KAR:	y ella qué dijo ?
+%mor:	coord|y=and pro:sub|ello-f=he pro:int|qué=what v|deci-3S&PRET=say ?
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|1|COORD 5|1|COORD
+%act:	levanta a la amarilla
+*CHI:	que es(te) (..) que una ardilla por el árbol .
+%mor:	pro:rel|que=that cop|esta-13S&SUB&PRES=be prep|que=than
+	det:art|un-f=one n|ardilla&f=squirrel prep|por=for
+	det:art|el&m&SG=the n|árbol&m=tree .
+%gra:	1|0|ROOT 2|1|COMP 3|2|JCT 4|5|DET 5|3|POBJ 6|5|JCT 7|8|DET 8|6|POBJ
+	9|1|PUNCT
+*CHI:	que estaba una águila arriba .
+%mor:	pro:rel|que=that cop|esta-13S&PAS=be det:art|un-f=one
+	n|águila&f=eagle adv|arriba=above .
+%gra:	1|0|ROOT 2|1|CMOD 3|4|DET 4|2|PRED 5|4|JCT 6|1|PUNCT
+*KAR:	aha@i .
+%mor:	co|aha .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	y tenía hambre la ardilla .
+%mor:	coord|y=and v|tene-13S&PAS=have n|hambre&f=hunger
+	det:art|el&f&SG=the n|ardilla&f=squirrel .
+%gra:	1|0|ROOT 2|1|COORD 3|2|OBJ 4|5|DET 5|3|OBJ 6|1|PUNCT
+*KAR:	aha@i .
+%mor:	co|aha .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	y [/] y como la águila no se podía subir a los árboles ni a los
+	agujeros .
+%mor:	coord|y=and adv|como=like det:art|el&f&SG=the n|águila&f=eagle
+	adv|no=no pro:refl|se=itself v|pode-13S&PAS=can inf|subi-INF=go_up
+	prepart|a=to det:art|el&m-PL=the n|árbol&m-PL=tree coord|ni=nor
+	prepart|a=to det:art|el&m-PL=the n|agujero&m-PL=hole .
+%gra:	1|0|ROOT 2|7|JCT 3|4|DET 4|7|SUBJ 5|6|JCT 6|7|SUBJ 7|1|COORD 8|7|COMP
+	9|8|COMP 10|11|DET 11|9|OBJ 12|11|CONJ 13|12|COORD 14|15|DET 15|11|MOD
+	16|1|PUNCT
+*CHI:	ahí se metió la ardilla .
+%mor:	adv|ahí=there pro:refl|se=itself v|mete-3S&PRET=put
+	det:art|el&f&SG=the n|ardilla&f=squirrel .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*KAR:	aha@i .
+%mor:	co|aha .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	y ahí .
+%mor:	coord|y=and adv|ahí=there .
+%gra:	1|0|ROOT 2|1|COORD 3|1|PUNCT
+*KAR:	aha@i ?
+%mor:	co|aha ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*KAR:	entonces quién ganó ?
+%mor:	adv|entonces=then pro:int|quién=who v|gana-3S&PRET=win ?
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	0 .
+%act:	señala la amarilla
+*KAR:	a:h@i !
+%mor:	co|ah !
+%gra:	1|0|ROOT 2|1|PUNCT
+*KAR:	hace un rato me dijiste que ésta !
+%mor:	v|hace-3S&PRES=do det:art|un&m=one n|rato&m=time pro:obj|me=me
+	v|deci-2S&PRET=say pro:rel|que=that pro:dem|éste-f=this_one !
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|MOD 5|4|CMOD 6|5|REL 7|6|CMOD 8|1|PUNCT
+*CHI:	mhm@i .
+%mor:	co|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+%act:	se ríe
+*KAR:	<quién la> [/] quién la contó más bonita ?
+%mor:	pro:int|quién=who pro:obj|la-f=she v|conta-3S&PRET=count_tell
+	adv|más=more co|bonita=pretty ?
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|5|MOD 5|3|OBJ 6|1|PUNCT
+*CHI:	0 .
+%xjui:	$PR
+%act:	señala la amarilla
+*KAR:	la amarilla .
+%mor:	det:art|el&f&SG=the adj|amarillo-f=yellow .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*KAR:	sí: .
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*KAR:	<porqué> [/] porqué fue más bonita su historia ?
+%mor:	pro:int|porqué=why v|i-3S&PRET=go adv|más=more co|bonita=pretty
+	det:poss|su&3S=his n|historia&f=story ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|PRED 5|6|DET 6|4|OBJ 7|2|PUNCT
+*CHI:	porque (..) por la águila y la ardilla .
+%mor:	conj|porque=because prep|por=for det:art|el&f&SG=the
+	n|águila&f=eagle coord|y=and det:art|el&f&SG=the
+	n|ardilla&f=squirrel .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|4|CONJ 6|7|DET 7|5|COORD 8|1|PUNCT
+*KAR:	pero ella también dijo del águila y la ardilla .
+%mor:	conj|pero=but pro:sub|ello-f=he adv|también=also v|deci-3S&PRET=say
+	prep|de~det:art|el&m=of n|águila&f=eagle coord|y=and
+	det:art|el&f&SG=the n|ardilla&f=squirrel .
+%gra:	1|0|ROOT 2|1|JCT 3|4|JCT 4|2|POBJ 5|4|JCT 6|7|DET 7|5|POBJ 8|7|CONJ
+	9|10|DET 10|8|COORD 11|1|PUNCT
+*CHI:	ah (en)tonces las dos .
+%mor:	co|ah adv|entonces=then det:art|el&f-PL=the det:num|dos=two .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*KAR:	las dos se trataban de un águila y una ardilla , no ?
+%mor:	det:art|el&f-PL=the det:num|dos=two pro:refl|se=itself
+	v|trata-3P&PAS=treat prep|de=of det:art|un&m=one n|águila&f=eagle
+	coord|y=and det:art|un-f=one n|ardilla&f=squirrel cm|cm co|no ?
+%gra:	1|2|DET 2|4|SUBJ 3|2|APP 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|7|CONJ
+	9|10|DET 10|8|COORD 11|10|MOD 12|10|MOD 13|4|PUNCT
+*CHI:	0 .
+%act:	asiente
+*KAR:	las dos platicaron la misma historia , no ?
+%mor:	det:art|el&f-PL=the det:num|dos=two v|platica-3P&PRET=talk
+	det:art|el&f&SG=the adj|mismo-f=same n|historia&f=story cm|cm co|no
+	?
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|6|MOD 8|6|MOD
+	9|3|PUNCT
+*CHI:	0 .
+%act:	asiente
+*KAR:	de un águila y una ardilla .
+%mor:	prep|de=of det:art|un&m=one n|águila&f=eagle coord|y=and
+	det:art|un-f=one n|ardilla&f=squirrel .
+%gra:	1|0|ROOT 2|3|DET 3|1|POBJ 4|3|CONJ 5|6|DET 6|4|COORD 7|1|PUNCT
+*KAR:	pero la contaron de manera diferente , no ?
+%mor:	conj|pero=but pro:obj|la-f=she v|conta-3P&PRET=count_tell
+	prep|de=of n|manera&f=manner adj|diferente=different cm|cm co|no ?
+%gra:	1|0|ROOT 2|3|JCT 3|1|POBJ 4|3|JCT 5|4|POBJ 6|7|MOD 7|8|AUX 8|5|MOD
+	9|1|PUNCT
+*CHI:	0 .
+%act:	asiente
+*KAR:	en qué fue diferente ?
+%mor:	prep|en=in pro:int|qué=what v|i-3S&PRET=go adj|diferente=different
+	?
+%gra:	1|0|ROOT 2|1|POBJ 3|1|POBJ 4|3|MOD 5|1|PUNCT
+*CHI:	es que: (..) en que (..) es que: contaron cuentos bonitos .
+%mor:	cop|se-3S&PRES=be pro:rel|que=that prep|en=in pro:rel|que=that
+	cop|se-3S&PRES=be pro:rel|que=that v|conta-3P&PRET=count_tell
+	n|cuento&m-PL=story adj|bonito-m-PL=pretty .
+%gra:	1|0|ROOT 2|1|REL 3|2|COMP 4|3|REL 5|4|CMOD 6|5|REL 7|6|CMOD 8|7|OBJ
+	9|8|MOD 10|1|PUNCT
+*KAR:	cuál cuento fue más bonito ?
+%mor:	pro:int|cuál=which n|cuento&m=story v|i-3S&PRET=go adv|más=more
+	adj|bonito-m=pretty ?
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|PRED 6|3|PUNCT
+*CHI:	0 .
+%act:	señala la amarilla
+*KAR:	éste .
+%mor:	pro:dem|éste=this_one .
+%gra:	1|0|ROOT 2|1|PUNCT
+*KAR:	porqué fue más bonito ?
+%mor:	pro:int|porqué=why v|i-3S&PRET=go adv|más=more adj|bonito-m=pretty
+	?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|PRED 5|2|PUNCT
+*CHI:	por la [= el] águila y la ardilla .
+%mor:	prep|por=for det:art|el&f&SG=the n|águila&f=eagle coord|y=and
+	det:art|el&f&SG=the n|ardilla&f=squirrel .
+%gra:	1|0|ROOT 2|3|DET 3|1|POBJ 4|3|CONJ 5|6|DET 6|4|COORD 7|1|PUNCT
+*KAR:	ah sí ?
+%mor:	co|ah co|sí=yes ?
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*KAR:	por el águila y la ardilla ?
+%mor:	prep|por=for det:art|el&m&SG=the n|águila&f=eagle coord|y=and
+	det:art|el&f&SG=the n|ardilla&f=squirrel ?
+%gra:	1|0|ROOT 2|3|DET 3|1|POBJ 4|3|CONJ 5|6|DET 6|4|COORD 7|1|PUNCT
+*KAR:	nada más por +/?
+%mor:	pro:indef|nada=nothing adv|más=more prep|por=for +/?
+%gra:	1|0|ROOT 2|1|JCT 3|2|JCT 4|3|POBJ
+*CHI:	y el bosque .
+%mor:	coord|y=and det:art|el&m&SG=the n|bosque&m=forest .
+%gra:	1|0|ROOT 2|3|DET 3|1|COORD 4|1|PUNCT
+*KAR:	y el bosque .
+%mor:	coord|y=and det:art|el&m&SG=the n|bosque&m=forest .
+%gra:	1|0|ROOT 2|3|DET 3|1|COORD 4|1|PUNCT
+*KAR:	pero ella también dijo eso !
+%mor:	conj|pero=but pro:sub|ello-f=he adv|también=also v|deci-3S&PRET=say
+	pro:dem|eso=that_one !
+%gra:	1|4|SUBJ 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%act:	levanta a la roja
+*CHI:	las dos .
+%mor:	det:art|el&f-PL=the det:num|dos=two .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*KAR:	pero tú dices .
+%mor:	conj|pero=but pro:sub|tú=you v|deci-2S&PRES=say .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*KAR:	que fue más bonita su historia .
+%mor:	pro:rel|que=that v|i-3S&PRET=go adv|más=more co|bonita=pretty
+	det:poss|su&3S=his n|historia&f=story .
+%gra:	1|0|ROOT 2|1|CMOD 3|4|MOD 4|2|COMP 5|6|DET 6|4|OBJ 7|1|PUNCT
+%act:	levanta a la amarilla
+*KAR:	no sabes porqué ?
+%mor:	adv|no=no v|sabe-2S&PRES=know pro:int|porqué=why ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	0 .
+*KAR:	ah , pues tú dime .
+%mor:	co|ah cm|cm co|pues=well pro:sub|tú=you
+	imp|deci-2S&IMP~pro:clit|1S=say .
+%gra:	1|0|ROOT 2|1|REL 3|2|PRED 4|3|JCT 5|4|POBJ 6|5|OBJ2 7|1|PUNCT
+*KAR:	yo creo .
+%mor:	pro:sub|yo=I v|cree-1S&PRES=believe .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*KAR:	que sí sabes .
+%mor:	pro:rel|que=that co|sí=yes v|sabe-2S&PRES=know .
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|CMOD 4|1|PUNCT
+*KAR:	enton(ce)s por fin quién gana ?
+%mor:	adv|entonces=then prep|por=for n|fin&m=end pro:int|quién=who
+	v|gana-3S&PRES=win ?
+%gra:	1|5|JCT 2|1|JCT 3|2|POBJ 4|3|MOD 5|0|ROOT 6|5|PUNCT
+*CHI:	las dos .
+%mor:	det:art|el&f-PL=the det:num|dos=two .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*KAR:	que empaten ?
+%mor:	pro:rel|que=that v|empata-3P&SUB&PRES=tie_with ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	0 .
+%act:	asiente
+*KAR:	de plano quieres .
+%mor:	prep|de=of n|plano&m=map v|quere-2S&PRES=want .
+%gra:	1|0|ROOT 2|1|POBJ 3|1|POBJ 4|1|PUNCT
+*KAR:	que empaten ?
+%mor:	pro:rel|que=that v|empata-3P&SUB&PRES=tie_with ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	0 .
+%act:	asiente
+*KAR:	<porqué> [/] porqué quieres .
+%mor:	pro:int|porqué=why v|quere-2S&PRES=want .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*KAR:	que empaten ?
+%mor:	pro:rel|que=that v|empata-3P&SUB&PRES=tie_with ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	porque: me gustó su historia .
+%mor:	conj|porque=because pro:obj|me=me v|gusta-3S&PRET=like
+	det:poss|su&3S=his n|historia&f=story .
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|5|DET 5|3|OBJ 6|1|PUNCT
+*KAR:	de las dos ?
+%mor:	prep|de=of det:art|el&f-PL=the det:num|dos=two ?
+%gra:	1|0|ROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*CHI:	0 .
+%act:	asiente
+*KAR:	las historias de las dos fueron igualitas ?
+%mor:	det:art|el&f-PL=the n|historia&f-PL=story prep|de=of
+	det:art|el&f-PL=the det:num|dos=two cop|se-3P&PRET=be
+	adj|igual-DIM-PL=equal ?
+%gra:	1|2|DET 2|6|SUBJ 3|2|JCT 4|5|DET 5|3|POBJ 6|0|ROOT 7|6|PRED 8|6|PUNCT
+*CHI:	aha@i .
+%mor:	co|aha .
+%gra:	1|0|ROOT 2|1|PUNCT
+*KAR:	no es cierto .
+%mor:	adv|no=no cop|se-3S&PRES=be adj|cierto-m=certain .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*KAR:	la contaron de manera diferente .
+%mor:	det:art|el&f&SG=the v|conta-3P&PRET=count_tell prep|de=of
+	n|manera&f=manner adj|diferente=different .
+%gra:	1|2|DET 2|0|ROOT 3|2|JCT 4|3|POBJ 5|4|MOD 6|2|PUNCT
+*KAR:	una tie(ne) +/.
+%mor:	det:art|un-f=one v|tene-3S&PRES=have +/.
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*KAR:	tiene que ganar una a fuerza .
+%mor:	v|tene-3S&PRES=have pro:rel|que=that inf|gana-INF=win
+	det:art|un-f=one prepart|a=to n|fuerza&f=force .
+%gra:	1|0|ROOT 2|1|REL 3|2|COMP 4|6|DET 5|6|DET 6|3|OBJ 7|1|PUNCT
+*KAR:	cuál [//] <cuál tú> [//] cuál piensas tú .
+%mor:	pro:int|cuál=which v|pensa-2S&PRES=think pro:sub|tú=you .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*KAR:	<que ga(nó)> [//] que la contó un poquito más bonita ?
+%mor:	prep|que=than det:art|el&f&SG=the v|conta-3S&PRET=count_tell
+	det:art|un&m=one pro:indef|poquito=little adv|más=more
+	co|bonita=pretty ?
+%gra:	1|0|ROOT 2|3|DET 3|1|POBJ 4|5|DET 5|7|MOD 6|7|MOD 7|1|POBJ 8|1|PUNCT
+*CHI:	0 .
+%act:	señala la amarilla
+*KAR:	ella .
+%mor:	pro:sub|ello-f=he .
+%gra:	1|0|ROOT 2|1|PUNCT
+*KAR:	sí .
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*KAR:	ya me habías dicho que ella .
+%mor:	adv|ya=already pro:obj|me=me v|habe-2S&PAS=have
+	part|deci-PPART-m=say pro:rel|que=that pro:sub|ello-f=he .
+%gra:	1|2|JCT 2|0|ROOT 3|2|CMOD 4|3|OBJ 5|4|REL 6|5|CMOD 7|2|PUNCT
+*KAR:	muy bien .
+%mor:	adv|muy=very adv|bien=well .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*KAR:	y porqué fue más bonita ?
+%mor:	coord|y=and pro:int|porqué=why v|i-3S&PRET=go adv|más=more
+	co|bonita=pretty ?
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|5|MOD 5|3|PRED 6|1|COORD
+*KAR:	dile a ella .
+%mor:	imp|deci-2S&IMP~pro:clit|3S=say prepart|a=to pro:sub|ello-f=he .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|JCT 4|3|POBJ 5|1|PUNCT
+*KAR:	porqué perdió .
+%mor:	pro:int|porqué=why v|perde-3S&PRET=lose .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%act:	levanta la roja
+*CHI:	po:r (..) no dijo del bosque .
+%mor:	prep|por=for adv|no=no v|deci-3S&PRET=say prep|de~det:art|el&m=of
+	n|bosque&m=forest .
+%gra:	1|0|ROOT 2|3|JCT 3|1|POBJ 4|3|JCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+*KAR:	no dijo del bosque ?
+%mor:	adv|no=no v|deci-3S&PRET=say prep|de~det:art|el&m=of
+	n|bosque&m=forest ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*CHI:	0 .
+%act:	afirma
+*KAR:	y qué más le faltó ?
+%mor:	coord|y=and pro:int|qué=what adv|más=more pro:ind|le&m=him
+	v|falta-3S&PRET=be_lacking ?
+%gra:	1|0|ROOT 2|1|COORD 3|4|MOD 4|1|COORD 5|1|COORD 6|1|COORD
+*CHI:	e:h@i (.) del cielo .
+%mor:	co|eh prep|de~det:art|el&m=of n|cielo&m=sky .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+%xjui:	$C:fal
+*KAR:	del cielo ?
+%mor:	prep|de~det:art|el&m=of n|cielo&m=sky ?
+%gra:	1|0|ROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*KAR:	no habló del cielo ?
+%mor:	adv|no=no v|habla-3S&PRET=speak prep|de~det:art|el&m=of
+	n|cielo&m=sky ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*CHI:	ésta .
+%mor:	pro:dem|éste-f=this_one .
+%gra:	1|0|ROOT 2|1|PUNCT
+%act:	señala la otra muñeca
+*KAR:	y ésta sí hablo del cielo ?
+%mor:	coord|y=and pro:dem|éste-f=this_one co|sí=yes v|habla-1S&PRES=speak
+	prep|de~det:art|el&m=of n|cielo&m=sky ?
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|1|COORD 5|4|JCT 6|7|DET 7|5|POBJ
+	8|1|COORD
+*CHI:	0 .
+%act:	afirma
+*KAR:	mhm@i .
+%mor:	co|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*KAR:	algo más ?
+%mor:	pro:indef|algo=something adv|más=more ?
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*CHI:	0 .
+%act:	niega
+*KAR:	no ?
+%mor:	adv|no=no ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*KAR:	ya no ?
+%mor:	adv|ya=already adv|no=no ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*KAR:	nada más por eso ?
+%mor:	pro:indef|nada=nothing adv|más=more prep|por=for
+	pro:dem|eso=that_one ?
+%gra:	1|0|ROOT 2|1|JCT 3|2|JCT 4|3|POBJ 5|1|PUNCT
+*CHI:	0 .
+%act:	afirma
+*KAR:	muy bien .
+%mor:	adv|muy=very adv|bien=well .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*KAR:	enton(ce)s dale su premio a ella .
+%mor:	co|entonces co|dale det:poss|su&3S=his n|premio&m=reward
+	prepart|a=to pro:sub|ello-f=he .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|4|MOD 6|4|MOD 7|1|PUNCT
+@End

@@ -1,0 +1,772 @@
+@UTF8
+@PID:	11312/c-00032298-1
+@Begin
+@Languages:	spa
+@Participants:	FER Fermín Target_Child , JAI Jaime Target_Child , INV
+	Marta Investigator
+@ID:	spa|FernAguado|FER|2;11.24||||Target_Child|||
+@ID:	spa|FernAguado|JAI|3;01.12||||Target_Child|||
+@ID:	spa|FernAguado|INV|||||Investigator|||
+@Date:	21-NOV-1997
+@Location:	Pamplona , Navarra , Spain
+@Situation:	FER y JAI juegan con el barco pirata
+*INV:	y qué más ?
+%mor:	coord|y=and pro:int|qué=what adv|más=more ?
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|1|COORD
+*FER:	e(s)to [*] de aquí .
+%mor:	pro:dem|esto=this_one prep|de=of adv|aquí=here .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*INV:	sí ?
+%mor:	co|sí=yes ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	lo ponemos ?
+%mor:	pro:obj|le-m=him v|pone-1P&PRES=put ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*FER:	sí .
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	sí .
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*JAI:	ahí .
+%mor:	adv|ahí=there .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FER:	y éste también .
+%mor:	coord|y=and pro:dem|éste=this_one adv|también=also .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|1|PUNCT
+*INV:	éste también .
+%mor:	pro:dem|éste=this_one adv|también=also .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*JAI:	éste también .
+%mor:	pro:dem|éste=this_one adv|también=also .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*INV:	éste ?
+%mor:	pro:dem|éste=this_one ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*JAI:	y éste .
+%mor:	coord|y=and pro:dem|éste=this_one .
+%gra:	1|0|ROOT 2|1|COORD 3|1|PUNCT
+*INV:	ese es de ahí .
+%mor:	det:dem|ese=that cop|se-3S&PRES=be prep|de=of adv|ahí=there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*INV:	mételo tú (.) así [/] así [/] así [/] así .
+%mor:	imp|mete-2S&IMP~pro:clit|OBJ&m=put pro:sub|tú=you adv|así=thus .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|JCT 4|3|POBJ 5|1|PUNCT
+%com:	estamos montando el barco pirata
+*FER:	y é(s)te [*] es de ahí .
+%mor:	coord|y=and pro:dem|éste=this_one cop|se-3S&PRES=be prep|de=of
+	adv|ahí=there .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|3|JCT 5|4|POBJ 6|1|PUNCT
+*INV:	ese es de ahí ?
+%mor:	det:dem|ese=that cop|se-3S&PRES=be prep|de=of adv|ahí=there ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*FER:	sí .
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	a_ver (.) lo pones tú ?
+%mor:	co|a_ver pro:obj|le-m=him v|pone-2S&PRES=put pro:sub|tú=you ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*INV:	a_ver (.) así [/] así .
+%mor:	co|a_ver adv|así=thus .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*FER:	sí .
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FER:	pongo yo .
+%mor:	v|pone-1S&PRES=put pro:sub|yo=I .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*INV:	así (.) ponlo .
+%mor:	adv|así=thus imp|pone-2S&IMP~pro:clit|OBJ&m=put .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ2 4|2|PUNCT
+*INV:	coge .
+%mor:	v|coge-3S&PRES=take .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	abajo .
+%mor:	adv|abajo=below .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	eso es (.) muy bien .
+%mor:	pro:dem|eso=that_one cop|se-3S&PRES=be adv|muy=very adv|bien=well .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|PUNCT
+*FER:	va a caer mira así .
+%mor:	v|i-3S&PRES=go prepart|a=to inf|cae-INF=fall co|mira=look
+	adv|así=thus .
+%gra:	1|0|ROOT 2|1|OBJ 3|2|COMP 4|3|OBJ 5|4|JCT 6|1|PUNCT
+*FER:	mira va a caer .
+%mor:	v|mira-3S&PRES=look v|i-3S&PRES=go prepart|a=to inf|cae-INF=fall .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|INF 4|2|COMP 5|1|PUNCT
+*INV:	ah (.) se va a caer !
+%mor:	co|ah pro:refl|se=itself v|i-3S&PRES=go prepart|a=to
+	inf|cae-INF=fall !
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|3|PUNCT
+*INV:	como se caiga se va a hacer daño .
+%mor:	adv|como=like pro:refl|se=itself v|cae-13S&SUB&PRES=fall
+	pro:refl|se=itself v|i-3S&PRES=go prepart|a=to inf|hace-INF=do
+	n|daño&m=damage .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|CMOD 6|5|OBJ 7|6|COMP 8|7|OBJ
+	9|3|PUNCT
+*JAI:	y éste no .
+%mor:	coord|y=and pro:dem|éste=this_one adv|no=no .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|1|PUNCT
+*INV:	se ha caído ?
+%mor:	pro:refl|se=itself aux|habe-3S&PRES=have part|cae-PPART-m=fall ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+%com:	le pregunto al muñeco de Fermín
+*JAI:	éste no se va a caer .
+%mor:	pro:dem|éste=this_one adv|no=no pro:refl|se=itself v|i-3S&PRES=go
+	prepart|a=to inf|cae-INF=fall .
+%gra:	1|2|JCT 2|3|JCT 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|4|PUNCT
+*INV:	se ha hecho daño ?
+%mor:	pro:refl|se=itself aux|habe-3S&PRES=have part|hace-PPART-m=do
+	v|daña-1S&PRES=harm ?
+%gra:	1|3|SUBJ 2|3|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*INV:	mucho [>] ?
+%mor:	adv|mucho=much ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*JAI:	<éste no se va a caer> [<] .
+%mor:	pro:dem|éste=this_one adv|no=no pro:refl|se=itself v|i-3S&PRES=go
+	prepart|a=to inf|cae-INF=fall .
+%gra:	1|2|JCT 2|3|JCT 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|4|PUNCT
+*JAI:	éste no .
+%mor:	pro:dem|éste=this_one adv|no=no .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*INV:	oy (.) le va a salir un chichón .
+%mor:	co|oy pro:ind|le&m=him v|i-3S&PRES=go prepart|a=to
+	inf|sali-INF=leave det:art|un&m=one n|chicha&m-AUG=bruise .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|COMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+*JAI:	éste no .
+%mor:	pro:dem|éste=this_one adv|no=no .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*INV:	ese no se va a caer ?
+%mor:	det:dem|ese=that adv|no=no pro:refl|se=itself v|i-3S&PRES=go
+	prepart|a=to inf|cae-INF=fall ?
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|OBJ 7|4|PUNCT
+*INV:	porqué no se va a caer ?
+%mor:	pro:int|porqué=why adv|no=no pro:refl|se=itself v|i-3S&PRES=go
+	prepart|a=to inf|cae-INF=fall ?
+%gra:	1|0|ROOT 2|3|JCT 3|1|POBJ 4|1|PUNCT 5|6|INF 6|4|COMP 7|1|PUNCT
+*INV:	porque sabe mucho ?
+%mor:	conj|porque=because v|sabe-3S&PRES=know adv|mucho=much ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*JAI:	porque tiene una espada .
+%mor:	conj|porque=because v|tene-3S&PRES=have det:art|un-f=one
+	n|espada&f=sword .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*INV:	y tiene dos manos ?
+%mor:	coord|y=and v|tene-3S&PRES=have det:num|dos=two n|mano&f-PL=hand ?
+%gra:	1|0|ROOT 2|1|COORD 3|4|DET 4|2|OBJ 5|1|COORD
+*JAI:	sí .
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	no .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	sólo tiene una .
+%mor:	adv|sólo=only v|tene-3S&PRES=have det:art|un-f=one .
+%gra:	1|2|JCT 2|0|ROOT 3|4|DET 4|2|PUNCT
+*INV:	qué tiene en el otro lado ?
+%mor:	pro:int|qué=what v|tene-3S&PRES=have prep|en=in det:art|el&m&SG=the
+	pro:indef|otro-m=other n|lado&m=side ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|6|DET 5|6|DET 6|3|POBJ 7|2|PUNCT
+*JAI:	una mano .
+%mor:	det:art|un-f=one n|mano&f=hand .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+%com:	me lo enseña
+*INV:	y en el otro ?
+%mor:	coord|y=and prep|en=in det:art|el&m&SG=the pro:indef|otro-m=other ?
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|COORD
+*JAI:	no tiene .
+%mor:	adv|no=no v|tene-3S&PRES=have .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*INV:	tiene garfio (.) verdad (.) un garfio !
+%mor:	v|tene-3S&PRES=have n|garfio&m=hook co|verdad=right
+	det:art|un&m=one n|garfio&m=hook !
+%gra:	1|0|ROOT 2|1|OBJ 3|2|MOD 4|5|DET 5|3|OBJ 6|1|PUNCT
+*JAI:	sí .
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	qué es eso ?
+%mor:	pro:int|qué=what cop|se-3S&PRES=be pro:dem|eso=that_one ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%com:	me dirijo a Fermín
+*JAI:	éste se va a caer .
+%mor:	pro:dem|éste=this_one pro:refl|se=itself v|i-3S&PRES=go
+	prepart|a=to inf|cae-INF=fall .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|OBJ 6|3|PUNCT
+*INV:	huy (.) y qué hay aquí ?
+%mor:	co|huy=oh coord|y=and pro:int|qué=what v|habe-3S&PRES&SPEC=have
+	adv|aquí=here ?
+%gra:	1|4|SUBJ 2|1|CONJ 3|2|COORD 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*INV:	qué es eso ?
+%mor:	pro:int|qué=what cop|se-3S&PRES=be pro:dem|eso=that_one ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*JAI:	bolas .
+%mor:	n|bola&f-PL=ball .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FER:	bolas (.) sí .
+%mor:	n|bola&f-PL=ball co|sí=yes .
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+*INV:	para qué son esas bolas ?
+%mor:	prep|para=for pro:int|qué=what cop|se-3P&PRES=be
+	det:dem|ese-f-PL=that n|bola&f-PL=ball ?
+%gra:	1|2|INF 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*INV:	para qué ?
+%mor:	prep|para=for pro:int|qué=what ?
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+*JAI:	para xxx .
+%mor:	prep|para=for .
+%gra:	1|0|ROOT 2|1|PUNCT
+*JAI:	yo tero [: tiro] [*] aquí .
+%mor:	pro:sub|yo=I v|tira-1S&PRES=throw adv|aquí=here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*JAI:	lo han tira(d)o .
+%mor:	pro:obj|le-m=him aux|habe-3P&PRES=have part|tira-PPART-m=throw .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+%com:	se refiere a las bolas del cañón
+*JAI:	lo han tira(d)o aquí .
+%mor:	pro:obj|le-m=him aux|habe-3P&PRES=have part|tira-PPART-m=throw
+	adv|aquí=here .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*INV:	que se hunde el barco !
+%mor:	pro:rel|que=that pro:refl|se=itself v|hundi-3S&PRES=sink
+	det:art|el&m&SG=the n|barco-m=boat !
+%gra:	1|0|ROOT 2|1|CMOD 3|2|COMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+*JAI:	no ahora xxx .
+%mor:	adv|no=no adv|ahora=now .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*FER:	xxx .
+*INV:	ála !
+%mor:	co|ála !
+%gra:	1|0|ROOT 2|1|PUNCT
+*JAI:	ála !
+%mor:	co|ála !
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	y esa barca se mueve sin nadie dentro ?
+%mor:	coord|y=and det:dem|ese-f=that n|barco-f=boat pro:refl|se=itself
+	v|move-3S&PRES=move prep|sin=without pro:indef|nadie=nobody
+	adv|dentro=inside ?
+%gra:	1|0|ROOT 2|3|DET 3|1|COORD 4|1|COORD 5|1|COORD 6|5|JCT 7|6|POBJ 8|7|JCT
+	9|1|COORD
+*INV:	quién conduce esa barca ?
+%mor:	pro:int|quién=who v|conduci-3S&PRES=drive det:dem|ese-f=that
+	n|barco-f=boat ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*INV:	quién navega en esa barca ?
+%mor:	pro:int|quién=who v|navega-3S&PRES=navigate prep|en=in
+	det:dem|ese-f=that n|barco-f=boat ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*FER:	pie [*] [/] pie [*] éste .
+%mor:	n|pie&m=foot pro:dem|éste=this_one .
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+*JAI:	y a uno que hay +...
+%mor:	coord|y=and prepart|a=to pro:indef|uno=one pro:rel|que=that
+	v|habe-3S&PRES&SPEC=have +...
+%gra:	1|0|ROOT 2|1|COORD 3|2|PRED 4|3|REL 5|4|CMOD 6|1|COORD
+%com:	deja la barca y juega con el barco
+*INV:	y qué hace ese desde ahí arriba ?
+%mor:	coord|y=and pro:int|qué=what v|hace-3S&PRES=do det:dem|ese=that
+	prep|desde=from adv|ahí=there adv|arriba=above ?
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|3|PRED 5|4|JCT 6|7|JCT 7|5|POBJ
+	8|1|COORD
+*JAI:	di(s)parando [*] .
+%mor:	part|dispara-PRPART=shoot .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	disparando +...
+%mor:	part|dispara-PRPART=shoot +...
+%gra:	1|0|ROOT 2|1|PUNCT
+*FER:	sí .
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	+, o vigilando ?
+%mor:	coord|o=or part|vigila-PRPART=watch_over ?
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD
+*FER:	no (.) (disp)arar [*] .
+%mor:	co|no inf|dispara-INF=shoot .
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+*FER:	(t)oma [*] ot(r)o [*] !
+%mor:	v|toma-3S&PRES=take pro:indef|otro-m=other !
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*JAI:	ahora é(s)te [*] aquí .
+%mor:	adv|ahora=now pro:dem|éste=this_one adv|aquí=here .
+%gra:	1|2|JCT 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%com:	pone un muñeco en el puesto del vigía
+*JAI:	esto para qué es ?
+%mor:	pro:dem|esto=this_one prep|para=for pro:int|qué=what
+	cop|se-3S&PRES=be ?
+%gra:	1|4|SUBJ 2|3|INF 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%com:	se refiere al cañón
+*JAI:	para meter esto ?
+%mor:	prep|para=for inf|mete-INF=put pro:dem|esto=this_one ?
+%gra:	1|2|INF 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%com:	se refiere a las balas
+*INV:	para disparar a los que atacan el barco .
+%mor:	prep|para=for inf|dispara-INF=shoot prepart|a=to
+	det:art|el&m-PL=the pro:rel|que=that v|ataca-3P&PRES=attack
+	det:art|el&m&SG=the n|barco-m=boat .
+%gra:	1|2|INF 2|0|ROOT 3|2|OBJ 4|5|DET 5|3|REL 6|5|CMOD 7|8|DET 8|6|OBJ
+	9|2|PUNCT
+*INV:	quiénes atacan el barco ?
+%mor:	pro:int|quién-PL=who v|ataca-3P&PRES=attack det:art|el&m&SG=the
+	n|barco-m=boat ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*INV:	hay que defenderlo .
+%mor:	v|habe-3S&PRES&SPEC=have pro:rel|que=that
+	inf|defende-INF~pro:clit|OBJ&m=defend .
+%gra:	1|0|ROOT 2|1|REL 3|2|COMP 4|3|OBJ2 5|1|PUNCT
+*FER:	el ba(r)co [*] .
+%mor:	det:art|el&m&SG=the n|barco-m=boat .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*FER:	mi(r)a [*] y é(s)te [*] pum^pum^pum@o (.) ála (.) pumba@o .
+%mor:	co|mira=look coord|y=and pro:dem|éste=this_one on|pumpumpum co|ála
+	on|pumba .
+%gra:	1|0|ROOT 2|1|CONJ 3|2|COORD 4|3|PRED 5|4|JCT 6|5|POBJ 7|1|PUNCT
+*FER:	y mi(r)a [*] é(s)te [*] .
+%mor:	coord|y=and v|mira-3S&PRES=look pro:dem|éste=this_one .
+%gra:	1|0|ROOT 2|1|COORD 3|2|PRED 4|1|PUNCT
+*FER:	no .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FER:	<a no> [//] a é(s)te [*] (.) mi(r)a [*] .
+%mor:	prepart|a=to pro:dem|éste=this_one co|mira=look .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*FER:	xxx .
+*JAI:	unas escaleras .
+%mor:	det:art|un-f-PL=one n|escalera&f-PL=staircase .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*JAI:	mira <la xxx> [//] la xxx .
+%mor:	v|mira-3S&PRES=look det:art|el&f&SG=the .
+%gra:	1|0|ROOT 2|3|DET 3|1|PUNCT
+*FER:	hola !
+%mor:	co|hola=hi !
+%gra:	1|0|ROOT 2|1|PUNCT
+*JAI:	yo voy xxx .
+%mor:	pro:sub|yo=I v|i-1S&PRES=go .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*FER:	hola [/] hola [/] hola [/] hola [/] hola !
+%mor:	co|hola=hi !
+%gra:	1|0|ROOT 2|1|PUNCT
+*FER:	allí ir .
+%mor:	adv|allí=there inf|i-INF=go .
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+*FER:	y a (s)ubi(r) [*] .
+%mor:	coord|y=and prepart|a=to inf|subi-INF=go_up .
+%gra:	1|0|ROOT 2|3|INF 3|1|COORD 4|1|PUNCT
+*FER:	baja .
+%mor:	v|baja-3S&PRES=come_down .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FER:	yo aquí (.) yo .
+%mor:	pro:sub|yo=I adv|aquí=here pro:sub|yo=I .
+%gra:	1|0|ROOT 2|3|MOD 3|1|POBJ 4|1|PUNCT
+*FER:	ála !
+%mor:	co|ála !
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	oye pero [/] pero a quién disparan ?
+%mor:	v|oí-3S&PRES=hear conj|pero=but prepart|a=to pro:int|quién=who
+	v|dispara-3P&PRES=shoot ?
+%gra:	1|5|SUBJ 2|5|SUBJ 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|PUNCT
+*INV:	a quién están disparando (.) <a ver> [/] a_ver .
+%mor:	prepart|a=to pro:int|quién=who aux|esta-3P&PRES=be
+	part|dispara-PRPART=shoot co|a_ver .
+%gra:	1|0|ROOT 2|1|JCT 3|4|AUX 4|2|POBJ 5|4|OBJ 6|1|PUNCT
+*JAI:	se ha metido aquí .
+%mor:	pro:refl|se=itself aux|habe-3S&PRES=have part|mete-PPART-m=put
+	adv|aquí=here .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*INV:	lo ha enterrado ahí ?
+%mor:	pro:obj|le-m=him aux|habe-3S&PRES=have part|enterra-PPART-m=bury
+	adv|ahí=there ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*INV:	se ha escondido .
+%mor:	pro:refl|se=itself aux|habe-3S&PRES=have part|esconde-PPART-m=hide
+	.
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*JAI:	se ha escondido aquí (.) mira .
+%mor:	pro:refl|se=itself aux|habe-3S&PRES=have part|esconde-PPART-m=hide
+	adv|aquí=here co|mira=look .
+%gra:	1|0|ROOT 2|3|AUX 3|1|JCT 4|5|MOD 5|3|POBJ 6|1|PUNCT
+*INV:	ahora no puede entrar .
+%mor:	adv|ahora=now adv|no=no v|pode-3S&PRES=can inf|entra-INF=come_in .
+%gra:	1|3|JCT 2|3|JCT 3|0|ROOT 4|3|COMP 5|3|PUNCT
+*INV:	oye pues que no le encuentren los malos !
+%mor:	co|oye=listen co|pues=well pro:rel|que=that adv|no=no
+	pro:ind|le&m=him v|encontra-3P&SUB&PRES=find det:art|el&m-PL=the
+	adj|malo-m-PL=bad !
+%gra:	1|0|ROOT 2|1|COMP 3|2|REL 4|5|JCT 5|3|CMOD 6|5|CMOD 7|8|DET 8|6|OBJ
+	9|1|PUNCT
+*INV:	Jaime (.) está cerrada ?
+%mor:	n:prop|Jaime cop|esta-3S&PRES=be part|cerra-PPART-f=close ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*INV:	a_ver si ahora lo hemos cerrado .
+%mor:	co|a_ver conj|si=if adv|ahora=now pro:obj|le-m=him
+	aux|habe-1P&PRES=have part|cerra-PPART-m=close .
+%gra:	1|0|ROOT 2|1|REL 3|2|JCT 4|2|JCT 5|6|AUX 6|4|POBJ 7|1|PUNCT
+*INV:	le ponemos la comida ?
+%mor:	pro:ind|le&m=him v|pone-1P&PRES=put det:art|el&f&SG=the
+	n|comida&f=food ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*INV:	venga (.) qué le ponemos de comer hoy ?
+%mor:	co|venga=come_on pro:int|qué=what pro:ind|le&m=him
+	v|pone-1P&PRES=put prep|de=of inf|come-INF=eat adv|hoy=today ?
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT 5|4|JCT 6|5|POBJ 7|6|JCT 8|1|PUNCT
+*INV:	cuál es el cocinero ?
+%mor:	pro:int|cuál=which cop|se-3S&PRES=be det:art|el&m&SG=the
+	n|cocinero-m=cook ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*JAI:	arroz .
+%mor:	n|arroz&m=rice .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	arroz (.) y quién lo va a hacer ?
+%mor:	n|arroz&m=rice coord|y=and pro:int|quién=who pro:obj|le-m=him
+	v|i-3S&PRES=go prepart|a=to inf|hace-INF=do ?
+%gra:	1|0|ROOT 2|1|CONJ 3|4|MOD 4|2|COORD 5|4|PRED 6|7|INF 7|5|COMP 8|1|PUNCT
+%com:	JAI levanta un muñeco
+*INV:	es el cocinero (.) ese ?
+%mor:	cop|se-3S&PRES=be det:art|el&m&SG=the n|cocinero-m=cook
+	det:dem|ese=that ?
+%gra:	1|0|ROOT 2|3|DET 3|1|PRED 4|3|MOD 5|1|PUNCT
+*JAI:	0 [=! asintiendo] .
+*INV:	venga pues llámalos a comer a todos .
+%mor:	co|venga=come_on co|pues=well
+	imp|llama-2S&IMP~pro:clit|OBJ&m&PL=call prepart|a=to
+	inf|come-INF=eat prepart|a=to pro:indef|todo-m-PL=all .
+%gra:	1|0|ROOT 2|1|COMP 3|2|COMP 4|3|OBJ2 5|3|COMP 6|5|COMP 7|8|INF 8|6|OBJ
+	9|1|PUNCT
+*JAI:	a comer !
+%mor:	prepart|a=to inf|come-INF=eat !
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+*INV:	venga Fermín a comer arroz !
+%mor:	co|venga=come_on n:prop|Fermín prepart|a=to inf|come-INF=eat
+	n|arroz&m=rice !
+%gra:	1|0|ROOT 2|1|APP 3|4|INF 4|2|COMP 5|4|OBJ 6|1|PUNCT
+*INV:	no quieres ir a comer arroz que ha preparado <el &ca> [//] el
+	pirata .
+%mor:	adv|no=no v|quere-2S&PRES=want inf|i-INF=go prepart|a=to
+	inf|come-INF=eat n|arroz&m=rice pro:rel|que=that
+	aux|habe-3S&PRES=have part|prepara-PPART-m=prepare
+	det:art|el&m&SG=the n|pirata&m=pirate .
+%gra:	1|2|JCT 2|0|ROOT 3|2|COMP 4|3|COMP 5|4|COMP 6|5|OBJ 7|6|REL 8|9|AUX
+	9|7|CMOD 10|11|DET 11|9|OBJ 12|2|PUNCT
+*INV:	venga hay que ponerlos a comer que si no se nos van a dormir .
+%mor:	co|venga=come_on v|habe-3S&PRES&SPEC=have pro:rel|que=that
+	inf|pone-INF~pro:clit|OBJ&m&PL=put prepart|a=to inf|come-INF=eat
+	pro:rel|que=that conj|si=if adv|no=no pro:refl|se=itself
+	pro:obj|nos=us v|i-3P&PRES=go prepart|a=to inf|dormi-INF=sleep .
+%gra:	1|0|ROOT 2|1|COMP 3|2|REL 4|3|COMP 5|4|OBJ2 6|7|INF 7|4|COMP 8|7|REL
+	9|8|COMP 10|11|JCT 11|9|COMP 12|11|COMP 13|12|COMP 14|15|INF 15|13|COMP
+	16|1|PUNCT
+*JAI:	pero éste está así .
+%mor:	conj|pero=but pro:dem|éste=this_one aux|esta-3S&PRES=be
+	adv|así=thus .
+%gra:	1|0|ROOT 2|1|JCT 3|4|AUX 4|2|POBJ 5|1|PUNCT
+*INV:	qué hacen ?
+%mor:	pro:int|qué=what v|hace-3P&PRES=do ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*JAI:	están durmidos [: dormidos] [*] .
+%mor:	cop|esta-3P&PRES=be imp|dormi-2P&IMP~pro:clit|2P=sleep .
+%gra:	1|0|ROOT 2|1|PRED 3|2|OBJ2 4|1|PUNCT
+*INV:	claro están cansados .
+%mor:	co|claro=obvious cop|esta-3P&PRES=be
+	imp|cansa-2P&IMP~pro:clit|2P=tire .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|OBJ2 5|2|PUNCT
+*INV:	han estado venga a pelear .
+%mor:	aux|habe-3P&PRES=have part|esta-PPART-m=be co|venga=come_on
+	prepart|a=to inf|pelea-INF=fight .
+%gra:	1|2|AUX 2|0|ROOT 3|2|OBJ 4|5|INF 5|3|COMP 6|2|PUNCT
+*FER:	claro !
+%mor:	co|claro=obvious !
+%gra:	1|0|ROOT 2|1|PUNCT
+*FER:	(t)oma [*] .
+%mor:	imp|toma-2S&IMP=take .
+%gra:	1|0|ROOT 2|1|PUNCT
+*JAI:	au (.) le han comido el perro .
+%mor:	co|au=ow pro:ind|le&m=him aux|habe-3P&PRES=have
+	part|come-PPART-m=eat det:art|el&m&SG=the n|perro-m=dog .
+%gra:	1|0|ROOT 2|1|JCT 3|4|AUX 4|2|POBJ 5|6|DET 6|4|OBJ 7|1|PUNCT
+*INV:	que barriga más grande tiene que tener xxx .
+%mor:	pro:rel|que=that n|barriga&f=belly adv|más=more adj|grande=big
+	v|tene-3S&PRES=have pro:rel|que=that inf|tene-INF=have .
+%gra:	1|0|ROOT 2|5|SUBJ 3|4|MOD 4|2|MOD 5|1|CMOD 6|5|REL 7|6|COMP 8|1|PUNCT
+*JAI:	cómetelo .
+%mor:	imp|come-2S&IMP~pro:clit|2S~pro:clit|OBJ&m=eat .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|OBJ2 4|1|PUNCT
+*JAI:	vale .
+%mor:	co|vale=okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FER:	a(l)to [*] .
+%mor:	adj|alto-m=tall .
+%gra:	1|0|ROOT 2|1|PUNCT
+*JAI:	carne [/] carne [/] carne .
+%mor:	n|carne&f=meat .
+%gra:	1|0|ROOT 2|1|PUNCT
+*JAI:	a comer .
+%mor:	prepart|a=to inf|come-INF=eat .
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+*FER:	é(s)te [*] es mío el a(l)to [*] .
+%mor:	pro:dem|éste=this_one cop|se-3S&PRES=be pro:poss|mío-m=mine
+	det:art|el&m&SG=the adj|alto-m=tall .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|DET 5|3|MOD 6|2|PUNCT
+*FER:	<el ato [*]> [>] .
+%mor:	det:art|el&m&SG=the v|ata-1S&PRES=fasten .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*JAI:	<y éste> [<] ?
+%mor:	coord|y=and pro:dem|éste=this_one ?
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD
+*JAI:	éste aquí [/] aquí !
+%mor:	pro:dem|éste=this_one adv|aquí=here !
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*FER:	sí .
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*JAI:	está mira disparando a esos .
+%mor:	cop|esta-3S&PRES=be co|mira=look part|dispara-PRPART=shoot
+	prepart|a=to det:dem|ese-m-PL=that .
+%gra:	1|0|ROOT 2|1|PRED 3|2|JCT 4|5|INF 5|3|POBJ 6|1|PUNCT
+*FER:	é(s)te [*] ahí .
+%mor:	pro:dem|éste=this_one adv|ahí=there .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*FER:	y de(s)pués [*] é(s)te [*] abajo (.) vale ?
+%mor:	coord|y=and adv|después=after pro:dem|éste=this_one adv|abajo=below
+	co|vale=okay ?
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|5|JCT 5|1|COORD 6|1|COORD
+*FER:	vale ?
+%mor:	co|vale=okay ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*JAI:	vale .
+%mor:	co|vale=okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FER:	é(s)te [*] ahora abajo .
+%mor:	pro:dem|éste=this_one adv|ahora=now adv|abajo=below .
+%gra:	1|0|ROOT 2|3|JCT 3|1|JCT 4|1|PUNCT
+*JAI:	éste es mío .
+%mor:	pro:dem|éste=this_one cop|se-3S&PRES=be pro:poss|mío-m=mine .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*FER:	ese es tuyo .
+%mor:	det:dem|ese=that cop|se-3S&PRES=be pro:poss|tuyo-m=yours .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*JAI:	é(s)te es mío .
+%mor:	pro:dem|éste=this_one cop|se-3S&PRES=be pro:poss|mío-m=mine .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*FER:	aquí .
+%mor:	adv|aquí=here .
+%gra:	1|0|ROOT 2|1|PUNCT
+*JAI:	y yo ahí .
+%mor:	coord|y=and pro:sub|yo=I adv|ahí=there .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|1|PUNCT
+%com:	juegan a disparse uno al otro
+*FER:	mira aquí .
+%mor:	co|mira=look adv|aquí=here .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*FER:	baja é(s)te [*] xxx .
+%mor:	v|baja-3S&PRES=come_down pro:dem|éste=this_one .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*INV:	la banderita .
+%mor:	det:art|el&f&SG=the n|bandera&f-DIM=banner .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+%com:	coloco la bandera del barco
+*JAI:	si no cabe .
+%mor:	conj|si=if adv|no=no v|cabe-3S&PRES=fit .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*INV:	sí (.) mira .
+%mor:	co|sí=yes co|mira=look .
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*FER:	hola [/] hola !
+%mor:	co|hola=hi !
+%gra:	1|0|ROOT 2|1|PUNCT
+*FER:	aquí yo !
+%mor:	adv|aquí=here pro:sub|yo=I !
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*FER:	<y allí> [//] allí ya y a comer !
+%mor:	adv|allí=there adv|ya=already coord|y=and prepart|a=to
+	inf|come-INF=eat !
+%gra:	1|2|JCT 2|0|ROOT 3|2|CONJ 4|5|INF 5|3|COORD 6|2|PUNCT
+*FER:	hola [/] hola [>] !
+%mor:	co|hola=hi !
+%gra:	1|0|ROOT 2|1|PUNCT
+*JAI:	<a comer> [<] !
+%mor:	prepart|a=to inf|come-INF=eat !
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+*FER:	hola !
+%mor:	co|hola=hi !
+%gra:	1|0|ROOT 2|1|PUNCT
+*JAI:	a comer !
+%mor:	prepart|a=to inf|come-INF=eat !
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+*FER:	ya (es)tá [*] .
+%mor:	adv|ya=already cop|esta-3S&PRES=be .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*JAI:	me lo he comido todo .
+%mor:	pro:obj|me=me pro:obj|le-m=him aux|habe-1S&PRES=have
+	part|come-PPART-m=eat pro:indef|todo-m=all .
+%gra:	1|0|ROOT 2|1|JCT 3|4|AUX 4|2|POBJ 5|4|OBJ 6|1|PUNCT
+*FER:	hola !
+%mor:	co|hola=hi !
+%gra:	1|0|ROOT 2|1|PUNCT
+*JAI:	hola !
+%mor:	co|hola=hi !
+%gra:	1|0|ROOT 2|1|PUNCT
+*FER:	hola [/] hola !
+%mor:	co|hola=hi !
+%gra:	1|0|ROOT 2|1|PUNCT
+*JAI:	luchamos ?
+%mor:	v|lucha-1P&PRES&PRET=fight ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*JAI:	luchamos ?
+%mor:	v|lucha-1P&PRES&PRET=fight ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*FER:	y yo &a así .
+%mor:	coord|y=and pro:sub|yo=I adv|así=thus .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|1|PUNCT
+%com:	luchan
+*FER:	ya para .
+%mor:	adv|ya=already prep|para=for .
+%gra:	1|0|ROOT 2|3|INF 3|1|PUNCT
+*FER:	<(t)oma [*]> [/] (t)oma [*] .
+%mor:	imp|toma-2S&IMP=take .
+%gra:	1|0|ROOT 2|1|PUNCT
+*JAI:	voy a volar .
+%mor:	v|i-1S&PRES=go prepart|a=to inf|vola-INF=fly .
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|1|PUNCT
+*FER:	hola [/] hola !
+%mor:	co|hola=hi !
+%gra:	1|0|ROOT 2|1|PUNCT
+*FER:	la ficción .
+%mor:	det:art|el&f&SG=the n|ficción&f=falsehood .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*FER:	aquí a(l)to [*] !
+%mor:	adv|aquí=here adj|alto-m=tall !
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*FER:	aquí a(l)to [*] !
+%mor:	adv|aquí=here adj|alto-m=tall !
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*FER:	hola !
+%mor:	co|hola=hi !
+%gra:	1|0|ROOT 2|1|PUNCT
+*FER:	aquí yo !
+%mor:	adv|aquí=here pro:sub|yo=I !
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*JAI:	no éste .
+%mor:	adv|no=no pro:dem|éste=this_one .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*FER:	a(l)to [*] .
+%mor:	adj|alto-m=tall .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FER:	ese ahí .
+%mor:	det:dem|ese=that adv|ahí=there .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*FER:	é(s)te [*] aquí .
+%mor:	pro:dem|éste=this_one adv|aquí=here .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*JAI:	éste es mío !
+%mor:	pro:dem|éste=this_one cop|se-3S&PRES=be pro:poss|mío-m=mine !
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*FER:	é(s)te [*] ?
+%mor:	pro:dem|éste=this_one ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*FER:	é(s)te [*] .
+%mor:	pro:dem|éste=this_one .
+%gra:	1|0|ROOT 2|1|PUNCT
+*JAI:	<ese era mío> [/] <ese era mío> [>] .
+%mor:	det:dem|ese=that cop|se-13S&PAS=be pro:poss|mío-m=mine .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*FER:	xxx [<] .
+*JAI:	ese era mío .
+%mor:	det:dem|ese=that cop|se-13S&PAS=be pro:poss|mío-m=mine .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*JAI:	ese era tuyo .
+%mor:	det:dem|ese=that cop|se-13S&PAS=be pro:poss|tuyo-m=yours .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*FER:	vale .
+%mor:	co|vale=okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FER:	<s(e) (h)a> [*] caí(d)o y ála !
+%mor:	pro:refl|se=itself aux|habe-3S&PRES=have part|cae-PPART-m=fall
+	coord|y=and co|ála !
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|CONJ 5|4|COORD 6|3|PUNCT
+*FER:	pom^pom@o (.) quién es ?
+%mor:	on|pompom pro:int|quién=who cop|se-3S&PRES=be ?
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PRED
+*FER:	voy ab(r)ir [*] .
+%mor:	v|i-1S&PRES=go inf|abri-INF=open .
+%gra:	1|0|ROOT 2|1|COMP 3|1|PUNCT
+*FER:	oh (.) é(s)te se va !
+%mor:	co|oh=oh pro:dem|éste=this_one pro:refl|se=itself v|i-3S&PRES=go !
+%gra:	1|4|SUBJ 2|4|SUBJ 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*FER:	voy ab(r)iros [*] .
+%mor:	v|i-1S&PRES=go inf|abri-INF~pro:clit|2P=open .
+%gra:	1|0|ROOT 2|1|COMP 3|2|OBJ2 4|1|PUNCT
+*FER:	ahí va xxx !
+%mor:	adv|ahí=there v|i-3S&PRES=go !
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*JAI:	es en éste .
+%mor:	cop|se-3S&PRES=be prep|en=in pro:dem|éste=this_one .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*JAI:	ahí .
+%mor:	adv|ahí=there .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FER:	ahí yo .
+%mor:	adv|ahí=there pro:sub|yo=I .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+%com:	disparan el cañón
+*FER:	no .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FER:	ahora yo .
+%mor:	adv|ahora=now pro:sub|yo=I .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*JAI:	mira éste .
+%mor:	v|mira-3S&PRES=look pro:dem|éste=this_one .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*FER:	ála (.) nos vamos .
+%mor:	co|ála pro:obj|nos=us v|i-1P&PRES=go .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*JAI:	es otro balón .
+%mor:	cop|se-3S&PRES=be pro:indef|otro-m=other n|balón&m=ball .
+%gra:	1|0|ROOT 2|3|DET 3|1|PRED 4|1|PUNCT
+*FER:	ot(r)o [*] balón .
+%mor:	pro:indef|otro-m=other n|balón&m=ball .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*JAI:	voy abrir .
+%mor:	v|i-1S&PRES=go inf|abri-INF=open .
+%gra:	1|0|ROOT 2|1|COMP 3|1|PUNCT
+%com:	se refiere al baúl de los piratas .
+*JAI:	<se van> [/] se van !
+%mor:	pro:refl|se=itself v|i-3P&PRES=go !
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*FER:	ahí va .
+%mor:	adv|ahí=there v|i-3S&PRES=go .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+%com:	cada uno está con un barco distinto
+*FER:	xxx .
+*JAI:	lo llevan a la gruta .
+%mor:	pro:obj|le-m=him v|lleva-3P&PRES=carry prepart|a=to
+	det:art|el&f&SG=the n|gruta&f=grotto .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COMP 4|5|DET 5|3|OBJ 6|2|PUNCT
+*FER:	y así (.) pom^pom@o .
+%mor:	coord|y=and adv|así=thus on|pompom .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|1|PUNCT
+*FER:	quién llama ?
+%mor:	pro:int|quién=who v|llama-3S&PRES=call ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*FER:	pom^pom@o .
+%mor:	on|pompom .
+%gra:	1|0|ROOT 2|1|PUNCT
+*JAI:	adelante .
+%mor:	adv|adelante=forward .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FER:	pom+pom .
+%mor:	co|+co|pom+co|pom .
+%gra:	1|0|ROOT 2|1|PUNCT
+*JAI:	abre .
+%mor:	imp|abri-2S&IMP=open .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FER:	ya voy ab(r)i(r) [*] .
+%mor:	adv|ya=already v|i-1S&PRES=go inf|abri-INF=open .
+%gra:	1|2|JCT 2|0|ROOT 3|2|COMP 4|2|PUNCT
+*FER:	tú al a(g)ua [*] .
+%mor:	pro:sub|tú=you prepart|a~det:art|el&m=to n|agua&f=water .
+%gra:	1|0|ROOT 2|1|COMP 3|4|DET 4|2|OBJ 5|1|PUNCT
+*FER:	xxx .
+%com:	se quedan los dos mirando dentro de la habitación del barco
+*JAI:	no se .
+%mor:	adv|no=no pro:refl|se=itself .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+@End

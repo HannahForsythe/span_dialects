@@ -1,0 +1,616 @@
+@UTF8
+@PID:	11312/c-00032581-1
+@Begin
+@Languages:	spa
+@Participants:	KAR Karina Adult , CHI Xóchitl Target_Child
+@ID:	spa|Hess|KAR|||||Adult|||
+@ID:	spa|Hess|CHI|6;08.28||||Target_Child|||
+@Date:	18-MAY-1999
+@Comment:	Education of CHI is primero , pública
+@Transcriber:	Karina Hess
+@Situation:	Tarea B (completar una narración)
+@Comment:	sólo se transcribe desde la presentación del reactivo
+*KAR:	había una vez una niña .
+%mor:	v|habe-13S&PAS=have det:art|un-f=one n|vez&f=turn det:art|un-f=one
+	co|niña=child .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|5|DET 5|3|MOD 6|1|PUNCT
+*KAR:	que le tenía mucho miedo a la oscuridad .
+%mor:	pro:rel|que=that pro:ind|le&m=him v|tene-13S&PAS=have
+	adv|mucho=much n|miedo&m=fear prepart|a=to det:art|el&f&SG=the
+	n|oscuridad&f=darkness .
+%gra:	1|0|ROOT 2|1|COMP 3|2|CMOD 4|5|MOD 5|3|OBJ 6|5|MOD 7|8|DET 8|6|OBJ
+	9|1|PUNCT
+*CHI:	había una niña .
+%mor:	v|habe-13S&PAS=have det:art|un-f=one co|niña=child .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	que le tenía mucho miedo a la oscuridad .
+%mor:	pro:rel|que=that pro:ind|le&m=him v|tene-13S&PAS=have
+	adv|mucho=much n|miedo&m=fear prepart|a=to det:art|el&f&SG=the
+	n|oscuridad&f=darkness .
+%gra:	1|0|ROOT 2|1|COMP 3|2|CMOD 4|5|MOD 5|3|OBJ 6|5|MOD 7|8|DET 8|6|OBJ
+	9|1|PUNCT
+%gpx:	mira al frente
+@Comment:	hace largas pausas entre emisiones
+*CHI:	estaba muy oscuro .
+%mor:	cop|esta-13S&PAS=be adv|muy=very adj|oscuro-m=dark .
+%gra:	1|0|ROOT 2|3|MOD 3|1|PRED 4|1|PUNCT
+%xsub:	$AV $A
+%cod:	$O:gra
+*KAR:	muy bien , vas muy bien .
+%mor:	adv|muy=very adv|bien=well cm|cm v|i-2S&PRES=go adv|muy=very
+	adv|bien=well .
+%gra:	1|3|JCT 2|3|JCT 3|4|SUBJ 4|0|ROOT 5|6|JCT 6|4|JCT 7|4|PUNCT
+*CHI:	la niña gritó .
+%mor:	det:art|el&f&SG=the n|niño-f=child v|grita-3S&PRET=shout .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%cod:	$C $O:par
+*CHI:	y una niña fue .
+%mor:	coord|y=and det:art|un-f=one co|niña=child v|i-3S&PRET=go .
+%gra:	1|0|ROOT 2|3|DET 3|4|SUBJ 4|1|COORD 5|1|PUNCT
+%cod:	$C $O:par
+*CHI:	y la sacó .
+%mor:	coord|y=and pro:obj|la-f=she v|saca-3S&PRET=bring_out .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|1|PUNCT
+%cod:	$C
+*CHI:	y la niña se asustó .
+%mor:	coord|y=and det:art|el&f&SG=the co|niña=child pro:refl|se=itself
+	v|asusta-3S&PRET=frighten .
+%gra:	1|0|ROOT 2|3|DET 3|5|SUBJ 4|5|SUBJ 5|1|COORD 6|1|PUNCT
+%xsub:	$V
+%cod:	$C $E:emo $E:pal $O:par
+*KAR:	mhm@i .
+%mor:	co|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	y llegó su mamá .
+%mor:	coord|y=and v|llega-3S&PRET=arrive det:poss|su&3S=his
+	n|mamá&f=mommy .
+%gra:	1|0|ROOT 2|1|COORD 3|4|DET 4|2|OBJ 5|1|PUNCT
+%cod:	$C $O:par
+*KAR:	mhm@i .
+%mor:	co|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	luego se la llevó a su casa .
+%mor:	adv|luego=afterwards pro:refl|se=itself pro:obj|la-f=she
+	v|lleva-3S&PRET=carry prepart|a=to det:poss|su&3S=his n|casa&f=house
+	.
+%gra:	1|2|JCT 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|COMP 6|7|DET 7|5|OBJ 8|4|PUNCT
+%cod:	$C $O:lug
+*CHI:	su papá le pegó .
+%mor:	det:poss|su&3S=his n|papá&m=father pro:ind|le&m=him
+	v|pega-3S&PRET=hit_adhere .
+%gra:	1|2|DET 2|4|SUBJ 3|2|MOD 4|0|ROOT 5|4|PUNCT
+%cod:	$C $O:par
+*KAR:	mhm@i !
+%mor:	co|mhm !
+%gra:	1|0|ROOT 2|1|PUNCT
+*KAR:	mhm@i .
+%mor:	co|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	porque <se hab(ía)> [//] se escapó de su casa .
+%mor:	conj|porque=because pro:refl|se=itself v|escapa-3S&PRET=escape
+	prep|de=of det:poss|su&3S=his n|casa&f=house .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|3|JCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+%cod:	$E:cau $O:lug
+*KAR:	mhm@i .
+%mor:	co|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	y llegó una niña .
+%mor:	coord|y=and v|llega-3S&PRET=arrive det:art|un-f=one co|niña=child .
+%gra:	1|0|ROOT 2|1|COORD 3|4|DET 4|2|OBJ 5|1|PUNCT
+%cod:	$C $O:par
+*CHI:	a que jugara con ella .
+%mor:	prepart|a=to pro:rel|que=that v|juga-13S&SUB&PAS=play prep|con=with
+	pro:sub|ello-f=he .
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|3|JCT 5|4|POBJ 6|1|PUNCT
+%cod:	$E:cau
+*KAR:	mhm@i .
+%mor:	co|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	y su papá no la dejó salir .
+%mor:	coord|y=and det:poss|su&3S=his n|papá&m=father adv|no=no
+	pro:obj|la-f=she v|deja-3S&PRET=leave inf|sali-INF=leave .
+%gra:	1|0|ROOT 2|3|DET 3|1|COORD 4|5|JCT 5|1|COORD 6|5|PRED 7|6|COMP
+	8|1|PUNCT
+%cod:	$C $O:par $E:neg
+*CHI:	luego otra vez la niña se [/] se había escapado .
+%mor:	adv|luego=afterwards qn|otro-f=other n|vez&f=turn
+	det:art|el&f&SG=the n|niño-f=child pro:refl|se=itself
+	aux|habe-13S&PAS=have part|escapa-PPART-m=escape .
+%gra:	1|3|JCT 2|3|DET 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|JCT 7|8|AUX 8|6|POBJ
+	9|3|PUNCT
+%cod:	$C $E:sup $O:par
+%gpx:	mira brevemente a KAR
+*KAR:	aha@i ?
+%mor:	co|aha ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	y jugó con la niña .
+%mor:	coord|y=and v|juga-3S&PRET=play prep|con=with det:art|el&f&SG=the
+	co|niña=child .
+%gra:	1|0|ROOT 2|1|COORD 3|2|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+%cod:	$C $O:par
+*KAR:	mhm@i .
+%mor:	co|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	y: [/] y se saltó por su ventana .
+%mor:	coord|y=and pro:refl|se=itself v|salta-3S&PRET=jump prep|por=for
+	det:poss|su&3S=his n|ventana&f=window .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|3|JCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+%cod:	$C $O:lug
+*CHI:	y: ahí estaba su papá .
+%mor:	coord|y=and adv|ahí=there cop|esta-13S&PAS=be det:poss|su&3S=his
+	n|papá&m=father .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|5|DET 5|3|PRED 6|1|PUNCT
+%cod:	$O:gra $O:par
+*CHI:	y le pegó .
+%mor:	coord|y=and pro:ind|le&m=him v|pega-3S&PRET=hit_adhere .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|1|PUNCT
+%cod:	$C
+*KAR:	mhm@i .
+%mor:	co|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	luego su [/] su [/] su tío llegó .
+%mor:	adv|luego=afterwards det:poss|su&3S=his n|tío-m=uncle
+	v|llega-3S&PRET=arrive .
+%gra:	1|3|JCT 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%cod:	$C $O:par
+%gpx:	mira brevemente a KAR
+*CHI:	y se la llevó al parque .
+%mor:	coord|y=and pro:refl|se=itself pro:obj|la-f=she
+	v|lleva-3S&PRET=carry prepart|a~det:art|el&m=to n|parque&m=park .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|1|COORD 5|4|COMP 6|7|DET 7|5|OBJ
+	8|1|PUNCT
+%cod:	$C $O:lug
+%gpx:	mira brevemente a KAR
+*KAR:	aha@i .
+%mor:	co|aha .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	y luego otra niña quiso ir con ella .
+%mor:	coord|y=and adv|luego=afterwards qn|otro-f=other n|niño-f=child
+	v|quere-3S&PRET=want inf|i-INF=go prep|con=with pro:sub|ello-f=he .
+%gra:	1|0|ROOT 2|1|COORD 3|4|DET 4|1|COORD 5|1|COORD 6|5|COMP 7|6|JCT
+	8|7|POBJ 9|1|PUNCT
+%xsub:	$V
+%cod:	$C $O:par $E:int
+%gpx:	mira brevemente a KAR
+*CHI:	y no quiso la niña .
+%mor:	coord|y=and adv|no=no v|quere-3S&PRET=want det:art|el&f&SG=the
+	co|niña=child .
+%gra:	1|0|ROOT 2|3|JCT 3|1|COORD 4|5|DET 5|3|OBJ 6|1|PUNCT
+%xsub:	$V
+%cod:	$C $E:emo $E:pal
+%gpx:	mira brevemente a KAR
+*CHI:	y entonces <su papá> [/] su papá la metió .
+%mor:	coord|y=and adv|entonces=then det:poss|su&3S=his n|papá&m=father
+	det:art|el&f&SG=the v|mete-3S&PRET=put .
+%gra:	1|0|ROOT 2|6|JCT 3|6|DET 4|6|SUBJ 5|6|DET 6|1|COORD 7|1|PUNCT
+%cod:	$C $O:par
+*CHI:	y [/] y [/] y su tío se llevó a la otra niña .
+%mor:	coord|y=and det:poss|su&3S=his n|tío-m=uncle pro:refl|se=itself
+	v|lleva-3S&PRET=carry prepart|a=to det:art|el&f&SG=the
+	qn|otro-f=other co|niña=child .
+%gra:	1|0|ROOT 2|3|DET 3|1|COORD 4|3|MOD 5|1|COORD 6|5|JCT 7|8|DET 8|6|POBJ
+	9|8|APP 10|1|PUNCT
+%cod:	$C $O:par $O:par
+%gpx:	mira brevemente a KAR
+*KAR:	aha@i ?
+%mor:	co|aha ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	y <la niña> [/] la niña andaba llorando .
+%mor:	coord|y=and det:art|el&f&SG=the n|niño-f=child v|anda-13S&PAS=walk
+	part|llora-PRPART=cry .
+%gra:	1|0|ROOT 2|3|DET 3|4|SUBJ 4|1|COORD 5|4|PRED 6|1|PUNCT
+%xsub:	$V
+%cod:	$C $O:par
+*KAR:	mhm@i ?
+%mor:	co|mhm ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	y llegó su tío .
+%mor:	coord|y=and v|llega-3S&PRET=arrive det:poss|su&3S=his n|tío-m=uncle
+	.
+%gra:	1|0|ROOT 2|1|COORD 3|4|DET 4|2|OBJ 5|1|PUNCT
+%cod:	$C $O:par
+*CHI:	<y ya> [//] y se la llevó .
+%mor:	coord|y=and pro:refl|se=itself pro:obj|la-f=she
+	v|lleva-3S&PRET=carry .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|3|PRED 5|1|PUNCT
+%cod:	$C
+*KAR:	ah !
+%mor:	co|ah !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	y entonces llegaron hasta la noche .
+%mor:	coord|y=and adv|entonces=then v|llega-3P&PRET=arrive
+	prep|hasta=until det:art|el&f&SG=the n|noche&f=night .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|3|JCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+%cod:	$C $O:tie
+%gpx:	mira brevemente a KAR
+*CHI:	y su papá le pegó a la niña .
+%mor:	coord|y=and det:poss|su&3S=his n|papá&m=father pro:ind|le&m=him
+	v|pega-3S&PRET=hit_adhere prepart|a=to det:art|el&f&SG=the
+	co|niña=child .
+%gra:	1|0|CONJ 2|3|DET 3|1|COORD 4|3|MOD 5|1|COORD 6|5|JCT 7|8|DET 8|6|ROOT
+	9|8|PUNCT
+%cod:	$C $O:par $O:par
+*KAR:	mhm@i .
+%mor:	co|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	y su mamá corrió <a su es(poso)> [//] a su [/] a su esposo .
+%mor:	coord|y=and det:poss|su&3S=his n|mamá&f=mommy v|corre-3S&PRET=run
+	prepart|a=to prepart|a=to det:poss|su&3S=his n|esposo-m=spouse .
+%gra:	1|0|ROOT 2|3|DET 3|1|COORD 4|1|COORD 5|4|PRED 6|5|COMP 7|8|DET 8|6|OBJ
+	9|1|PUNCT
+%cod:	$C $O:par $O:par
+%gpx:	mira brevemente a KAR
+*KAR:	mhm@i .
+%mor:	co|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	y después tuvieron un hijo .
+%mor:	coord|y=and adv|después=after v|tene-3P&PRET=have det:art|un&m=one
+	n|hijo-m=child .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|5|DET 5|3|OBJ 6|1|PUNCT
+%cod:	$C
+*CHI:	<y luego> [//] y otra vez se casaba la señora .
+%mor:	coord|y=and qn|otro-f=other n|vez&f=turn pro:refl|se=itself
+	v|casa-13S&PAS=marry det:art|el&f&SG=the n|señora&f=lady .
+%gra:	1|0|ROOT 2|3|DET 3|1|COORD 4|1|COORD 5|1|COORD 6|7|DET 7|5|OBJ
+	8|1|PUNCT
+%cod:	$C $O:par
+*CHI:	y vivían juntos .
+%mor:	coord|y=and v|vivi-3P&PAS=live adj|junto-m-PL=nearby .
+%gra:	1|0|ROOT 2|1|COORD 3|2|PRED 4|1|PUNCT
+%cod:	$C
+%gpx:	mira brevemente a KAR
+*CHI:	y la niña se quedó solita .
+%mor:	coord|y=and det:art|el&f&SG=the n|niño-f=child pro:refl|se=itself
+	v|queda-3S&PRET=stay adj|solo-DIM=alone .
+%gra:	1|0|ROOT 2|3|DET 3|1|COORD 4|3|MOD 5|4|CMOD 6|5|OBJ 7|1|PUNCT
+%xsub:	$A
+%cod:	$C $E:pal
+%gpx:	mira brevemente a KAR
+*KAR:	mhm@i ?
+%mor:	co|mhm ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	y luego otra vez regresaron a su casa .
+%mor:	coord|y=and adv|luego=afterwards qn|otro-f=other n|vez&f=turn
+	v|regresa-3P&PRET=return prepart|a=to det:poss|su&3S=his
+	n|casa&f=house .
+%gra:	1|0|ROOT 2|4|JCT 3|4|DET 4|1|COORD 5|1|COORD 6|5|COMP 7|8|DET 8|6|OBJ
+	9|1|PUNCT
+%cod:	$C $O:lug
+*CHI:	la niña ya se había ido .
+%mor:	det:art|el&f&SG=the co|niña=child adv|ya=already pro:refl|se=itself
+	aux|habe-13S&PAS=have part|i-PPART-m=go .
+%gra:	1|2|DET 2|0|ROOT 3|2|JCT 4|3|JCT 5|6|AUX 6|4|POBJ 7|2|PUNCT
+%cod:	$C $O:par
+*CHI:	y le dejó una carta .
+%mor:	coord|y=and pro:ind|le&m=him v|deja-3S&PRET=leave det:art|un-f=one
+	n|carta&f=letter .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|5|DET 5|3|OBJ 6|1|PUNCT
+%cod:	$C
+*KAR:	aha@i ?
+%mor:	co|aha ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	se llevó todas sus muñecas .
+%mor:	pro:refl|se=itself v|lleva-3S&PRET=carry pro:indef|todo-f-PL=all
+	co|sus n|muñeco-f-PL=doll .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+%xsub:	$A
+%cod:	$C $O:obj
+%gpx:	mira brevemente a KAR
+*CHI:	y la niña regresó .
+%mor:	coord|y=and det:art|el&f&SG=the n|niño-f=child
+	v|regresa-3S&PRET=return .
+%gra:	1|0|ROOT 2|3|DET 3|4|SUBJ 4|1|COORD 5|1|PUNCT
+%cod:	$C $O:par
+*CHI:	y su papá le había pegado .
+%mor:	coord|y=and det:poss|su&3S=his n|papá&m=father pro:ind|le&m=him
+	aux|habe-13S&PAS=have part|pega-PPART-m=hit_adhere .
+%gra:	1|0|ROOT 2|3|DET 3|1|COORD 4|1|COORD 5|6|AUX 6|4|PRED 7|1|PUNCT
+%cod:	$C $O:par
+*CHI:	y xxx la señora .
+%mor:	coord|y=and det:art|el&f&SG=the n|señora&f=lady .
+%gra:	1|0|ROOT 2|3|DET 3|1|COORD 4|1|PUNCT
+%gpx:	mira brevemente a KAR
+*KAR:	mhm@i .
+%mor:	co|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	y ya vivieron juntos .
+%mor:	coord|y=and adv|ya=already v|vivi-3P&PRET=live
+	adj|junto-m-PL=nearby .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|3|PRED 5|1|PUNCT
+%xsub:	$AV
+%cod:	$C
+*KAR:	mhm@i ?
+%mor:	co|mhm ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	y la niña se había escapado .
+%mor:	coord|y=and det:art|el&f&SG=the co|niña=child pro:refl|se=itself
+	aux|habe-13S&PAS=have part|escapa-PPART-m=escape .
+%gra:	1|0|ROOT 2|3|DET 3|1|COORD 4|3|JCT 5|6|AUX 6|4|POBJ 7|1|PUNCT
+%cod:	$C $O:par
+*KAR:	aha@i ?
+%mor:	co|aha ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	y [/] y su papá regresó .
+%mor:	coord|y=and det:poss|su&3S=his n|papá&m=father
+	v|regresa-3S&PRET=return .
+%gra:	1|0|ROOT 2|3|DET 3|1|COORD 4|1|COORD 5|1|PUNCT
+%cod:	$C $O:par
+*CHI:	y la niña se quedó <en su> [//] en la casa de su abuelita .
+%mor:	coord|y=and det:art|el&f&SG=the co|niña=child pro:refl|se=itself
+	v|queda-3S&PRET=stay prep|en=in det:art|el&f&SG=the n|casa&f=house
+	prep|de=of det:poss|su&3S=his n|abuelo&f-DIM=grandparent .
+%gra:	1|0|ROOT 2|3|DET 3|5|SUBJ 4|5|SUBJ 5|1|COORD 6|5|JCT 7|8|DET 8|6|POBJ
+	9|8|JCT 10|11|DET 11|9|POBJ 12|1|PUNCT
+%cod:	$C $O:par $O:lug
+%gpx:	mira brevemente a KAR
+*KAR:	mhm@i ?
+%mor:	co|mhm ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	<su agúelita [: abuelita] [*] > [/] su agúelita [: abuelita] [*] se
+	había ido .
+%mor:	det:poss|su&3S=his n|abuelo&f-DIM=grandparent pro:refl|se=itself
+	aux|habe-13S&PAS=have part|i-PPART-m=go .
+%gra:	1|2|DET 2|0|ROOT 3|2|JCT 4|5|AUX 5|3|POBJ 6|2|PUNCT
+%cod:	$C $O:par
+*KAR:	mhm@i ?
+%mor:	co|mhm ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	y su agúelita [: abuelita] [*] se había ido con su mamá , con su
+	mamá de la niña .
+%mor:	coord|y=and det:poss|su&3S=his n|abuelo&f-DIM=grandparent
+	pro:refl|se=itself aux|habe-13S&PAS=have part|i-PPART-m=go
+	prep|con=with det:poss|su&3S=his n|mamá&f=mommy cm|cm prep|con=with
+	det:poss|su&3S=his n|mamá&f=mommy prep|de=of det:art|el&f&SG=the
+	co|niña=child .
+%gra:	1|0|ROOT 2|3|DET 3|1|COORD 4|1|COORD 5|6|AUX 6|1|COORD 7|1|COORD
+	8|9|DET 9|7|POBJ 10|9|MOD 11|7|JCT 12|13|DET 13|11|POBJ 14|13|JCT 15|16|DET
+	16|14|POBJ 17|1|PUNCT
+%cod:	$C $O:par $O:par
+%gpx:	mira brevemente a KAR
+*KAR:	mhm@i .
+%mor:	co|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	luego la niña empezó a llorar .
+%mor:	adv|luego=afterwards det:art|el&f&SG=the n|niño-f=child
+	v|empeza-3S&PRET=begin prepart|a=to inf|llora-INF=cry .
+%gra:	1|3|JCT 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|4|PUNCT
+%xsub:	$V
+%cod:	$C $O:par
+*CHI:	y llegó su [/] su abuelita .
+%mor:	coord|y=and v|llega-3S&PRET=arrive det:poss|su&3S=his
+	n|abuelo&f-DIM=grandparent .
+%gra:	1|0|ROOT 2|1|COORD 3|4|DET 4|2|OBJ 5|1|PUNCT
+%cod:	$C $O:par
+*CHI:	y se la llevó .
+%mor:	coord|y=and pro:refl|se=itself pro:obj|la-f=she
+	v|lleva-3S&PRET=carry .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|3|PRED 5|1|PUNCT
+%cod:	$C
+*KAR:	ah !
+%mor:	co|ah !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	su papá <y su> [/] y su mamá andaban xxx .
+%mor:	det:poss|su&3S=his n|papá&m=father coord|y=and det:poss|su&3S=his
+	n|mamá&f=mommy v|anda-3P&PAS=walk .
+%gra:	1|2|DET 2|6|SUBJ 3|2|CONJ 4|5|DET 5|3|COORD 6|0|ROOT 7|6|PUNCT
+%cod:	$O:par $O:gra
+*KAR:	mhm@i ?
+%mor:	co|mhm ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	y la niña se había encontrado un niño .
+%mor:	coord|y=and det:art|el&f&SG=the co|niña=child pro:refl|se=itself
+	aux|habe-13S&PAS=have part|encontra-PPART-m=find det:art|un&m=one
+	n|niño-m=child .
+%gra:	1|0|ROOT 2|3|DET 3|1|COORD 4|3|JCT 5|6|AUX 6|4|POBJ 7|8|DET 8|6|OBJ
+	9|1|PUNCT
+%cod:	$C $O:par $O:par
+*KAR:	mhm@i ?
+%mor:	co|mhm ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	y se la llevó a su casa .
+%mor:	coord|y=and pro:refl|se=itself pro:obj|la-f=she
+	v|lleva-3S&PRET=carry prepart|a=to det:poss|su&3S=his n|casa&f=house
+	.
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|1|COORD 5|4|COMP 6|7|DET 7|5|OBJ
+	8|1|PUNCT
+%cod:	$C $O:lug
+*CHI:	y [/] y [/] y el niño le andaba pidiendo .
+%mor:	coord|y=and det:art|el&m&SG=the n|niño-m=child pro:ind|le&m=him
+	v|anda-13S&PAS=walk part|pedi-PRPART=request .
+%gra:	1|0|ROOT 2|3|DET 3|1|COORD 4|3|MOD 5|4|CMOD 6|5|OBJ 7|1|PUNCT
+%cod:	$C
+*CHI:	que haga de comer .
+%mor:	pro:rel|que=that v|hace-13S&SUB&PRES=do prep|de=of inf|come-INF=eat
+	.
+%gra:	1|0|ROOT 2|1|CMOD 3|2|JCT 4|3|POBJ 5|1|PUNCT
+*CHI:	y [/] <y ella no lo> [/] y ella no sabía cocinar .
+%mor:	coord|y=and pro:sub|ello-f=he adv|no=no v|sabe-13S&PAS=know
+	inf|cocina-INF=cook .
+%gra:	1|0|ROOT 2|1|COORD 3|4|JCT 4|1|COORD 5|4|COMP 6|1|PUNCT
+%cod:	$O:par $E:neg $E:emo $E:pal
+%gpx:	mira brevemente a KAR
+*KAR:	aha@i .
+%mor:	co|aha .
+%gra:	1|0|ROOT 2|1|PUNCT
+*KAR:	habla un poquito más fuerte .
+%mor:	v|habla-3S&PRES=speak det:art|un&m=one pro:indef|poquito=little
+	adv|más=more adj|fuerte=strong .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|5|MOD 5|3|MOD 6|1|PUNCT
+*CHI:	entonces el niño él sabía cocinar .
+%mor:	adv|entonces=then det:art|el&m&SG=the n|niño-m=child
+	pro:sub|él&m=he v|sabe-13S&PAS=know inf|cocina-INF=cook .
+%gra:	1|3|JCT 2|3|DET 3|5|SUBJ 4|5|SUBJ 5|0|ROOT 6|5|COMP 7|5|PUNCT
+%cod:	$O:par $E:emo $E:pal
+*KAR:	aha@i .
+%mor:	co|aha .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	porque su mamá <lo había:> [/] lo había enseñado a cocinar .
+%mor:	conj|porque=because det:poss|su&3S=his n|mamá&f=mommy
+	pro:obj|le-m=him aux|habe-13S&PAS=have part|enseña-PPART-m=teach
+	prepart|a=to inf|cocina-INF=cook .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|JCT 5|6|AUX 6|4|POBJ 7|8|INF 8|6|COMP
+	9|1|PUNCT
+%cod:	$E:cau $O:par
+%gpx:	mira brevemente a KAR
+*CHI:	y la niña dijo +"/.
+%mor:	coord|y=and det:art|el&f&SG=the n|niño-f=child v|deci-3S&PRET=say
+	+"/.
+%gra:	1|0|ROOT 2|3|DET 3|4|SUBJ 4|1|COORD 5|1|COORD
+%cod:	$C $O:par
+*CHI:	+" qué rico cocinas !
+%mor:	pro:int|qué=what adj|rico-m=rich n|cocina&f-PL=kitchen !
+%gra:	1|3|DET 2|3|MOD 3|0|ROOT 4|3|PUNCT
+%xsub:	$AV
+%cod:	$E:dis $E:exc
+*CHI:	y [/] y [/] y el niño <y la> [/] y [/] y la niña se casaron .
+%mor:	coord|y=and det:art|el&m&SG=the n|niño-m=child coord|y=and
+	det:art|el&f&SG=the n|niño-f=child pro:refl|se=itself
+	v|casa-3P&PRET=marry .
+%gra:	1|0|ROOT 2|3|DET 3|1|COORD 4|3|CONJ 5|6|DET 6|8|SUBJ 7|6|MOD 8|4|COORD
+	9|1|PUNCT
+%cod:	$C $O:par .
+%gpx:	mira brevemente a KAR
+*CHI:	<y vivieron> [//] y se fueron de viaje .
+%mor:	coord|y=and pro:refl|se=itself cop|se-3P&PRET=be prep|de=of
+	n|viaje&m=journey .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|3|JCT 5|4|POBJ 6|1|PUNCT
+%cod:	$C
+*KAR:	mhm@i ?
+%mor:	co|mhm ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	y no tenían dinero .
+%mor:	coord|y=and adv|no=no v|tene-3P&PAS=have n|dinero&m=coin .
+%gra:	1|0|ROOT 2|3|JCT 3|1|COORD 4|3|OBJ 5|1|PUNCT
+%cod:	$O:gra $E:neg
+*CHI:	y ya fueron a sacar del banco .
+%mor:	coord|y=and adv|ya=already cop|se-3P&PRET=be prepart|a=to
+	inf|saca-INF=bring_out prep|de~det:art|el&m=of n|banco&m=bank .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|3|PRED 5|1|COORD 6|5|JCT 7|8|DET
+	8|6|POBJ 9|1|PUNCT
+%cod:	$C $O:lug
+*CHI:	como su papá del niño <le había> [//] había tenido ahí dinero .
+%mor:	adv|como=like det:poss|su&3S=his n|papá&m=father
+	prep|de~det:art|el&m=of co|niño=child aux|habe-13S&PAS=have
+	part|tene-PPART-m=have adv|ahí=there n|dinero&m=coin .
+%gra:	1|3|JCT 2|3|DET 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|8|AUX 8|6|CMOD
+	9|10|MOD 10|8|OBJ 11|3|PUNCT
+%cod:	$E:cau $O:par $O:lug
+%gpx:	mira brevemente a KAR
+*CHI:	y el niño fue por él .
+%mor:	coord|y=and det:art|el&m&SG=the n|niño-m=child v|i-3S&PRET=go
+	prep|por=for pro:sub|él&m=he .
+%gra:	1|0|ROOT 2|3|DET 3|4|SUBJ 4|1|COORD 5|4|JCT 6|5|POBJ 7|1|PUNCT
+%cod:	$C $O:par
+*CHI:	y se fueron de viaje .
+%mor:	coord|y=and pro:refl|se=itself cop|se-3P&PRET=be prep|de=of
+	n|viaje&m=journey .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|3|JCT 5|4|POBJ 6|1|PUNCT
+%cod:	$C
+%gpx:	mira brevemente a KAR
+*KAR:	mhm@i ?
+%mor:	co|mhm ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	luego la niña xxx y dijo +"/.
+%mor:	adv|luego=afterwards det:art|el&f&SG=the co|niña=child coord|y=and
+	v|deci-3S&PRET=say +"/.
+%gra:	1|3|JCT 2|3|DET 3|0|ROOT 4|3|CONJ 5|4|COORD 6|3|PUNCT
+%cod:	$C $O:par
+*CHI:	+" mejor yo me quedo contigo .
+%mor:	adj|mejor=better pro:sub|yo=I pro:obj|me=me v|queda-1S&PRES=stay
+	adv|contigo=with_you .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+%xsub:	$AV
+%cod:	$C $E:dis $E:pal
+*CHI:	y el niño no quería .
+%mor:	coord|y=and det:art|el&m&SG=the n|niño-m=child adv|no=no
+	v|quere-13S&PAS=want .
+%gra:	1|0|ROOT 2|3|DET 3|5|SUBJ 4|5|JCT 5|1|COORD 6|1|PUNCT
+%xsub:	$V
+%cod:	$C $E:emo $E:pal $E:neg
+%gpx:	mira brevemente a KAR
+*KAR:	mhm@i .
+%mor:	co|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	se tuvo que ir a su casa .
+%mor:	pro:refl|se=itself v|tene-3S&PRET=have pro:rel|que=that
+	inf|i-INF=go prepart|a=to det:poss|su&3S=his n|casa&f=house .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|REL 4|3|COMP 5|4|JCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+%xsub:	$V
+%cod:	$C $E:obl $O:lug
+*CHI:	y su mamá cuando llegó el niño .
+%mor:	coord|y=and det:poss|su&3S=his n|mamá&f=mommy pro:rel|cuando=when
+	v|llega-3S&PRET=arrive det:art|el&m&SG=the co|niño=child .
+%gra:	1|0|ROOT 2|3|DET 3|1|COORD 4|3|REL 5|4|CMOD 6|7|DET 7|5|OBJ 8|1|PUNCT
+%cod:	$C $O:par $O:par
+*CHI:	la niña andaba persiguiendo al niño .
+%mor:	det:art|el&f&SG=the n|niño-f=child v|anda-13S&PAS=walk
+	part|persegui-PRPART=pursue prepart|a~det:art|el&m=to n|niño-m=child
+	.
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|COMP 5|4|OBJ 6|7|DET 7|5|OBJ 8|3|PUNCT
+%cod:	$O:eve $O:par $O:par
+*CHI:	para que se casara otra vez con él .
+%mor:	prep|para=for pro:rel|que=that pro:refl|se=itself
+	v|casa-13S&SUB&PAS=marry qn|otro-f=other n|vez&f=turn prep|con=with
+	pro:sub|él&m=he .
+%gra:	1|0|ROOT 2|1|REL 3|4|SUBJ 4|2|CMOD 5|6|DET 6|4|OBJ 7|6|JCT 8|7|POBJ
+	9|1|PUNCT
+%cod:	$E:cau $E:pal $O:par
+%gpx:	mira brevemente a KAR
+*CHI:	y su mamá no quiso .
+%mor:	coord|y=and det:poss|su&3S=his n|mamá&f=mommy adv|no=no
+	v|quere-3S&PRET=want .
+%gra:	1|0|ROOT 2|5|DET 3|5|SUBJ 4|5|JCT 5|1|COORD 6|1|PUNCT
+%xsub:	$V
+%cod:	$C $O:par $E:emo $E:pal
+*CHI:	luego su mamá le pegó al niño .
+%mor:	adv|luego=afterwards det:poss|su&3S=his n|mamá&f=mommy
+	pro:ind|le&m=him v|pega-3S&PRET=hit_adhere prepart|a~det:art|el&m=to
+	n|niño-m=child .
+%gra:	1|3|JCT 2|3|DET 3|5|SUBJ 4|3|MOD 5|0|ROOT 6|5|COMP 7|8|DET 8|6|OBJ
+	9|5|PUNCT
+%cod:	$C $O:par $O:par
+*CHI:	y el niño se casó con la niña .
+%mor:	coord|y=and det:art|el&m&SG=the co|niño=child pro:refl|se=itself
+	v|casa-3S&PRET=marry prep|con=with det:art|el&f&SG=the co|niña=child
+	.
+%gra:	1|0|ROOT 2|3|DET 3|5|SUBJ 4|5|SUBJ 5|1|COORD 6|5|JCT 7|8|DET 8|6|POBJ
+	9|1|PUNCT
+%cod:	$C $O:par $O:par
+*CHI:	y se fueron de viaje .
+%mor:	coord|y=and pro:refl|se=itself cop|se-3P&PRET=be prep|de=of
+	n|viaje&m=journey .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|3|JCT 5|4|POBJ 6|1|PUNCT
+%cod:	$C
+%gpx:	mira brevemente a KAR
+*CHI:	<y luego> [/] y luego (...) encontraron un bebé .
+%mor:	coord|y=and adv|luego=afterwards v|encontra-3P&PRET=find
+	det:art|un&m=one n|bebé&m=baby .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|5|DET 5|3|OBJ 6|1|PUNCT
+%cod:	$C
+*CHI:	y [/] y la niña lo quería .
+%mor:	coord|y=and det:art|el&f&SG=the co|niña=child pro:obj|le-m=him
+	v|quere-13S&PAS=want .
+%gra:	1|0|ROOT 2|3|DET 3|5|SUBJ 4|5|SUBJ 5|1|COORD 6|1|PUNCT
+%xsub:	$V
+%cod:	$E:emo $E:pal $O:par
+*CHI:	y [/] y [/] y el niño no lo quería .
+%mor:	coord|y=and det:art|el&m&SG=the n|niño-m=child adv|no=no
+	pro:obj|le-m=him v|quere-13S&PAS=want .
+%gra:	1|0|ROOT 2|3|DET 3|6|SUBJ 4|5|JCT 5|6|SUBJ 6|1|COORD 7|1|PUNCT
+%xsub:	$V
+%cod:	$E:emo $E:pal $O:par
+*KAR:	mhm@i ?
+%mor:	co|mhm ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	y hasta ahí se acabó .
+%mor:	coord|y=and prep|hasta=until adv|ahí=there pro:refl|se=itself
+	v|acaba-3S&PRET=finish .
+%gra:	1|0|ROOT 2|5|JCT 3|4|JCT 4|2|POBJ 5|1|COORD 6|1|PUNCT
+%cod:	$A:cod
+%gpx:	mira a KAR
+*KAR:	y hasta ahí se acabó !
+%mor:	coord|y=and prep|hasta=until adv|ahí=there pro:refl|se=itself
+	v|acaba-3S&PRET=finish !
+%gra:	1|0|ROOT 2|5|JCT 3|4|JCT 4|2|POBJ 5|1|COORD 6|1|COORD
+@Comment:	CHI no quiso cambiar su narración
+@End

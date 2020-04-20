@@ -1,0 +1,154 @@
+@UTF8
+@PID:	11312/c-00032611-1
+@Begin
+@Languages:	spa
+@Participants:	KAR Karina Adult , CHI Hugo Target_Child
+@ID:	spa|Hess|KAR|||||Adult|||
+@ID:	spa|Hess|CHI|9;08.12||||Target_Child|||
+@Date:	19-MAY-1999
+@Comment:	Education of CHI is tercero , pública
+@Transcriber:	Karina Hess
+@Situation:	Tarea B (completar una narración)
+@Comment:	se transcribe únicamente desde el reactivo y la última
+	versión
+*KAR:	había una vez un niño .
+%mor:	v|habe-13S&PAS=have det:art|un-f=one n|vez&f=turn det:art|un&m=one
+	n|niño-m=child .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|5|DET 5|3|OBJ 6|1|PUNCT
+*CHI:	que le tenía mucho miedo a la oscuridad .
+%mor:	pro:rel|que=that pro:ind|le&m=him v|tene-13S&PAS=have
+	adv|mucho=much n|miedo&m=fear prepart|a=to det:art|el&f&SG=the
+	n|oscuridad&f=darkness .
+%gra:	1|0|ROOT 2|1|COMP 3|2|CMOD 4|5|MOD 5|3|OBJ 6|5|MOD 7|8|DET 8|6|OBJ
+	9|1|PUNCT
+*CHI:	sí , le tenía miedo .
+%mor:	co|sí=yes cm|cm pro:ind|le&m=him v|tene-13S&PAS=have n|miedo&m=fear
+	.
+%gra:	1|0|ROOT 2|1|COMP 3|2|COMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+%cod:	$E:emo $E:pal
+%gpx:	mira al frente
+*CHI:	por lo que él pensaba .
+%mor:	prep|por=for pro:obj|le-m=him pro:rel|que=that pro:sub|él&m=he
+	v|pensa-13S&PAS=think .
+%gra:	1|0|ROOT 2|1|POBJ 3|2|REL 4|5|SUBJ 5|3|CMOD 6|1|PUNCT
+%xsub:	$V
+%cod:	$E:cau $E:emo $E:pal $O:par
+*CHI:	que en la noche salía +/.
+%mor:	pro:rel|que=that prep|en=in det:art|el&f&SG=the n|noche&f=night
+	v|sali-13S&PAS=leave +/.
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|4|MOD 6|1|PUNCT
+*CHI:	saldría algo .
+%mor:	v|sali-13S&COND=leave pro:indef|algo=something .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$E:hip $O:tie $O:gra
+*CHI:	entonces cada vez que: era de día sus amigos +/.
+%mor:	adv|entonces=then qn|cada=each n|vez&f=turn pro:rel|que=that
+	cop|se-13S&PAS=be prep|de=of n|día&m=day co|sus n|amigo-m-PL=friend
+	+/.
+%gra:	1|3|JCT 2|3|DET 3|0|ROOT 4|3|REL 5|4|CMOD 6|5|JCT 7|6|POBJ 8|9|DET
+	9|7|MOD 10|3|PUNCT
+*CHI:	le tenía miedo a la oscuridad .
+%mor:	pro:ind|le&m=him v|tene-13S&PAS=have n|miedo&m=fear prepart|a=to
+	det:art|el&f&SG=the n|oscuridad&f=darkness .
+%gra:	1|0|ROOT 2|1|CMOD 3|2|OBJ 4|3|MOD 5|6|DET 6|4|OBJ 7|1|PUNCT
+%cod:	$E:jus $E:emo $E:pal $O:gra
+*CHI:	por lo que sus amigos le [/] le contaban que: [//] historias .
+%mor:	prep|por=for pro:obj|le-m=him pro:rel|que=that co|sus
+	n|amigo-m-PL=friend pro:ind|le&m=him v|conta-3P&PAS=count_tell
+	n|historia&f-PL=story .
+%gra:	1|0|ROOT 2|1|POBJ 3|2|REL 4|5|DET 5|3|CMOD 6|5|MOD 7|6|CMOD 8|7|OBJ
+	9|1|PUNCT
+%cod:	$E:cau $O:par $O:obj
+*CHI:	que no pasan .
+%mor:	pro:rel|que=that adv|no=no v|pasa-3P&PRES=pass .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%cod:	$E:jus $E:neg
+%gpx:	niega con la cabeza
+*CHI:	entonces <él se:> [//] él le tenía mucho miedo .
+%mor:	adv|entonces=then pro:sub|él&m=he pro:ind|le&m=him
+	v|tene-13S&PAS=have adv|mucho=much n|miedo&m=fear .
+%gra:	1|2|JCT 2|4|SUBJ 3|4|SUBJ 4|0|ROOT 5|6|MOD 6|4|OBJ 7|4|PUNCT
+%xsub:	$A
+%cod:	$E:emo $E:pal $E:sup $O:par
+*CHI:	y entonces ya este: ya cuando era de noche .
+%mor:	coord|y=and adv|entonces=then adv|ya=already det:dem|este=this
+	adv|ya=already conj|cuando=when cop|se-13S&PAS=be prep|de=of
+	n|noche&f=night .
+%gra:	1|0|ROOT 2|3|JCT 3|1|COORD 4|6|DET 5|6|JCT 6|1|COORD 7|1|COORD 8|7|JCT
+	9|8|POBJ 10|1|PUNCT
+%cod:	$O:tie
+*CHI:	ya este: (.) ya no se podía dormir .
+%mor:	adv|ya=already det:dem|este=this adv|ya=already adv|no=no
+	pro:refl|se=itself v|pode-13S&PAS=can inf|dormi-INF=sleep .
+%gra:	1|2|JCT 2|3|DET 3|4|JCT 4|5|JCT 5|6|SUBJ 6|0|ROOT 7|6|COMP 8|6|PUNCT
+%xsub:	$V
+%cod:	$O:cas $E:neg $E:pal
+*CHI:	por lo que estaba pensando .
+%mor:	prep|por=for pro:obj|le-m=him pro:rel|que=that cop|esta-13S&PAS=be
+	part|pensa-PRPART=think .
+%gra:	1|0|ROOT 2|1|POBJ 3|2|REL 4|3|CMOD 5|4|PRED 6|1|PUNCT
+%xsub:	$V
+%cod:	$E:cau $E:emo $E:pal
+*CHI:	en lo que sus amigos <les dijo> [= le dijeron] .
+%mor:	prep|en=in pro:obj|le-m=him pro:rel|que=that co|sus
+	n|amigo-m-PL=friend pro:ind|le&m-PL=him v|deci-3S&PRET=say .
+%gra:	1|0|ROOT 2|1|POBJ 3|2|REL 4|5|DET 5|7|SUBJ 6|5|MOD 7|3|COMP 8|1|PUNCT
+%cod:	$O:gra $O:par
+*CHI:	porque era chico .
+%mor:	conj|porque=because cop|se-13S&PAS=be adj|chico-m=small .
+%gra:	1|0|ROOT 2|1|SCL 3|2|PRED 4|1|PUNCT
+%cod:	$O:gra
+*CHI:	enton(ce)s ya creció: .
+%mor:	adv|entonces=then adv|ya=already v|crece-3S&PRET=grow .
+%gra:	1|2|JCT 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%cod:	$C
+*CHI:	y creció con el tiempo .
+%mor:	coord|y=and v|crece-3S&PRET=grow prep|con=with det:art|el&m&SG=the
+	n|tiempo&m=season .
+%gra:	1|0|ROOT 2|1|COORD 3|2|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+%cod:	$C
+*CHI:	entonces ya después cuando fue más grande .
+%mor:	adv|entonces=then adv|ya=already adv|después=after conj|cuando=when
+	v|i-3S&PRET=go adv|más=more adj|grande=big .
+%gra:	1|2|JCT 2|3|JCT 3|4|JCT 4|5|SUBJ 5|0|ROOT 6|7|MOD 7|5|PRED 8|5|PUNCT
+%xsub:	$AV $A
+%cod:	$O:eve $E:sup
+*CHI:	le contaron las historias .
+%mor:	pro:ind|le&m=him v|conta-3P&PRET=count_tell det:art|el&f-PL=the
+	n|historia&f-PL=story .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%cod:	$C
+*CHI:	y ya no le tuvo miedo a la oscuridad .
+%mor:	coord|y=and adv|ya=already adv|no=no pro:ind|le&m=him
+	v|tene-3S&PRET=have n|miedo&m=fear prepart|a=to det:art|el&f&SG=the
+	n|oscuridad&f=darkness .
+%gra:	1|0|ROOT 2|3|JCT 3|4|JCT 4|1|COORD 5|1|COORD 6|5|OBJ 7|6|MOD 8|9|DET
+	9|7|OBJ 10|1|PUNCT
+%cod:	$R $E:emo $E:pal $E:neg $O:gra
+*CHI:	y así aprendió .
+%mor:	coord|y=and adv|así=thus v|aprende-3S&PRET=learn .
+%gra:	1|0|ROOT 2|3|JCT 3|1|COORD 4|1|PUNCT
+%xsub:	$V
+%cod:	$A:cod $E:emo $E:pal
+*CHI:	que no le tienen que [/] que tener miedo a la oscuridad .
+%mor:	pro:rel|que=that adv|no=no pro:ind|le&m=him v|tene-3P&PRES=have
+	pro:rel|que=that inf|tene-INF=have n|miedo&m=fear prepart|a=to
+	det:art|el&f&SG=the n|oscuridad&f=darkness .
+%gra:	1|0|ROOT 2|3|JCT 3|4|SUBJ 4|1|CMOD 5|4|REL 6|5|COMP 7|6|OBJ 8|6|OBJ
+	9|10|DET 10|8|OBJ 11|1|PUNCT
+%xsub:	$V
+%cod:	$A:cod $E:jus $E:neg $E:obl $E:emo $E:pal $O:gra
+*CHI:	porque no pasa nada malo ni nada .
+%mor:	conj|porque=because adv|no=no v|pasa-3S&PRES=pass
+	pro:indef|nada=nothing adj|malo-m=bad coord|ni=nor
+	pro:indef|nada=nothing .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|6|MOD 6|4|CONJ 7|6|COORD 8|3|PUNCT
+%xsub:	$A
+%cod:	$A:cod $E:jus $E:neg $E:pal $E:neg
+%gpx:	levanta ligeramente los hombros
+*CHI:	ya .
+%mor:	adv|ya=already .
+%gra:	1|0|ROOT 2|1|PUNCT
+%cod:	$A:cod
+@Comment:	CHI ya no quiso volver a cambiar su historia
+@End

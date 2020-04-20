@@ -1,0 +1,244 @@
+@UTF8
+@PID:	11312/c-00032651-1
+@Begin
+@Languages:	spa
+@Participants:	KAR Karina Adult , CHI Martín Target_Child
+@ID:	spa|Hess|KAR|||||Adult|||
+@ID:	spa|Hess|CHI|6;09.17||||Target_Child|||
+@Date:	28-JUN-1999
+@Comment:	Education of CHI is primero , particular
+@Transcriber:	Karina Hess
+@Situation:	Tarea B (completar una narración)
+@Comment:	sólo se transcribe a partir de la presentación del reactivo
+*KAR:	había una vez un niño .
+%mor:	v|habe-13S&PAS=have det:art|un-f=one n|vez&f=turn det:art|un&m=one
+	n|niño-m=child .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|5|DET 5|3|OBJ 6|1|PUNCT
+*KAR:	que le tenía mucho miedo a la oscuridad .
+%mor:	pro:rel|que=that pro:ind|le&m=him v|tene-13S&PAS=have
+	adv|mucho=much n|miedo&m=fear prepart|a=to det:art|el&f&SG=the
+	n|oscuridad&f=darkness .
+%gra:	1|0|ROOT 2|1|COMP 3|2|CMOD 4|5|MOD 5|3|OBJ 6|5|MOD 7|8|DET 8|6|OBJ
+	9|1|PUNCT
+*KAR:	vas tú .
+%mor:	v|i-2S&PRES=go pro:sub|tú=you .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	entonces él decidió .
+%mor:	adv|entonces=then pro:sub|él&m=he v|decidi-3S&PRET=decide .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%xsub:	$V
+%cod:	$C $E:emo $E:pal $O:par
+%gpx:	mira hacia el piso
+*CHI:	y le dijo a su mamá +"/.
+%mor:	coord|y=and pro:ind|le&m=him v|deci-3S&PRET=say prepart|a=to
+	det:poss|su&3S=his n|mamá&f=mommy +"/.
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|3|JCT 5|6|DET 6|4|POBJ 7|1|COORD
+%cod:	$C $O:par
+*CHI:	+" mamá , me prendes la luz del baño ?
+%mor:	n|mamá&f=mommy cm|cm pro:obj|me=me v|prende-2S&PRES=ignite
+	det:art|el&f&SG=the n|luz&f=light prep|de~det:art|el&m=of
+	n|baño&m=bath ?
+%gra:	1|0|ROOT 2|1|MOD 3|1|REL 4|3|CMOD 5|6|DET 6|4|OBJ 7|6|JCT 8|9|DET
+	9|7|POBJ 10|1|PUNCT
+%cod:	$E:dis $O:obj $O:lug
+*CHI:	+" pero cómo ?
+%mor:	conj|pero=but pro:int|cómo=how ?
+%gra:	1|0|ROOT 2|1|SCL 3|1|PUNCT
+%cod:	$E:dis
+*CHI:	+" si está muy lejos .
+%mor:	conj|si=if cop|esta-3S&PRES=be adv|muy=very adv|lejos=far .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|PUNCT
+%xsub:	$AV $A
+%cod:	$E:dis $O:lug
+*CHI:	+" pu(e)s nada más , mamá .
+%mor:	co|pues=well v|nada-3S&PRES=swim adv|más=more cm|cm n|mamá&f=mommy
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|MOD 4|5|DET 5|2|OBJ 6|2|PUNCT
+%xsub:	$AV
+%cod:	$E:dis
+*CHI:	entonces la prendió .
+%mor:	adv|entonces=then pro:obj|la-f=she v|prende-3S&PRET=ignite .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%cod:	$C
+*CHI:	y entonces dijo +"/.
+%mor:	coord|y=and adv|entonces=then v|deci-3S&PRET=say +"/.
+%gra:	1|0|ROOT 2|3|JCT 3|1|COORD 4|1|COORD
+%cod:	$C
+*CHI:	+" me prendes la luz de [//] del otro baño por_favor ?
+%mor:	pro:obj|me=me v|prende-2S&PRES=ignite det:art|el&f&SG=the
+	n|luz&f=light prep|de~det:art|el&m=of qn|otro-m=other
+	v|baña-1S&PRES=bathe co|por_favor=please ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|JCT 6|7|DET 7|8|SUBJ 8|5|POBJ
+	9|8|OBJ 10|2|PUNCT
+%cod:	$E:dis $O:obj $O:lug
+*CHI:	entonces la prendió .
+%mor:	adv|entonces=then pro:obj|la-f=she v|prende-3S&PRET=ignite .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%cod:	$C
+*CHI:	y entonces él dijo +"/.
+%mor:	coord|y=and adv|entonces=then pro:sub|él&m=he v|deci-3S&PRET=say
+	+"/.
+%gra:	1|0|ROOT 2|3|JCT 3|1|COORD 4|1|COORD 5|1|COORD
+%cod:	$C
+*CHI:	+" no me llega la luz .
+%mor:	adv|no=no pro:obj|me=me v|llega-3S&PRES=arrive det:art|el&f&SG=the
+	n|luz&f=light .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%cod:	$E:dis $E:neg $O:obj
+%gpx:	mira brevemente a KAR
+*CHI:	entonces dijo +"/.
+%mor:	adv|entonces=then v|deci-3S&PRET=say +"/.
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+%cod:	$C
+*CHI:	+" tú [/] tú quieres dormir con la luz apagada ?
+%mor:	pro:sub|tú=you v|quere-2S&PRES=want inf|dormi-INF=sleep
+	prep|con=with det:art|el&f&SG=the n|luz&f=light
+	part|apaga-PPART-f=turn_off ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COMP 4|3|JCT 5|6|DET 6|4|POBJ 7|6|MOD 8|2|PUNCT
+%xsub:	$V
+%cod:	$E:dis $E:emo $E:pal $O:gra
+*CHI:	+" mhm@i , sí .
+%mor:	co|mhm cm|cm co|sí=yes .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+%cod:	$E:dis
+%gpx:	asiente con la cabeza
+*CHI:	entonces dijo +"/.
+%mor:	adv|entonces=then v|deci-3S&PRET=say +"/.
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+%cod:	$C
+*CHI:	+" prende la luz de tu cuarto .
+%mor:	v|prende-3S&PRES=ignite det:art|el&f&SG=the n|luz&f=light
+	prep|de=of det:poss|tu=your n|cuarto&m=quarter .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|JCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+%cod:	$C $E:dis $O:obj $O:lug
+*CHI:	+" para que me llegue a mí .
+%mor:	prep|para=for pro:rel|que=that pro:obj|me=me
+	v|llega-13S&SUB&PRES=arrive prepart|a=to pro:prep|mí=me .
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|3|COMP 5|6|INF 6|4|OBJ 7|1|PUNCT
+%cod:	$E:tan
+*CHI:	entonces ella se durmió con la luz prendida .
+%mor:	adv|entonces=then pro:sub|ello-f=he pro:refl|se=itself
+	v|dormi-3S&PRET=sleep prep|con=with det:art|el&f&SG=the
+	n|luz&f=light part|prende-PPART-f=ignite .
+%gra:	1|2|JCT 2|4|SUBJ 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|7|MOD
+	9|4|PUNCT
+%cod:	$C $O:par $O:gra
+*CHI:	y él se durmió con la luz apagada .
+%mor:	coord|y=and pro:sub|él&m=he pro:refl|se=itself
+	v|dormi-3S&PRET=sleep prep|con=with det:art|el&f&SG=the
+	n|luz&f=light part|apaga-PPART-f=turn_off .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|1|COORD 5|4|JCT 6|7|DET 7|5|POBJ 8|7|MOD
+	9|1|PUNCT
+%cod:	$C $O:par $O:gra
+*CHI:	y entonces la mamá se rindió +/.
+%mor:	coord|y=and adv|entonces=then det:art|el&f&SG=the n|mamá&f=mommy
+	pro:refl|se=itself v|rendi-3S&PRET=tire_out +/.
+%gra:	1|0|ROOT 2|6|JCT 3|4|DET 4|6|SUBJ 5|4|MOD 6|1|COORD 7|1|COORD
+*CHI:	cuando dijo +/.
+%mor:	conj|cuando=when v|deci-3S&PRET=say +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	enton(ce)s le dio una lámpara .
+%mor:	adv|entonces=then pro:ind|le&m=him v|deci-1S&PRES=say
+	det:art|un-f=one n|lámpara&f=lamp .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%cod:	$C $O:obj
+*CHI:	para que cuando fuera a tomar agua o algo .
+%mor:	prep|para=for pro:rel|que=that conj|cuando=when adv|fuera=outside
+	prepart|a=to inf|toma-INF=take n|agua&f=water coord|o=or
+	pro:indef|algo=something .
+%gra:	1|0|ROOT 2|1|REL 3|2|COMP 4|3|JCT 5|6|INF 6|4|COMP 7|6|OBJ 8|6|CONJ
+	9|8|COORD 10|1|PUNCT
+%cod:	$E:tan
+*CHI:	tuviera esa lamparita (.) .
+%mor:	v|tene-13S&SUB&PAS=have det:dem|ese-f=that n|lámpara&f-DIM=lamp .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%cod:	$E:tan
+*CHI:	para que &ve [//] viera más bien y eso .
+%mor:	prep|para=for pro:rel|que=that v|ve-13S&SUB&PAS=see adv|más=more
+	adv|bien=well coord|y=and pro:dem|eso=that_one .
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|5|JCT 5|3|JCT 6|5|CONJ 7|6|COORD 8|1|PUNCT
+%xsub:	$AV $AV
+%cod:	$E:tan $E:jus $E:pal
+%gpx:	mira brevemente a KAR como buscando aprobación
+*CHI:	entonces un día el niño le dijo a su mamá +"/.
+%mor:	adv|entonces=then det:art|un&m=one n|día&m=day det:art|el&m&SG=the
+	n|niño-m=child pro:ind|le&m=him v|deci-3S&PRET=say prepart|a=to
+	det:poss|su&3S=his n|mamá&f=mommy +"/.
+%gra:	1|7|JCT 2|3|DET 3|7|SUBJ 4|5|DET 5|7|SUBJ 6|5|MOD 7|0|ROOT 8|7|COMP
+	9|10|DET 10|8|OBJ 11|7|PUNCT
+%cod:	$C $O:tie $O:par $O:par
+*CHI:	+" mamá !
+%mor:	n|mamá&f=mommy !
+%gra:	1|0|ROOT 2|1|PUNCT
+%cod:	$E:dis $E:exc
+%com:	lloriqueando
+*CHI:	+" ya estoy cansado de la lamparita .
+%mor:	adv|ya=already cop|esta-1S&PRES=be part|cansa-PPART-m=tire
+	prep|de=of det:art|el&f&SG=the n|lámpara&f-DIM=lamp .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PRED 4|3|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+%xsub:	$A
+%cod:	$E:dis $E:emo $E:pal $O:obj
+%gpx:	asiente varias veces como enfatizando
+*CHI:	+" porqué no me cambias otra lamparita ?
+%mor:	pro:int|porqué=why adv|no=no pro:obj|me=me v|cambia-2S&PRES=change
+	qn|otro-f=other n|lámpara&f-DIM=lamp ?
+%gra:	1|0|ROOT 2|3|JCT 3|1|REL 4|3|CMOD 5|6|DET 6|4|OBJ 7|1|PUNCT
+%cod:	$E:dis $O:obj
+*CHI:	+" porque ésta le [/] le tienes que apretar muy fuerte .
+%mor:	conj|porque=because pro:dem|éste-f=this_one pro:ind|le&m=him
+	v|tene-2S&PRES=have pro:rel|que=that inf|apreta-INF=tighten
+	adv|muy=very adj|fuerte=strong .
+%gra:	1|0|ROOT 2|1|JCT 3|4|SUBJ 4|2|POBJ 5|4|REL 6|5|COMP 7|8|MOD 8|6|OBJ
+	9|1|PUNCT
+%xsub:	$V $AV $A
+%cod:	$E:dis $E:cau $E:obl $E:sup $E:sup
+*CHI:	entonces le cambió la lámpara .
+%mor:	adv|entonces=then pro:ind|le&m=him v|cambia-3S&PRET=change
+	det:art|el&f&SG=the n|lámpara&f=lamp .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%cod:	$R $O:obj
+*CHI:	en que le tenías que: nada más apretar un botoncito .
+%mor:	prep|en=in pro:rel|que=that pro:ind|le&m=him v|tene-2S&PAS=have
+	pro:rel|que=that pro:indef|nada=nothing adv|más=more
+	inf|apreta-INF=tighten det:art|un&m=one n|botón&m-DIM=button .
+%gra:	1|0|ROOT 2|1|REL 3|4|SUBJ 4|2|COMP 5|4|REL 6|5|CMOD 7|6|JCT 8|7|COMP
+	9|10|DET 10|8|OBJ 11|1|PUNCT
+%xsub:	$V $AV
+%cod:	$E:tan $E:jus $E:pal
+*CHI:	enton(ces) [//] después le dijo +"/.
+%mor:	adv|después=after pro:ind|le&m=him v|deci-3S&PRET=say +"/.
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%cod:	$R
+*CHI:	+" ya no necesito la lámpara .
+%mor:	adv|ya=already adv|no=no v|necesita-1S&PRES=need
+	det:art|el&f&SG=the n|lámpara&f=lamp .
+%gra:	1|2|JCT 2|3|JCT 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%xsub:	$V
+%cod:	$R $E:dis $E:emo $E:pal $O:obj
+%gpx:	niega con la cabeza
+*CHI:	+" gracias , mamá .
+%mor:	co|gracias=thanks cm|cm n|mamá&f=mommy .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%cod:	$E:dis
+*CHI:	+" ahora puedes prender la luz de tu cuarto .
+%mor:	adv|ahora=now v|pode-2S&PRES=can inf|prende-INF=ignite
+	det:art|el&f&SG=the n|luz&f=light prep|de=of det:poss|tu=your
+	n|cuarto&m=quarter .
+%gra:	1|2|JCT 2|0|ROOT 3|2|COMP 4|5|DET 5|3|OBJ 6|5|JCT 7|8|DET 8|6|POBJ
+	9|2|PUNCT
+%xsub:	$V
+%cod:	$E:dis $O:tie $E:pal $O:obj $O:lug
+%gpx:	asiente varias veces con la cabeza como enfatizando
+*CHI:	ya .
+%mor:	adv|ya=already .
+%gra:	1|0|ROOT 2|1|PUNCT
+%cod:	$A:cod
+%gpx:	mira a KAR
+*KAR:	ya ?
+%mor:	adv|ya=already ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*KAR:	muy bien .
+%mor:	adv|muy=very adv|bien=well .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+@Comment:	CHI no quiso cambiar su historia
+@End

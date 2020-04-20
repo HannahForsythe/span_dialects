@@ -1,0 +1,611 @@
+@UTF8
+@PID:	11312/c-00032305-1
+@Begin
+@Languages:	spa
+@Participants:	FER Fermín Target_Child , SER Sergio Target_Child , INV
+	Marta Investigator
+@ID:	spa|FernAguado|FER|3;11.21||||Target_Child|||
+@ID:	spa|FernAguado|SER|3;10.20||||Target_Child|||
+@ID:	spa|FernAguado|INV|||||Investigator|||
+@Date:	18-NOV-1998
+@Location:	Pamplona , Navarra , Spain
+@Situation:	FER y SER juegan con el barco
+*FER:	yo me he pedido é(s)te [*] .
+%mor:	pro:sub|yo=I pro:obj|me=me aux|habe-1S&PRES=have
+	part|pedi-PPART-m=request pro:dem|éste=this_one .
+%com:	un muñeco
+*FER:	tú cuál te pides ?
+%mor:	pro:sub|tú=you pro:int|cuál=which pro:obj|te=you
+	v|pedi-2S&PRES=request ?
+*SER:	yo voy a empezar disparando esto .
+%mor:	pro:sub|yo=I v|i-1S&PRES=go prepart|a=to inf|empeza-INF=begin
+	part|dispara-PRPART=shoot pro:dem|esto=this_one .
+%com:	el cañon
+*SER:	oy (.) cuidado (.) a_ver .
+%mor:	co|oy n|cuidado&m=care co|a_ver .
+*FER:	yo me pido é(s)te [*] é(s)te [*] y é(s)te [*] .
+%mor:	pro:sub|yo=I pro:obj|me=me v|pedi-1S&PRES=request
+	pro:dem|éste=this_one pro:dem|éste=this_one coord|y=and
+	pro:dem|éste=this_one .
+*SER:	y yo éstes [*] .
+%mor:	coord|y=and pro:sub|yo=I pro:dem|éste&m-PL=this_one .
+*FER:	con cuál más ?
+%mor:	prep|con=with pro:int|cuál=which adv|más=more ?
+*SER:	éste mirando por aquí .
+%mor:	pro:dem|éste=this_one part|mira-PRPART=look prep|por=for
+	adv|aquí=here .
+*FER:	hay dos capitanes .
+%mor:	v|habe-3S&PRES&SPEC=have det:num|dos=two n|capitán&m-PL=captain .
+*SER:	ese y e(s)te [*] y se durmió é(s)te [*] .
+%mor:	det:dem|ese=that coord|y=and det:dem|este=this coord|y=and
+	pro:refl|se=itself v|dormi-3S&PRET=sleep pro:dem|éste=this_one .
+*SER:	y esta flecha [*] la tiene en la boca (.) mira .
+%mor:	coord|y=and det:dem|este-f=this n|flecha&f=arrow
+	det:art|el&f&SG=the v|tene-3S&PRES=have prep|en=in
+	det:art|el&f&SG=the n|boca&f=mouth co|mira=look .
+*FER:	se quería acostar .
+%mor:	pro:refl|se=itself v|quere-13S&PAS=want inf|acosta-INF=put_to_bet .
+*SER:	ese no puede ahí .
+%mor:	det:dem|ese=that adv|no=no v|pode-3S&PRES=can adv|ahí=there .
+*FER:	sí puede .
+%mor:	co|sí=yes v|pode-3S&PRES=can .
+%com:	pone al muñeco en la habitación
+*SER:	pero no puede dormir .
+%mor:	conj|pero=but adv|no=no v|pode-3S&PRES=can inf|dormi-INF=sleep .
+*FER:	sí puede (.) en esta camita .
+%mor:	co|sí=yes v|pode-3S&PRES=can prep|en=in det:dem|este-f=this
+	n|cama&f-DIM=bed .
+*SER:	todos (.) quieres poner todos aquí ?
+%mor:	qn|todo-m-PL=all v|quere-2S&PRES=want inf|pone-INF=put
+	pro:indef|todo-m-PL=all adv|aquí=here ?
+*SER:	ponemos todos aquí ?
+%mor:	v|pone-1P&PRES=put qn|todo-m-PL=all adv|aquí=here ?
+*SER:	quieres ?
+%mor:	v|quere-2S&PRES=want ?
+*FER:	sí .
+%mor:	co|sí=yes .
+*SER:	los ponemos todos los piratas aquí ?
+%mor:	pro:ind|le-m-PL=him v|pone-1P&PRES=put qn|todo-m-PL=all
+	det:art|el&m-PL=the n|pirata&m-PL=pirate adv|aquí=here ?
+*FER:	sí .
+%mor:	co|sí=yes .
+*SER:	los ponemos ?
+%mor:	pro:ind|le-m-PL=him v|pone-1P&PRES=put ?
+*FER:	yo tengo dos [/] dos .
+%mor:	pro:sub|yo=I v|tene-1S&PRES=have det:num|dos=two .
+*FER:	t(r)es [*] digo .
+%mor:	det:num|tres=three v|deci-1S&PRES=say .
+*FER:	é(s)te [*] é(s)te [*] y é(s)te [*] .
+%mor:	pro:dem|éste=this_one pro:dem|éste=this_one coord|y=and
+	pro:dem|éste=this_one .
+*SER:	aquí lo tienes .
+%mor:	adv|aquí=here pro:obj|le-m=him v|tene-2S&PRES=have .
+*FER:	y la banqueta esa (.) la banquetita ?
+%mor:	coord|y=and det:art|el&f&SG=the n|banca&f-DIM=bench
+	det:dem|ese-f=that det:art|el&f&SG=the n|banca&f-DIM-DIM=bench ?
+*FER:	es que tiene que conducir muy bien .
+%mor:	cop|se-3S&PRES=be pro:rel|que=that v|tene-3S&PRES=have
+	pro:rel|que=that inf|conduci-INF=drive adv|muy=very adv|bien=well .
+*FER:	a qué sí ?
+%mor:	prepart|a=to pro:int|qué=what co|sí=yes ?
+*FER:	que conducía +/.
+%mor:	pro:rel|que=that v|conduci-13S&PAS=drive +/.
+*SER:	que no se van .
+%mor:	pro:rel|que=that adv|no=no pro:refl|se=itself v|i-3P&PRES=go .
+*FER:	qué ?
+%mor:	pro:int|qué=what ?
+*SER:	que no se van ahora (.) vale ?
+%mor:	pro:rel|que=that adv|no=no pro:refl|se=itself v|i-3P&PRES=go
+	adv|ahora=now co|vale=okay ?
+*FER:	y se va ?
+%mor:	coord|y=and pro:refl|se=itself v|i-3S&PRES=go ?
+*FER:	se tiene que ir .
+%mor:	pro:refl|se=itself v|tene-3S&PRES=have pro:rel|que=that
+	inf|i-INF=go .
+*SER:	pero no tiene que ir .
+%mor:	conj|pero=but adv|no=no v|tene-3S&PRES=have pro:rel|que=that
+	inf|i-INF=go .
+*SER:	se tiene que montar .
+%mor:	pro:refl|se=itself v|tene-3S&PRES=have pro:rel|que=that
+	inf|monta-INF=climb_on .
+%com:	no consigue poner la vela
+*SER:	se tiene que ir .
+%mor:	pro:refl|se=itself v|tene-3S&PRES=have pro:rel|que=that
+	inf|i-INF=go .
+*FER:	y cómo va ?
+%mor:	coord|y=and pro:int|cómo=how v|i-3S&PRES=go ?
+*SER:	cómo va ?
+%mor:	pro:int|cómo=how v|i-3S&PRES=go ?
+%com:	no pueden ponerlas
+*SER:	cómo va ?
+%mor:	pro:int|cómo=how v|i-3S&PRES=go ?
+*SER:	no podemos montarlo .
+%mor:	adv|no=no v|pode-1P&PRES=can inf|monta-INF~pro:clit|OBJ&m=climb_on
+	.
+*INV:	véis qué bien ?
+%mor:	v|ve-2P&PRES=see pro:int|qué=what adv|bien=well ?
+%com:	me acerco a ayudarles
+*FER:	sí .
+%mor:	co|sí=yes .
+*FER:	é(s)tos [*] son míos .
+%mor:	pro:dem|éste-m-PL=this_one cop|se-3P&PRES=be pro:poss|mío-m-PL=mine
+	.
+*SER:	los piratas aquí (.) vale ?
+%mor:	det:art|el&m-PL=the n|pirata&m-PL=pirate adv|aquí=here co|vale=okay
+	?
+*FER:	los piratas .
+%mor:	det:art|el&m-PL=the n|pirata&m-PL=pirate .
+*FER:	alguno [*] pirata tienen que conducir .
+%mor:	qn|algún-m=some n|pirata&m=pirate v|tene-3P&PRES=have
+	pro:rel|que=that inf|conduci-INF=drive .
+*SER:	vale .
+%mor:	co|vale=okay .
+*FER:	el pirata pata malo .
+%mor:	det:art|el&m&SG=the n|pirata&m=pirate n|pata&f=animal_foot
+	adj|malo-m=bad .
+*SER:	<el que no tiene nada> [/] <el que no tenga nada> [/] el que no
+	tiene nada viene .
+%mor:	det:art|el&m&SG=the pro:rel|que=that adv|no=no v|tene-3S&PRES=have
+	v|nada-3S&PRES=swim v|veni-3S&PRES=come .
+*FER:	é(s)te [*] .
+%mor:	pro:dem|éste=this_one .
+%com:	le enseña el dibujo
+*SER:	cuál ?
+%mor:	pro:int|cuál=which ?
+*FER:	é(s)te [*] .
+%mor:	pro:dem|éste=this_one .
+*SER:	tiene una cosa (.) eh ?
+%mor:	v|tene-3S&PRES=have det:art|un-f=one n|cosa&f=thing co|eh ?
+*FER:	é(s)te [*] entonces .
+%mor:	pro:dem|éste=this_one adv|entonces=then .
+*SER:	cuál ?
+%mor:	pro:int|cuál=which ?
+*SER:	con el enganche (.) no .
+%mor:	prep|con=with det:art|el&m&SG=the v|engancha-13S&SUB&PRES=hook
+	co|no .
+*FER:	é(s)te [*] .
+%mor:	pro:dem|éste=this_one .
+*FER:	tú no quieres 0 [*] nadie ?
+%mor:	pro:sub|tú=you adv|no=no v|quere-2S&PRES=want
+	pro:indef|nadie=nobody ?
+*SER:	qué ?
+%mor:	pro:int|qué=what ?
+*FER:	tú no quieres 0 [*] nadie ?
+%mor:	pro:sub|tú=you adv|no=no v|quere-2S&PRES=want
+	pro:indef|nadie=nobody ?
+*SER:	conduce éste .
+%mor:	v|conduci-3S&PRES=drive pro:dem|éste=this_one .
+*FER:	conduce é(s)te [*] que es más magico .
+%mor:	v|conduci-3S&PRES=drive pro:dem|éste=this_one pro:rel|que=that
+	cop|se-3S&PRES=be adv|más=more adj|mago-DIM=magic .
+*FER:	se ha quedado uno ahí .
+%mor:	pro:refl|se=itself aux|habe-3S&PRES=have part|queda-PPART-m=stay
+	pro:indef|uno=one adv|ahí=there .
+*SER:	ah (.) éste (.) yo me pido éste .
+%mor:	co|ah pro:dem|éste=this_one pro:sub|yo=I pro:obj|me=me
+	v|pedi-1S&PRES=request pro:dem|éste=this_one .
+*FER:	pues no ve nada .
+%mor:	co|pues=well adv|no=no co|ve=see v|nada-3S&PRES=swim .
+%com:	los muñecos no tienen ojos dibujados
+*FER:	me pido é(s)tos [*] (.) vale ?
+%mor:	pro:obj|me=me v|pedi-1S&PRES=request pro:dem|éste-m-PL=this_one
+	co|vale=okay ?
+*SER:	y yo me pido éste .
+%mor:	coord|y=and pro:sub|yo=I pro:obj|me=me v|pedi-1S&PRES=request
+	pro:dem|éste=this_one .
+*FER:	sí .
+%mor:	co|sí=yes .
+*SER:	vale y yo los capitanes (.) vale ?
+%mor:	co|vale=okay coord|y=and pro:sub|yo=I det:art|el&m-PL=the
+	n|capitán&m-PL=captain co|vale=okay ?
+*FER:	ese era el capitán .
+%mor:	det:dem|ese=that cop|se-13S&PAS=be det:art|el&m&SG=the
+	n|capitán&m=captain .
+*FER:	é(s)te [*] no era .
+%mor:	pro:dem|éste=this_one adv|no=no cop|se-13S&PAS=be .
+*FER:	y era salvaje .
+%mor:	coord|y=and cop|se-13S&PAS=be adj|salvaje=savage .
+*SER:	no (.) porque va en ese vaso .
+%mor:	adv|no=no conj|porque=because v|i-3S&PRES=go prep|en=in
+	det:dem|ese=that n|vaso&m=vase .
+%com:	en el puesto de vigía
+*FER:	qué ?
+%mor:	pro:int|qué=what ?
+*SER:	que va en ese vaso de ahí .
+%mor:	pro:rel|que=that v|i-3S&PRES=go prep|en=in det:dem|ese=that
+	n|vaso&m=vase prep|de=of adv|ahí=there .
+*FER:	y é(s)te [*] ?
+%mor:	coord|y=and pro:dem|éste=this_one ?
+*FER:	va en el ba(r)co [*] é(s)te [*] .
+%mor:	v|i-3S&PRES=go prep|en=in det:art|el&m&SG=the n|barco-m=boat
+	pro:dem|éste=this_one .
+*FER:	qué bonito .
+%mor:	pro:int|qué=what adj|bonito-m=pretty .
+%com:	coge la barca
+*SER:	sabes dónde tiene el gancho ?
+%mor:	v|sabe-2S&PRES=know pro:int|dónde=where v|tene-3S&PRES=have
+	det:art|el&m&SG=the n|gancho&m=hook ?
+*SER:	pa(ra) <que tienen [/] tienen> [/-] ahora esto tendrán que
+	engancharlo para que no se les caiga (.) vale ?
+%mor:	prep|para=for adv|ahora=now pro:dem|esto=this_one
+	v|tene-3P&FUT=have pro:rel|que=that
+	inf|engancha-INF~pro:clit|OBJ&m=hook prep|para=for pro:rel|que=that
+	adv|no=no pro:refl|se=itself pro:ind|le&m-PL=him
+	v|cae-13S&SUB&PRES=fall co|vale=okay ?
+*SER:	quieres ?
+%mor:	v|quere-2S&PRES=want ?
+%com:	engancha los dos barcos
+*FER:	no .
+%mor:	adv|no=no .
+*FER:	se puede montar aquí .
+%mor:	pro:refl|se=itself v|pode-3S&PRES=can inf|monta-INF=climb_on
+	adv|aquí=here .
+*SER:	pero si éste tiene para poderse bañar .
+%mor:	conj|pero=but conj|si=if pro:dem|éste=this_one v|tene-3S&PRES=have
+	prep|para=for inf|pode-INF~pro:clit|3S&REFL=can inf|baña-INF=bathe .
+*SER:	y éste tiene [/] tiene que esperar la barca .
+%mor:	coord|y=and pro:dem|éste=this_one v|tene-3S&PRES=have
+	pro:rel|que=that inf|espera-INF=wait det:art|el&f&SG=the
+	n|barco-f=boat .
+*FER:	es que é(s)te [*] es tan g(r)ande [*] !
+%mor:	cop|se-3S&PRES=be pro:rel|que=that pro:dem|éste=this_one
+	cop|se-3S&PRES=be adv|tan=such adj|grande=big !
+*SER:	tan grande .
+%mor:	adv|tan=such adj|grande=big .
+*SER:	es que mira .
+%mor:	cop|se-3S&PRES=be pro:rel|que=that v|mira-3S&PRES=look .
+*SER:	tienen que ir algunos aquí .
+%mor:	v|tene-3P&PRES=have pro:rel|que=that inf|i-INF=go
+	qn|algún-m-PL=some adv|aquí=here .
+%com:	los pone en la barca
+*SER:	ahora meten esto aquí .
+%mor:	adv|ahora=now v|mete-3P&PRES=put pro:dem|esto=this_one
+	adv|aquí=here .
+%com:	engancha el arpón de la barca a las redes del barco
+*SER:	ay (.) <que se va> [/] que se va .
+%mor:	co|ay=ay pro:rel|que=that pro:refl|se=itself v|i-3S&PRES=go .
+%com:	se le suelta
+*SER:	que no se puede .
+%mor:	pro:rel|que=that adv|no=no pro:refl|se=itself v|pode-3S&PRES=can .
+*FER:	una puerta hay (.) vale .
+%mor:	det:art|un-f=one n|puerta&f=door v|habe-3S&PRES&SPEC=have
+	co|vale=okay .
+*FER:	é(s)tos [*] iban aquí .
+%mor:	pro:dem|éste-m-PL=this_one v|i-3P&PAS=go adv|aquí=here .
+*FER:	buscaban y subían por aquí .
+%mor:	v|busca-3P&PAS=search coord|y=and v|subi-3P&PAS=go_up prep|por=for
+	adv|aquí=here .
+%com:	por las redes
+*FER:	é(s)te [*] no sube .
+%mor:	pro:dem|éste=this_one adv|no=no v|subi-3S&PRES=go_up .
+*FER:	é(s)te [*] no .
+%mor:	pro:dem|éste=this_one adv|no=no .
+*FER:	é(s)te [*] .
+%mor:	pro:dem|éste=this_one .
+*SER:	sabes ?
+%mor:	v|sabe-2S&PRES=know ?
+*SER:	tiene que esperar la barca .
+%mor:	v|tene-3S&PRES=have pro:rel|que=that inf|espera-INF=wait
+	det:art|el&f&SG=the n|barco-f=boat .
+*SER:	es que tiene que esperar éste fuera .
+%mor:	cop|se-3S&PRES=be pro:rel|que=that v|tene-3S&PRES=have
+	pro:rel|que=that inf|espera-INF=wait pro:dem|éste=this_one
+	adv|fuera=outside .
+*SER:	allá vamos .
+%mor:	adv|allá=there v|i-1P&PRES=go .
+*SER:	no .
+%mor:	adv|no=no .
+*SER:	éste [/] éste [/] éste [/] éste está (.) vale ?
+%mor:	pro:dem|éste=this_one aux|esta-3S&PRES=be co|vale=okay ?
+*FER:	ese es mío .
+%mor:	det:dem|ese=that cop|se-3S&PRES=be pro:poss|mío-m=mine .
+*SER:	déjale aquí (.) vale (.) en la barca .
+%mor:	imp|deja-2S&IMP~pro:clit|3S=leave adv|aquí=here v|vale-3S&PRES=cost
+	prep|en=in det:art|el&f&SG=the n|barco-f=boat .
+*SER:	no .
+%mor:	adv|no=no .
+*SER:	<el amarillo> [//] el que tiene el pelo amarillo aquí (.) vale ?
+%mor:	det:art|el&m&SG=the pro:rel|que=that v|tene-3S&PRES=have
+	det:art|el&m&SG=the n|pelo&m=hair adj|amarillo-m=yellow
+	adv|aquí=here co|vale=okay ?
+*FER:	no .
+%mor:	adv|no=no .
+*SER:	que sí (.) vale ?
+%mor:	pro:rel|que=that co|sí=yes co|vale=okay ?
+*SER:	xxx .
+*FER:	qué ?
+%mor:	pro:int|qué=what ?
+*SER:	no tengas tantos .
+%mor:	adv|no=no v|tene-2S&SUB&PRES=have adj|tanto-m-PL=so_much .
+*SER:	me tienes que dejar alguno .
+%mor:	pro:obj|me=me v|tene-2S&PRES=have pro:rel|que=that
+	inf|deja-INF=leave pro:indef|algún-m=some .
+*FER:	a quién ?
+%mor:	prepart|a=to pro:int|quién=who ?
+*SER:	al amarillo éste y éste (.) vale ?
+%mor:	prepart|a~det:art|el&m=to adj|amarillo-m=yellow
+	pro:dem|éste=this_one coord|y=and pro:dem|éste=this_one co|vale=okay
+	?
+%com:	señala dos muñecos
+*FER:	me dejas que vayan aquí é(s)tos [*] .
+%mor:	pro:obj|me=me v|deja-2S&PRES=leave pro:rel|que=that
+	v|i-3P&SUB&PRES=go adv|aquí=here pro:dem|éste-m-PL=this_one .
+%com:	los quiere poner en cubierta pero SER no le deja
+*SER:	porque van en la barca los dos .
+%mor:	conj|porque=because v|i-3P&PRES=go prep|en=in det:art|el&f&SG=the
+	n|barco-f=boat det:art|el&m-PL=the det:num|dos=two .
+*FER:	<por fa(vor)> [/] por fa(vor) .
+%mor:	prep|por=for n|favor&m=favor .
+*SER:	oh no !
+%mor:	co|oh=oh adv|no=no !
+*SER:	tienen que ir todos aquí para decidir dónde tienen que ir .
+%mor:	v|tene-3P&PRES=have pro:rel|que=that inf|i-INF=go
+	pro:indef|todo-m-PL=all adv|aquí=here prep|para=for
+	inf|decidi-INF=decide pro:int|dónde=where v|tene-3P&PRES=have
+	pro:rel|que=that inf|i-INF=go .
+%com:	en la barca pequeña
+*FER:	no (.) porque aquí no caben tantos .
+%mor:	adv|no=no conj|porque=because adv|aquí=here adv|no=no
+	v|cabe-3P&PRES=fit pro:indef|tanto-m-PL=so_much .
+*SER:	a_ver (.) van a soltar ahora la barca .
+%mor:	co|a_ver v|i-3P&PRES=go prepart|a=to inf|solta-INF=release
+	adv|ahora=now det:art|el&f&SG=the n|barco-f=boat .
+*SER:	a_ver (.) así .
+%mor:	co|a_ver adv|así=thus .
+*SER:	esperar [*] <que se nos va la barca> [/] que se nos va la barca !
+%mor:	inf|espera-INF=wait pro:rel|que=that pro:refl|se=itself
+	pro:obj|nos=us v|i-3S&PRES=go det:art|el&f&SG=the n|barco-f=boat !
+*SER:	espera !
+%mor:	imp|espera-2S&IMP=wait !
+*SER:	y se van .
+%mor:	coord|y=and pro:refl|se=itself v|i-3P&PRES=go .
+*FER:	y po(r) [*] qué se van ?
+%mor:	coord|y=and prep|por=for pro:int|qué=what pro:refl|se=itself
+	v|i-3P&PRES=go ?
+*SER:	volveremos .
+%mor:	v|volve-1P&FUT=turn .
+*SER:	ahora voy .
+%mor:	adv|ahora=now v|i-1S&PRES=go .
+*SER:	y pulsan aquí .
+%mor:	coord|y=and v|pulsa-3P&PRES=pulsate adv|aquí=here .
+%com:	dispara el arpón
+*SER:	es que ahora van a cenar (.) vale ?
+%mor:	cop|se-3S&PRES=be pro:rel|que=that adv|ahora=now v|i-3P&PRES=go
+	prepart|a=to inf|cena-INF=dine co|vale=okay ?
+*SER:	ahora <hacíamos que van> [//] ahora tienen que cenar (.) vale ?
+%mor:	adv|ahora=now adv|ahora=now v|tene-3P&PRES=have pro:rel|que=that
+	inf|cena-INF=dine co|vale=okay ?
+*SER:	y sabes dónde cenaban ?
+%mor:	coord|y=and v|sabe-2S&PRES=know pro:int|dónde=where
+	v|cena-3P&PAS=dine ?
+*FER:	dónde ?
+%mor:	pro:int|dónde=where ?
+*SER:	en el agua .
+%mor:	prep|en=in det:art|el&m&SG=the n|agua&f=water .
+*FER:	no .
+%mor:	adv|no=no .
+*SER:	en el fondo del mar .
+%mor:	prep|en=in det:art|el&m&SG=the n|fondo&m=bottom
+	prep|de~det:art|el&m=of n|mar&f=sea .
+*FER:	comían aquí .
+%mor:	v|come-3P&PAS=eat adv|aquí=here .
+%com:	señala la cubierta del barco
+*SER:	no [/] no .
+%mor:	adv|no=no .
+*SER:	<ya se> [/] ya se .
+%mor:	adv|ya=already pro:refl|se=itself .
+*SER:	aquí arriba .
+%mor:	adv|aquí=here adv|arriba=above .
+*FER:	y é(s)te [*] subía .
+%mor:	coord|y=and pro:dem|éste=this_one v|subi-13S&PAS=go_up .
+*SER:	comían aquí (.) vale ?
+%mor:	v|come-3P&PAS=eat adv|aquí=here co|vale=okay ?
+*FER:	y éste también subía .
+%mor:	coord|y=and pro:dem|éste=this_one adv|también=also
+	v|subi-13S&PAS=go_up .
+*SER:	porque comen aquí (.) vale ?
+%mor:	conj|porque=because v|come-3P&PRES=eat adv|aquí=here co|vale=okay ?
+%com:	sube por las escaleras del barco
+*FER:	y tenía que subir uno por aquí (.) por la redes .
+%mor:	coord|y=and v|tene-13S&PAS=have pro:rel|que=that inf|subi-INF=go_up
+	pro:indef|uno=one prep|por=for adv|aquí=here prep|por=for
+	det:art|el&f&SG=the n|red&f-PL=network .
+*SER:	luego tienen que dormir .
+%mor:	adv|luego=afterwards v|tene-3P&PRES=have pro:rel|que=that
+	inf|dormi-INF=sleep .
+*SER:	aquí tienen que cenar (.) vale ?
+%mor:	adv|aquí=here v|tene-3P&PRES=have pro:rel|que=that
+	inf|cena-INF=dine co|vale=okay ?
+*FER:	vale .
+%mor:	co|vale=okay .
+*SER:	y la barca la tienen enganchada ahí para que no se les vaya .
+%mor:	coord|y=and det:art|el&f&SG=the n|barco-f=boat pro:obj|la-f=she
+	v|tene-3P&PRES=have part|engancha-PPART-f=hook adv|ahí=there
+	prep|para=for pro:rel|que=that adv|no=no pro:refl|se=itself
+	pro:ind|le&m-PL=him co|vaya=come_on .
+*SER:	y reman nada más +/.
+%mor:	coord|y=and v|rema-3P&PRES=row v|nada-3S&PRES=swim adv|más=more +/.
+*FER:	<éstos van 0 [*] ahí> [//] éstos van a ahí .
+%mor:	pro:dem|éste-m-PL=this_one v|i-3P&PRES=go prepart|a=to
+	adv|ahí=there .
+*FER:	la barquita va ahí (.) vale ?
+%mor:	det:art|el&f&SG=the n|barco&f-DIM=boat v|i-3S&PRES=go adv|ahí=there
+	co|vale=okay ?
+*FER:	no .
+%mor:	adv|no=no .
+*FER:	éste tiene [/] tiene +//.
+%mor:	pro:dem|éste=this_one v|tene-3S&PRES=have +//.
+*SER:	van a cenar aquí (.) vale ?
+%mor:	v|i-3P&PRES=go prepart|a=to inf|cena-INF=dine adv|aquí=here
+	co|vale=okay ?
+*SER:	hacíamos que aquí cenan .
+%mor:	v|hace-1P&PAS=do pro:rel|que=that adv|aquí=here v|cena-3P&PRES=dine
+	.
+%com:	en la habitación
+*FER:	no .
+%mor:	adv|no=no .
+*FER:	hacíamos que aquí cenaban (.) vale ?
+%mor:	v|hace-1P&PAS=do pro:rel|que=that adv|aquí=here v|cena-3P&PAS=dine
+	v|vale-3S&PRES=cost ?
+%com:	en cubierta
+*SER:	pero está por aquí mejor (.) que por aquí podéis entrar por aquí
+	(.) dentro .
+%mor:	conj|pero=but cop|esta-3S&PRES=be prep|por=for adv|aquí=here
+	adj|mejor=better pro:rel|que=that prep|por=for adv|aquí=here
+	v|pode-2P&PRES=can inf|entra-INF=come_in prep|por=for adv|aquí=here
+	adv|dentro=inside .
+*SER:	<he &cogi> [/-] he metido todos .
+%mor:	aux|habe-1S&PRES=have part|mete-PPART-m=put pro:indef|todo-m-PL=all
+	.
+%com:	mete los muñecos en la habitación
+*SER:	esto primero .
+%mor:	pro:dem|esto=this_one adv|primero=first .
+*SER:	y ya se comen las del suelo .
+%mor:	coord|y=and adv|ya=already pro:refl|se=itself v|come-3P&PRES=eat
+	det:art|el&f-PL=the prep|de~det:art|el&m=of n|suelo&m=floor .
+*SER:	yo me meto aquí .
+%mor:	pro:sub|yo=I pro:obj|me=me v|mete-1S&PRES=put adv|aquí=here .
+*SER:	yo como y me meto .
+%mor:	pro:sub|yo=I adv|como=like coord|y=and pro:obj|me=me
+	v|mete-1S&PRES=put .
+*SER:	ya me ha dado un mordisco .
+%mor:	adv|ya=already pro:obj|me=me aux|habe-3S&PRES=have
+	part|da-PPART-m=give det:art|un&m=one n|mordisco&m=bite .
+*SER:	me meto .
+%mor:	pro:obj|me=me v|mete-1S&PRES=put .
+*SER:	ah (.) que me caigo !
+%mor:	co|ah pro:rel|que=that pro:obj|me=me v|cae-1S&PRES=fall !
+*SER:	quiero salir .
+%mor:	v|quere-1S&PRES=want inf|sali-INF=leave .
+*FER:	é(s)te [*] no .
+%mor:	pro:dem|éste=this_one adv|no=no .
+*SER:	es que quieren salir .
+%mor:	cop|se-3S&PRES=be pro:rel|que=that v|quere-3P&PRES=want
+	inf|sali-INF=leave .
+*SER:	es que se van de paseo .
+%mor:	cop|se-3S&PRES=be pro:rel|que=that pro:refl|se=itself
+	v|i-3P&PRES=go prep|de=of n|paseo&m=walk .
+*FER:	é(s)te [*] tiene que conducir é(s)te [*] (.) mira .
+%mor:	pro:dem|éste=this_one v|tene-3S&PRES=have pro:rel|que=that
+	inf|conduci-INF=drive pro:dem|éste=this_one co|mira=look .
+*SER:	pero se tienen que llevar +//.
+%mor:	conj|pero=but pro:refl|se=itself v|tene-3P&PRES=have
+	pro:rel|que=that inf|lleva-INF=carry +//.
+*SER:	a_ver dónde está la otra pelota ?
+%mor:	co|a_ver pro:int|dónde=where cop|esta-3S&PRES=be
+	det:art|el&f&SG=the qn|otro-f=other n|pelota&f=ball ?
+*SER:	aquí (.) porque aquí van a guardar las pelotas .
+%mor:	adv|aquí=here conj|porque=because adv|aquí=here v|i-3P&PRES=go
+	prepart|a=to inf|guarda-INF=guard det:art|el&f-PL=the
+	n|pelota&f-PL=ball .
+*SER:	ahí van a guardar las pelotas .
+%mor:	adv|ahí=there v|i-3P&PRES=go prepart|a=to inf|guarda-INF=guard
+	det:art|el&f-PL=the n|pelota&f-PL=ball .
+*SER:	aquí (.) ahí en el vaso .
+%mor:	adv|aquí=here adv|ahí=there prep|en=in det:art|el&m&SG=the
+	n|vaso&m=vase .
+*SER:	no [/] no .
+%mor:	adv|no=no .
+*SER:	lo dejan aquí en vaso .
+%mor:	pro:obj|le-m=him v|deja-3P&PRES=leave adv|aquí=here prep|en=in
+	n|vaso&m=vase .
+*FER:	no .
+%mor:	adv|no=no .
+*FER:	mira que bien .
+%mor:	co|mira=look pro:rel|que=that adv|bien=well .
+*FER:	va con esto .
+%mor:	v|i-3S&PRES=go prep|con=with pro:dem|esto=this_one .
+*FER:	me parece .
+%mor:	pro:obj|me=me v|parece-3S&PRES=seem .
+*FER:	va aquí o no te fijas ?
+%mor:	v|i-3S&PRES=go adv|aquí=here coord|o=or adv|no=no pro:obj|te=you
+	v|fija-2S&PRES=notice ?
+*SER:	no .
+%mor:	adv|no=no .
+*SER:	mejor que esté aquí (.) vale ?
+%mor:	adj|mejor=better pro:rel|que=that cop|esta-13S&SUB&PRES=be
+	adv|aquí=here co|vale=okay ?
+%com:	colocan el vaso en cubierta
+*FER:	vale (.) <era un(a) [*] jarra> [/] era una jarra .
+%mor:	co|vale=okay cop|se-13S&PAS=be det:art|un-f=one n|jarra&f=jar .
+*SER:	ya se cuál es .
+%mor:	adv|ya=already pro:refl|se=itself pro:int|cuál=which
+	cop|se-3S&PRES=be .
+*SER:	Fermín vamos a sacar los muñecos que hay aquí .
+%mor:	n:prop|Fermín v|i-1P&PRES=go prepart|a=to inf|saca-INF=bring_out
+	det:art|el&m-PL=the n|muñeco-m-PL=doll pro:rel|que=that
+	v|habe-3S&PRES&SPEC=have adv|aquí=here .
+%com:	en la habitación
+*SER:	es éste el que está en el vaso .
+%mor:	cop|se-3S&PRES=be pro:dem|éste=this_one det:art|el&m&SG=the
+	pro:rel|que=that cop|esta-3S&PRES=be prep|en=in det:art|el&m&SG=the
+	n|vaso&m=vase .
+*FER:	éste sí .
+%mor:	pro:dem|éste=this_one co|sí=yes .
+*SER:	se <sube la ésta> [/] sube la ésta .
+%mor:	pro:refl|se=itself v|subi-3S&PRES=go_up det:art|el&f&SG=the
+	pro:dem|éste-f=this_one .
+*FER:	y se tiene que poner aquí .
+%mor:	coord|y=and pro:refl|se=itself v|tene-3S&PRES=have pro:rel|que=that
+	inf|pone-INF=put adv|aquí=here .
+*SER:	porque tiene que llamar .
+%mor:	conj|porque=because v|tene-3S&PRES=have pro:rel|que=that
+	inf|llama-INF=call .
+*SER:	oh (.) no cojo el vaso que se me queda aquí olvidado .
+%mor:	co|oh=oh adv|no=no v|coge-1S&PRES=take det:art|el&m&SG=the
+	n|vaso&m=vase pro:rel|que=that pro:refl|se=itself pro:obj|me=me
+	v|queda-3S&PRES=stay adv|aquí=here part|olvida-PPART-m=forget .
+*SER:	oh (.) no puede martillar .
+%mor:	co|oh=oh adv|no=no v|pode-3S&PRES=can inf|martilla-INF=hammer .
+*SER:	mejor que martille así (.) que así está bien (.) vale ?
+%mor:	adj|mejor=better pro:rel|que=that v|martilla-13S&SUB&PRES=hammer
+	adv|así=thus pro:rel|que=that adv|así=thus cop|esta-3S&PRES=be
+	adv|bien=well co|vale=okay ?
+*SER:	mejor .
+%mor:	adj|mejor=better .
+*FER:	yo conduciré .
+%mor:	pro:sub|yo=I v|conduci-1S&FUT=drive .
+*FER:	ya está .
+%mor:	adv|ya=already cop|esta-3S&PRES=be .
+*SER:	ahora se meten todos adentro a dormir .
+%mor:	adv|ahora=now pro:refl|se=itself v|mete-3P&PRES=put
+	qn|todo-m-PL=all adv|adentro=inside prepart|a=to inf|dormi-INF=sleep
+	.
+*SER:	<ahora van a dormir> [/] <ahora van a dormir> [/] <ahora van a
+	dormir> [/] ahora van a dormir .
+%mor:	adv|ahora=now v|i-3P&PRES=go prepart|a=to inf|dormi-INF=sleep .
+*SER:	mételes aquí 0 [*] todos .
+%mor:	imp|mete-2S&IMP~pro:clit|3P=put adv|aquí=here
+	pro:indef|todo-m-PL=all .
+*FER:	no (.) que tengo que conducir .
+%mor:	adv|no=no pro:rel|que=that v|tene-1S&PRES=have pro:rel|que=that
+	inf|conduci-INF=drive .
+*SER:	ahora <ya basta de conducir> [/] ya basta de conducir !
+%mor:	adv|ahora=now adv|ya=already v|basta-3S&PRES=suffice prep|de=of
+	inf|conduci-INF=drive !
+*SER:	a domir !
+%mor:	prepart|a=to inf|domi-INF=sleep !
+*FER:	a dormir todos !
+%mor:	prepart|a=to inf|dormi-INF=sleep pro:indef|todo-m-PL=all !
+*SER:	toma .
+%mor:	imp|toma-2S&IMP=take .
+%com:	cierra la puerta
+*SER:	tenemos que cerrar (.) que el barco se irá solo .
+%mor:	v|tene-1P&PRES=have pro:rel|que=that inf|cerra-INF=close
+	pro:rel|que=that det:art|el&m&SG=the n|barco-m=boat
+	pro:refl|se=itself v|i-3S&FUT=go adj|solo-m=alone .
+*SER:	le tenemos que decir que espere .
+%mor:	pro:ind|le&m=him v|tene-1P&PRES=have pro:rel|que=that
+	inf|deci-INF=say pro:rel|que=that v|espera-13S&SUB&PRES=wait .
+*SER:	ahora han cerra(d)o bien .
+%mor:	adv|ahora=now aux|habe-3P&PRES=have part|cerra-PPART-m=close
+	adv|bien=well .
+*SER:	ah (.) que tenemos que meter el cofre !
+%mor:	co|ah pro:rel|que=that v|tene-1P&PRES=have pro:rel|que=that
+	inf|mete-INF=put det:art|el&m&SG=the n|cofre&m=coffer !
+*SER:	ahora lo voy a meter en éste .
+%mor:	adv|ahora=now pro:obj|le-m=him v|i-1S&PRES=go prepart|a=to
+	inf|mete-INF=put prep|en=in pro:dem|éste=this_one .
+*SER:	ahora yo .
+%mor:	adv|ahora=now pro:sub|yo=I .
+@End

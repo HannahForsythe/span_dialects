@@ -1,0 +1,1376 @@
+@UTF8
+@PID:	11312/c-00032533-1
+@Begin
+@Languages:	spa
+@Participants:	CHI Virginia Target_Child , MOT Mother
+@ID:	spa|FernAguado|CHI|3;04.24||||Target_Child|||
+@ID:	spa|FernAguado|MOT||female|||Mother|||
+@Date:	14-MAY-1998
+@Location:	Pamplona , Navarra , Spain
+@Situation:	CHI y MOT juegan con la casita
+*CHI:	mira .
+%mor:	co|mira=look .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	huy (.) venga cuéntanos que tiene esta casita .
+%mor:	co|huy=oh co|venga=come_on imp|conta-2S&IMP~pro:clit|1P=count_tell
+	pro:rel|que=that v|tene-3S&PRES=have det:dem|este-f=this
+	n|casa&f-DIM=house .
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|3|OBJ2 5|3|REL 6|5|CMOD 7|8|DET 8|6|OBJ
+	9|1|PUNCT
+*MOT:	nos lo cuentas ?
+%mor:	pro:obj|nos=us pro:obj|le-m=him v|conta-2S&PRES=count_tell ?
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	otra casa de Pinypon .
+%mor:	qn|otro-f=other n|casa&f=house prep|de=of n:prop|Pinypon .
+%gra:	1|2|DET 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*MOT:	sí .
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	y <qué tiene (.) a ver> [//] qué tiene la casa ?
+%mor:	coord|y=and pro:int|qué=what v|tene-3S&PRES=have
+	det:art|el&f&SG=the n|casa&f=house ?
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|5|DET 5|3|OBJ 6|1|COORD
+*CHI:	una vaca .
+%mor:	det:art|un-f=one n|vaca&f=cow .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	sí .
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	y qué más ?
+%mor:	coord|y=and pro:int|qué=what adv|más=more ?
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|1|COORD
+*CHI:	un caballo .
+%mor:	det:art|un&m=one n|caballo&m=horse .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	habla fuerte .
+%mor:	imp|habla-2S&IMP=speak adj|fuerte=strong .
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+*CHI:	un caballo una vaca .
+%mor:	det:art|un&m=one n|caballo&m=horse det:art|un-f=one n|vaca&f=cow .
+%gra:	1|2|DET 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*MOT:	y qué más hay ?
+%mor:	coord|y=and pro:int|qué=what adv|más=more v|habe-3S&PRES&SPEC=have
+	?
+%gra:	1|0|ROOT 2|1|COORD 3|4|JCT 4|1|COORD 5|1|COORD
+*CHI:	una ovejita .
+%mor:	det:art|un-f=one n|oveja&f-DIM=ewe .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	no .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	un perro .
+%mor:	det:art|un&m=one n|perro-m=dog .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	sabes qué perro es ?
+%mor:	v|sabe-2S&PRES=know pro:int|qué=what n|perro-m=dog
+	cop|se-3S&PRES=be ?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|MOD 5|1|PUNCT
+*MOT:	es igual que Chico .
+%mor:	cop|se-3S&PRES=be co|igual=equal pro:rel|que=that n:prop|Chico .
+%gra:	1|0|ROOT 2|1|PRED 3|2|REL 4|3|CMOD 5|1|PUNCT
+*CHI:	una ovejita .
+%mor:	det:art|un-f=one n|oveja&f-DIM=ewe .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	eso sí .
+%mor:	pro:dem|eso=that_one co|sí=yes .
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*CHI:	oy !
+%mor:	co|oy !
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	cómo hace la ovejita ?
+%mor:	pro:int|cómo=how v|hace-3S&PRES=do det:art|el&f&SG=the
+	n|oveja&f-DIM=ewe ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	bee@o !
+%mor:	on|bee !
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	y qué más hay en la casa que yo no veo nada ?
+%mor:	coord|y=and pro:int|qué=what adv|más=more v|habe-3S&PRES&SPEC=have
+	prep|en=in det:art|el&f&SG=the n|casa&f=house pro:rel|que=that
+	pro:sub|yo=I adv|no=no v|ve-1S&PRES=see pro:indef|nada=nothing ?
+%gra:	1|0|ROOT 2|3|JCT 3|4|JCT 4|1|COORD 5|4|JCT 6|7|DET 7|5|POBJ 8|7|REL
+	9|11|SUBJ 10|11|JCT 11|8|CMOD 12|11|OBJ 13|1|COORD
+*CHI:	esto .
+%mor:	pro:dem|esto=this_one .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	eso qué es ?
+%mor:	pro:dem|eso=that_one pro:int|qué=what cop|se-3S&PRES=be ?
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PRED
+%com:	el garaje
+*MOT:	la casita del perro es ?
+%mor:	det:art|el&f&SG=the n|casa&f-DIM=house prep|de~det:art|el&m=of
+	n|perro-m=dog cop|se-3S&PRES=be ?
+%gra:	1|2|DET 2|6|SUBJ 3|2|JCT 4|5|DET 5|3|POBJ 6|0|ROOT 7|6|PUNCT
+*CHI:	0 [=! negando] .
+*MOT:	no .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	qué es ?
+%mor:	pro:int|qué=what cop|se-3S&PRES=be ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%com:	la niña mete el coche en el garaje
+*MOT:	eso cómo se llama ?
+%mor:	pro:dem|eso=that_one pro:int|cómo=how pro:refl|se=itself
+	v|llama-3S&PRES=call ?
+%gra:	1|4|SUBJ 2|4|SUBJ 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	coche para entrar aquí .
+%mor:	n|coche&m=car prep|para=for inf|entra-INF=come_in adv|aquí=here .
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|3|JCT 5|1|PUNCT
+*MOT:	cochera ?
+%mor:	n|cochero-f=coachman ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	y bueno .
+%mor:	coord|y=and co|bueno=good .
+%gra:	1|0|ROOT 2|1|COORD 3|1|PUNCT
+*CHI:	hay más animales .
+%mor:	v|habe-3S&PRES&SPEC=have adv|más=more n|animal&m-PL=animal .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+*MOT:	hay más animales ?
+%mor:	v|habe-3S&PRES&SPEC=have adv|más=more n|animal&m-PL=animal ?
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+*CHI:	huy (.) se he caído el [//] la +//.
+%mor:	co|huy=oh pro:refl|se=itself aux|habe-1S&PRES=have
+	part|cae-PPART-m=fall det:art|el&f&SG=the +//.
+%gra:	1|0|ROOT 2|1|JCT 3|4|AUX 4|2|POBJ 5|6|DET 6|1|PUNCT
+*CHI:	son animales ?
+%mor:	cop|se-3P&PRES=be n|animal&m-PL=animal ?
+%gra:	1|0|ROOT 2|1|PRED 3|1|PUNCT
+*MOT:	son animales .
+%mor:	cop|se-3P&PRES=be n|animal&m-PL=animal .
+%gra:	1|0|ROOT 2|1|PRED 3|1|PUNCT
+*CHI:	cuentamos [: contamos] [*] ?
+%mor:	v|conta-1P&PRES&PRET=count_tell ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	contamos (.) venga .
+%mor:	v|conta-1P&PRES&PRET=count_tell co|venga=come_on .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	uno dos (.) oy !
+%mor:	det:num|uno=one det:num|dos=two co|oy !
+%gra:	1|2|MOD 2|3|MOD 3|0|ROOT 4|3|PUNCT
+*MOT:	huy (.) qué se cae la oveja (.) venga (.) uno +...
+%mor:	co|huy=oh pro:int|qué=what pro:refl|se=itself v|cae-3S&PRES=fall
+	det:art|el&f&SG=the n|oveja&f=ewe co|venga=come_on pro:indef|uno=one
+	+...
+%gra:	1|0|ROOT 2|1|REL 3|4|SUBJ 4|2|CMOD 5|6|DET 6|4|OBJ 7|6|MOD 8|6|MOD
+	9|1|PUNCT
+*CHI:	espera .
+%mor:	imp|espera-2S&IMP=wait .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	venga (.) empesa [: empieza] [*] .
+%mor:	co|venga=come_on v|empeza-3S&PRES=begin .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*MOT:	empiezo ?
+%mor:	v|empeza-1S&PRES=begin ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	venga .
+%mor:	co|venga=come_on .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	yo no .
+%mor:	pro:sub|yo=I adv|no=no .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*MOT:	tú .
+%mor:	pro:sub|tú=you .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	yo no .
+%mor:	pro:sub|yo=I adv|no=no .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*CHI:	uno dos tres cuatro .
+%mor:	det:num|uno=one det:num|dos=two det:num|tres=three
+	det:num|cuatro=four .
+%gra:	1|0|ROOT 2|1|JCT 3|4|MOD 4|2|POBJ 5|1|PUNCT
+*MOT:	cuatro animales .
+%mor:	det:num|cuatro=four n|animal&m-PL=animal .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	qué más ?
+%mor:	pro:int|qué=what adv|más=more ?
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*MOT:	el columpio qué bonito !
+%mor:	det:art|el&m&SG=the n|columpio&m=swing pro:int|qué=what
+	adj|bonito-m=pretty !
+%gra:	1|2|DET 2|0|ROOT 3|2|MOD 4|3|MOD 5|2|PUNCT
+*MOT:	no se yo (.) eh ?
+%mor:	adv|no=no pro:refl|se=itself pro:sub|yo=I co|eh ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*MOT:	y aquí qué hay ?
+%mor:	coord|y=and adv|aquí=here pro:int|qué=what v|habe-3S&PRES&SPEC=have
+	?
+%gra:	1|0|ROOT 2|3|JCT 3|1|COORD 4|1|COORD 5|1|COORD
+*MOT:	qué habitación es ésta que no se yo ?
+%mor:	pro:int|qué=what n|habitación&f=dwelling cop|se-3S&PRES=be
+	pro:dem|éste-f=this_one pro:rel|que=that adv|no=no
+	pro:refl|se=itself pro:sub|yo=I ?
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|REL 6|7|JCT 7|8|MOD 8|5|ROOT
+	9|8|PUNCT
+*CHI:	la de los niños .
+%mor:	pro:obj|la-f=she prep|de=of det:art|el&m-PL=the n|niño-m-PL=child .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*MOT:	ésta es la de los niños ?
+%mor:	pro:dem|éste-f=this_one cop|se-3S&PRES=be pro:obj|la-f=she
+	prep|de=of det:art|el&m-PL=the n|niño-m-PL=child ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+*CHI:	sí .
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	pero bueno si ésta tiene un fuego cómo va a ser la de los niños ?
+%mor:	conj|pero=but co|bueno=good conj|si=if pro:dem|éste-f=this_one
+	v|tene-3S&PRES=have det:art|un&m=one n|fuego&m=fire co|cómo
+	v|i-3S&PRES=go prepart|a=to cop|se-INF=be pro:obj|la-f=she
+	prep|de=of det:art|el&m-PL=the n|niño-m-PL=child ?
+%gra:	1|11|SUBJ 2|11|SUBJ 3|11|SUBJ 4|5|SUBJ 5|11|SUBJ 6|7|DET 7|11|SUBJ
+	8|11|SUBJ 9|11|SUBJ 10|11|SUBJ 11|0|ROOT 12|11|PRED 13|12|JCT 14|15|DET
+	15|13|POBJ 16|11|PUNCT
+*MOT:	mira dónde hay un fuego .
+%mor:	co|mira=look pro:int|dónde=where v|habe-3S&PRES&SPEC=have
+	det:art|un&m=one n|fuego&m=fire .
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|5|DET 5|3|OBJ 6|1|PUNCT
+*MOT:	lo ves ?
+%mor:	pro:obj|le-m=him v|ve-2S&PRES=see ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	y aquí ?
+%mor:	coord|y=and adv|aquí=here ?
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD
+*MOT:	aquí mira lo que hay .
+%mor:	adv|aquí=here co|mira=look pro:obj|le-m=him pro:rel|que=that
+	v|habe-3S&PRES&SPEC=have .
+%gra:	1|2|JCT 2|0|ROOT 3|2|REL 4|3|REL 5|4|CMOD 6|2|PUNCT
+*MOT:	qué hay aquí ?
+%mor:	pro:int|qué=what v|habe-3S&PRES&SPEC=have adv|aquí=here ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*CHI:	un tren .
+%mor:	det:art|un&m=one n|tren&m=train .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	ésta será la de los niños porque aquí mira qué hay aquí pintado .
+%mor:	pro:dem|éste-f=this_one cop|se-3S&FUT=be det:art|el&f&SG=the
+	prep|de=of det:art|el&m-PL=the n|niño-m-PL=child conj|porque=because
+	adv|aquí=here co|mira=look pro:int|qué=what v|habe-3S&PRES&SPEC=have
+	adv|aquí=here part|pinta-PPART-m=paint .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|JCT 5|6|DET 6|4|POBJ 7|6|MOD 8|9|JCT
+	9|7|CMOD 10|9|COMP 11|10|COMP 12|13|MOD 13|11|OBJ 14|2|PUNCT
+*MOT:	juguetes ?
+%mor:	n|juguete&m-PL=toy ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	se ha caído el xxx .
+%mor:	pro:refl|se=itself aux|habe-3S&PRES=have part|cae-PPART-m=fall
+	det:art|el&m&SG=the .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	éste era el papá .
+%mor:	pro:dem|éste=this_one cop|se-13S&PAS=be det:art|el&m&SG=the
+	n|papá&m=father .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*MOT:	muy bien (.) que tenía un sombrero (.) lo has visto ?
+%mor:	adv|muy=very adv|bien=well pro:rel|que=that v|tene-13S&PAS=have
+	det:art|un&m=one n|sombrero&m=hat pro:obj|le-m=him
+	aux|habe-2S&PRES=have part|ve-PPART-m=see ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|REL 4|3|CMOD 5|6|DET 6|4|OBJ 7|6|JCT 8|9|AUX
+	9|7|POBJ 10|2|PUNCT
+*CHI:	ésta la mamá que tenía la coleta así y los hijitos .
+%mor:	pro:dem|éste-f=this_one det:art|el&f&SG=the n|mamá&f=mommy
+	pro:rel|que=that v|tene-13S&PAS=have det:art|el&f&SG=the
+	n|coleta&f=ponytail adv|así=thus coord|y=and det:art|el&m-PL=the
+	n|hijo&m-DIM-PL=child .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|REL 5|4|CMOD 6|7|DET 7|5|OBJ 8|7|JCT
+	9|8|CONJ 10|11|DET 11|9|COORD 12|1|PUNCT
+*MOT:	los hijitos ?
+%mor:	det:art|el&m-PL=the n|hijo&m-DIM-PL=child ?
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*CHI:	aquí .
+%mor:	adv|aquí=here .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	y el abuelo .
+%mor:	coord|y=and det:art|el&m&SG=the n|abuelo-m=grandparent .
+%gra:	1|0|ROOT 2|3|DET 3|1|COORD 4|1|PUNCT
+*MOT:	éste es el abuelo ?
+%mor:	pro:dem|éste=this_one cop|se-3S&PRES=be det:art|el&m&SG=the
+	n|abuelo-m=grandparent ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CHI:	sí .
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	el abuelo .
+%mor:	det:art|el&m&SG=the n|abuelo-m=grandparent .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*CHI:	aquí .
+%mor:	adv|aquí=here .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	aquí .
+%mor:	adv|aquí=here .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	ah !
+%mor:	co|ah !
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	qué es eso ?
+%mor:	pro:int|qué=what cop|se-3S&PRES=be pro:dem|eso=that_one ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	otro .
+%mor:	qn|otro-m=other .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	otro qué ?
+%mor:	qn|otro-m=other pro:int|qué=what ?
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*CHI:	otra madre .
+%mor:	qn|otro-f=other n|madre&f=mother .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	no .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	eso es el niño .
+%mor:	pro:dem|eso=that_one cop|se-3S&PRES=be det:art|el&m&SG=the
+	n|niño-m=child .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*MOT:	no ?
+%mor:	adv|no=no ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	es una niña .
+%mor:	cop|se-3S&PRES=be det:art|un-f=one co|niña=child .
+%gra:	1|0|ROOT 2|3|DET 3|1|PRED 4|1|PUNCT
+*MOT:	mira .
+%mor:	co|mira=look .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	xxx .
+%com:	habla bajito
+*CHI:	ésta aquí .
+%mor:	pro:dem|éste-f=this_one adv|aquí=here .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*CHI:	quitamos los animales ?
+%mor:	v|quita-1P&PRES&PRET=remove det:art|el&m-PL=the
+	n|animal&m-PL=animal ?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MOT:	quítalos si quieres .
+%mor:	imp|quita-2S&IMP~pro:clit|OBJ&m&PL=remove conj|si=if
+	v|quere-2S&PRES=want .
+%gra:	1|4|SUBJ 2|1|OBJ2 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	ahí van los animales ?
+%mor:	adv|ahí=there v|i-3P&PRES=go det:art|el&m-PL=the
+	n|animal&m-PL=animal ?
+%gra:	1|2|JCT 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*MOT:	ahí van los animales en el salón ?
+%mor:	adv|ahí=there v|i-3P&PRES=go det:art|el&m-PL=the
+	n|animal&m-PL=animal prep|en=in det:art|el&m&SG=the n|salón&m=hall ?
+%gra:	1|2|JCT 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|JCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*CHI:	sí .
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	pues sí .
+%mor:	co|pues=well co|sí=yes .
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*CHI:	a_ver .
+%mor:	co|a_ver .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	qué hay ?
+%mor:	pro:int|qué=what v|habe-3S&PRES&SPEC=have ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	pintados los niños .
+%mor:	imp|pinta-2P&IMP~pro:clit|2P=paint det:art|el&m-PL=the
+	n|niño-m-PL=child .
+%gra:	1|0|ROOT 2|1|OBJ2 3|4|DET 4|2|OBJ 5|1|PUNCT
+*MOT:	es que yo desde aquí no lo veo .
+%mor:	cop|se-3S&PRES=be pro:rel|que=that pro:sub|yo=I prep|desde=from
+	adv|aquí=here adv|no=no pro:obj|le-m=him v|ve-1S&PRES=see .
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|3|JCT 5|8|JCT 6|7|JCT 7|8|SUBJ 8|4|POBJ
+	9|1|PUNCT
+*CHI:	ésta .
+%mor:	pro:dem|éste-f=this_one .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	ánda mira (.) es una tele(visión) .
+%mor:	imp|anda-2S&IMP=walk co|mira=look cop|se-3S&PRES=be
+	det:art|un-f=one n|televisión&f=television .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*MOT:	oy (.) esa oveja que se cae todo el rato .
+%mor:	co|oy det:dem|ese-f=that n|oveja&f=ewe pro:rel|que=that
+	pro:refl|se=itself v|cae-3S&PRES=fall qn|todo-m=all
+	det:art|el&m&SG=the n|rato&m=time .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|REL 5|6|SUBJ 6|4|CMOD 7|6|COMP 8|9|DET
+	9|7|OBJ 10|1|PUNCT
+*CHI:	esa oveja a la cunita .
+%mor:	det:dem|ese-f=that n|oveja&f=ewe prepart|a=to det:art|el&f&SG=the
+	n|cuna&f-DIM=cradle .
+%gra:	1|2|DET 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*CHI:	ya hemos quita(d)o .
+%mor:	adv|ya=already aux|habe-1P&PRES=have part|quita-PPART-m=remove .
+%gra:	1|3|JCT 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*CHI:	ya llegó .
+%mor:	adv|ya=already v|llega-3S&PRET=arrive .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*MOT:	ya has visto que ese perro es igual que Chico ?
+%mor:	adv|ya=already aux|habe-2S&PRES=have part|ve-PPART-m=see
+	prep|que=than det:dem|ese=that n|perro-m=dog cop|se-3S&PRES=be
+	co|igual=equal pro:rel|que=that n:prop|Chico ?
+%gra:	1|3|JCT 2|3|AUX 3|7|SUBJ 4|3|JCT 5|6|DET 6|4|POBJ 7|0|ROOT 8|7|PRED
+	9|8|REL 10|9|CMOD 11|7|PUNCT
+*CHI:	y la vaquita (.) pues aquí .
+%mor:	coord|y=and det:art|el&f&SG=the n|vaca&f-DIM=cow co|pues=well
+	adv|aquí=here .
+%gra:	1|0|ROOT 2|3|DET 3|1|COORD 4|3|MOD 5|4|JCT 6|1|PUNCT
+*CHI:	esto ?
+%mor:	pro:dem|esto=this_one ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	aquí .
+%mor:	adv|aquí=here .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	huy (.) dónde está el columpio ?
+%mor:	co|huy=oh pro:int|dónde=where cop|esta-3S&PRES=be
+	det:art|el&m&SG=the n|columpio&m=swing ?
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*MOT:	ahí lo llevas (.) no ?
+%mor:	adv|ahí=there pro:obj|le-m=him v|lleva-2S&PRES=carry adv|no=no ?
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*CHI:	bueno .
+%mor:	co|bueno=good .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	dentro de la casa metes el columpio ?
+%mor:	adv|dentro=inside prep|de=of det:art|el&f&SG=the n|casa&f=house
+	v|mete-2S&PRES=put det:art|el&m&SG=the n|columpio&m=swing ?
+%gra:	1|5|JCT 2|1|JCT 3|4|DET 4|2|POBJ 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*CHI:	sí .
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	no habrá que meter las camas ?
+%mor:	adv|no=no v|habe-3S&FUT=have pro:rel|que=that inf|mete-INF=put
+	det:art|el&f-PL=the n|cama&f-PL=bed ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|REL 4|3|COMP 5|6|DET 6|4|OBJ 7|2|PUNCT
+*CHI:	y la mesa ?
+%mor:	coord|y=and det:art|el&f&SG=the n|mesa&f=table ?
+%gra:	1|0|ROOT 2|3|DET 3|1|COORD 4|1|COORD
+*MOT:	claro (.) puede ser en la cocina por ejemplo .
+%mor:	co|claro=obvious v|pode-3S&PRES=can cop|se-INF=be prep|en=in
+	det:art|el&f&SG=the n|cocina&f=kitchen prep|por=for
+	n|ejemplo&m=example .
+%gra:	1|2|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|6|JCT 8|7|POBJ
+	9|3|PUNCT
+*MOT:	es que como has metido a los animales en el salón pues entonces
+	tendrán que comer en la cocina .
+%mor:	cop|se-3S&PRES=be pro:rel|que=that adv|como=like
+	aux|habe-2S&PRES=have part|mete-PPART-m=put prepart|a=to
+	det:art|el&m-PL=the n|animal&m-PL=animal prep|en=in
+	det:art|el&m&SG=the n|salón&m=hall co|pues=well adv|entonces=then
+	v|tene-3P&FUT=have pro:rel|que=that inf|come-INF=eat prep|en=in
+	det:art|el&f&SG=the n|cocina&f=kitchen .
+%gra:	1|0|ROOT 2|1|REL 3|5|JCT 4|5|AUX 5|2|COMP 6|5|COMP 7|8|DET 8|6|OBJ
+	9|8|JCT 10|11|DET 11|9|POBJ 12|11|MOD 13|14|JCT 14|12|CMOD 15|14|REL
+	16|15|COMP 17|16|JCT 18|19|DET 19|17|POBJ 20|1|PUNCT
+*MOT:	bueno pues total +...
+%mor:	co|bueno=good co|pues=well adj|total=total +...
+%gra:	1|0|ROOT 2|1|REL 3|2|MOD 4|1|PUNCT
+*CHI:	mira (.) una niña ha serrado [*] .
+%mor:	co|mira=look det:art|un-f=one co|niña=child aux|habe-3S&PRES=have
+	part|serra-PPART-m=saw .
+%gra:	1|0|ROOT 2|3|DET 3|5|SUBJ 4|5|AUX 5|1|OBJ 6|1|PUNCT
+*MOT:	huy (.) se asoma .
+%mor:	co|huy=oh pro:refl|se=itself v|asoma-3S&PRES=show .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	mamá la colocamos aquí ?
+%mor:	n|mamá&f=mommy pro:obj|la-f=she v|coloca-1P&PRES&PRET=place
+	adv|aquí=here ?
+%gra:	1|3|SUBJ 2|1|MOD 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*MOT:	venga (.) pues coloca .
+%mor:	co|venga=come_on co|pues=well v|coloca-3S&PRES=place .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	mira !
+%mor:	co|mira=look !
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	huy (.) pues sí que cabe (.) eh ?
+%mor:	co|huy=oh co|pues=well co|sí=yes pro:rel|que=that
+	v|cabe-3S&PRES=fit co|eh ?
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|3|REL 5|4|CMOD 6|5|OBJ 7|1|PUNCT
+*MOT:	cabe .
+%mor:	v|cabe-3S&PRES=fit .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	aquí .
+%mor:	adv|aquí=here .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	huy (.) pues sí queda bonito .
+%mor:	co|huy=oh co|pues=well co|sí=yes v|queda-3S&PRES=stay
+	co|bonito=pretty .
+%gra:	1|4|SUBJ 2|4|SUBJ 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%com:	dan la vuelta a la casa
+*MOT:	así y aquí mira (.) se abre la puerta .
+%mor:	adv|así=thus coord|y=and adv|aquí=here co|mira=look
+	pro:refl|se=itself v|abri-3S&PRES=open det:art|el&f&SG=the
+	n|puerta&f=door .
+%gra:	1|5|JCT 2|1|CONJ 3|4|JCT 4|2|COORD 5|6|SUBJ 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|6|PUNCT
+*CHI:	con esa .
+%mor:	prep|con=with det:dem|ese-f=that .
+%gra:	1|0|ROOT 2|1|POBJ 3|1|PUNCT
+*MOT:	huy (.) lo que he encontrado .
+%mor:	co|huy=oh pro:obj|le-m=him pro:rel|que=that aux|habe-1S&PRES=have
+	part|encontra-PPART-m=find .
+%gra:	1|0|ROOT 2|1|REL 3|2|REL 4|5|AUX 5|3|CMOD 6|1|PUNCT
+*MOT:	el timbre .
+%mor:	det:art|el&m&SG=the n|timbre&m=stamp .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	llama .
+%mor:	v|llama-3S&PRES=call .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	luego abre la puerta .
+%mor:	adv|luego=afterwards v|abri-3S&PRES=open det:art|el&f&SG=the
+	n|puerta&f=door .
+%gra:	1|2|JCT 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	tin^tin@o (.) quién es ?
+%mor:	on|tintin pro:int|quién=who cop|se-3S&PRES=be ?
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PRED
+*CHI:	soy el lobo .
+%mor:	cop|se-1S&PRES=be det:art|el&m&SG=the n|lobo-m=wolf .
+%gra:	1|0|ROOT 2|3|DET 3|1|PRED 4|1|PUNCT
+*CHI:	serramos [*] ?
+%mor:	v|serra-1P&PRES&PRET=saw ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	no se (.) porque si cierras hay que meter todo dentro .
+%mor:	adv|no=no pro:refl|se=itself conj|porque=because conj|si=if
+	v|cerra-2S&PRES=close v|habe-3S&PRES&SPEC=have pro:rel|que=that
+	inf|mete-INF=put pro:indef|todo-m=all adv|dentro=inside .
+%gra:	1|2|JCT 2|0|ROOT 3|2|COMP 4|3|COMP 5|4|CMOD 6|5|OBJ 7|6|REL 8|7|COMP
+	9|8|OBJ 10|9|JCT 11|2|PUNCT
+*MOT:	tu verás .
+%mor:	det:poss|tu=your v|ve-2S&FUT=see .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*MOT:	qué quieres ?
+%mor:	pro:int|qué=what v|quere-2S&PRES=want ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	ay (.) más cerquita .
+%mor:	co|ay=ay adv|más=more n|cerca&f-DIM=fence .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+*MOT:	a_ver (.) más cerca .
+%mor:	co|a_ver adv|más=more adv|cerca=near .
+%gra:	1|0|ROOT 2|3|MOD 3|1|JCT 4|1|PUNCT
+*CHI:	aquí se sientan los niños (.) mira (.) éste éste éste y éste .
+%mor:	adv|aquí=here pro:refl|se=itself v|senta-3P&PRES=sit
+	det:art|el&m-PL=the n|niño-m-PL=child v|mira-3S&PRES=look
+	pro:dem|éste=this_one pro:dem|éste=this_one pro:dem|éste=this_one
+	coord|y=and pro:dem|éste=this_one .
+%gra:	1|2|MOD 2|3|SUBJ 3|6|SUBJ 4|5|DET 5|6|SUBJ 6|0|ROOT 7|6|OBJ 8|7|COMP
+	9|8|COMP 10|9|CONJ 11|10|COORD 12|6|PUNCT
+*CHI:	no .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	mira (.) el hijo el abuelo (.) la madre y el papá .
+%mor:	v|mira-3S&PRES=look det:art|el&m&SG=the co|hijo=child
+	det:art|el&m&SG=the n|abuelo-m=grandparent det:art|el&f&SG=the
+	n|madre&f=mother coord|y=and det:art|el&m&SG=the n|papá&m=father .
+%gra:	1|0|ROOT 2|3|DET 3|1|COMP 4|5|DET 5|3|OBJ 6|7|DET 7|5|OBJ 8|7|CONJ
+	9|10|DET 10|8|COORD 11|1|PUNCT
+*MOT:	todos .
+%mor:	qn|todo-m-PL=all .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	la señora +...
+%mor:	det:art|el&f&SG=the n|señora&f=lady +...
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*CHI:	otra hija .
+%mor:	qn|otro-f=other co|hija=child .
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*CHI:	mira (.) esa es la hija .
+%mor:	co|mira=look det:dem|ese-f=that cop|se-3S&PRES=be
+	det:art|el&f&SG=the co|hija=child .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*MOT:	ah (.) la hija (.) es verdad .
+%mor:	co|ah det:art|el&f&SG=the co|hija=child cop|se-3S&PRES=be
+	co|verdad=right .
+%gra:	1|4|SUBJ 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*MOT:	esa es la hija .
+%mor:	det:dem|ese-f=that cop|se-3S&PRES=be det:art|el&f&SG=the
+	co|hija=child .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CHI:	esto aquí .
+%mor:	pro:dem|esto=this_one adv|aquí=here .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*MOT:	huy esa cama está al revés Vicky .
+%mor:	co|huy=oh det:dem|ese-f=that n|cama&f=bed cop|esta-3S&PRES=be
+	prepart|a~det:art|el&m=to n|revés&m=reverse n:prop|Vicky .
+%gra:	1|3|DET 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|7|DET 7|5|OBJ 8|7|MOD
+	9|4|PUNCT
+*MOT:	no se van a poder acostar .
+%mor:	adv|no=no pro:refl|se=itself v|i-3P&PRES=go prepart|a=to
+	inf|pode-INF=can inf|acosta-INF=put_to_bet .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|3|PUNCT
+%com:	la niña toca el timbre
+*CHI:	hola !
+%mor:	co|hola=hi !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	todos los animales !
+%mor:	qn|todo-m-PL=all det:art|el&m-PL=the n|animal&m-PL=animal !
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	que voy a llamar .
+%mor:	pro:rel|que=that v|i-1S&PRES=go prepart|a=to inf|llama-INF=call .
+%gra:	1|0|ROOT 2|1|CMOD 3|4|INF 4|2|COMP 5|1|PUNCT
+*MOT:	oye acabarás rompiendo el timbre o no ?
+%mor:	co|oye=listen v|acaba-2S&FUT=finish part|rompe-PRPART=break
+	det:art|el&m&SG=the n|timbre&m=stamp coord|o=or adv|no=no ?
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|5|DET 5|3|OBJ 6|5|CONJ 7|6|COORD 8|1|PUNCT
+*CHI:	no .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	mira (.) también pueden salir los animales .
+%mor:	co|mira=look adv|también=also v|pode-3P&PRES=can inf|sali-INF=leave
+	det:art|el&m-PL=the n|animal&m-PL=animal .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|COMP 5|6|DET 6|4|OBJ 7|3|PUNCT
+*MOT:	por aquí también pueden salir los animales ?
+%mor:	prep|por=for adv|aquí=here adv|también=also v|pode-3P&PRES=can
+	inf|sali-INF=leave det:art|el&m-PL=the n|animal&m-PL=animal ?
+%gra:	1|4|JCT 2|1|POBJ 3|4|JCT 4|0|ROOT 5|4|COMP 6|7|DET 7|5|OBJ 8|4|PUNCT
+*CHI:	sí (.) mira .
+%mor:	co|sí=yes co|mira=look .
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*CHI:	mira (.) oh la vaca no ?
+%mor:	co|mira=look co|oh=oh det:art|el&f&SG=the n|vaca&f=cow adv|no=no ?
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|4|JCT 6|1|PUNCT
+*MOT:	no sale ?
+%mor:	adv|no=no v|sali-3S&PRES=leave ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*CHI:	sí [/] sí .
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	sí sale la vaca también .
+%mor:	co|sí=yes v|sali-3S&PRES=leave det:art|el&f&SG=the n|vaca&f=cow
+	adv|también=also .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|MOD 6|2|PUNCT
+*CHI:	adiós !
+%mor:	co|adiós=goodbye !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	xxx .
+*CHI:	soy yo .
+%mor:	cop|se-1S&PRES=be pro:sub|yo=I .
+%gra:	1|0|ROOT 2|1|PRED 3|1|PUNCT
+*CHI:	puedo entrar ?
+%mor:	v|pode-1S&PRES=can inf|entra-INF=come_in ?
+%gra:	1|0|ROOT 2|1|COMP 3|1|PUNCT
+*CHI:	adiós .
+%mor:	co|adiós=goodbye .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	soy la vaca .
+%mor:	cop|se-1S&PRES=be det:art|el&f&SG=the n|vaca&f=cow .
+%gra:	1|0|ROOT 2|3|DET 3|1|PRED 4|1|PUNCT
+*MOT:	yo estaba por aquí .
+%mor:	pro:sub|yo=I cop|esta-13S&PAS=be prep|por=for adv|aquí=here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*MOT:	la vaca Elena .
+%mor:	det:art|el&f&SG=the n|vaca&f=cow n:prop|Elena .
+%gra:	1|2|DET 2|0|ROOT 3|2|MOD 4|2|PUNCT
+*CHI:	<pasar [*]> [/] <pasar [*]> [/] pasar [*] !
+%mor:	inf|pasa-INF=pass !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	caballitos no escupáis .
+%mor:	n|caballo&m-DIM-PL=horse adv|no=no v|escupi-2P&SUB&PRES=spit .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*MOT:	que no qué ?
+%mor:	pro:rel|que=that adv|no=no pro:int|qué=what ?
+%gra:	1|0|ROOT 2|3|JCT 3|1|CMOD 4|1|PUNCT
+*CHI:	0 [=! riendo] .
+*MOT:	que no te he entendido .
+%mor:	pro:rel|que=that adv|no=no pro:obj|te=you aux|habe-1S&PRES=have
+	part|entende-PPART-m=understand .
+%gra:	1|0|ROOT 2|3|JCT 3|5|SUBJ 4|5|AUX 5|1|COMP 6|1|PUNCT
+*MOT:	que no qué ?
+%mor:	pro:rel|que=that adv|no=no pro:int|qué=what ?
+%gra:	1|0|ROOT 2|3|JCT 3|1|CMOD 4|1|PUNCT
+*CHI:	que no escupáis .
+%mor:	pro:rel|que=that adv|no=no v|escupi-2P&SUB&PRES=spit .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*MOT:	que no se preocupen ?
+%mor:	pro:rel|que=that adv|no=no pro:refl|se=itself
+	v|preocupa-3P&SUB&PRES=preoccupy ?
+%gra:	1|4|SUBJ 2|3|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*MOT:	no os preocupéis ?
+%mor:	adv|no=no pro:obj|os=you v|preocupa-2P&SUB&PRES=preoccupy ?
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*MOT:	es eso ?
+%mor:	cop|se-3S&PRES=be pro:dem|eso=that_one ?
+%gra:	1|0|ROOT 2|1|PRED 3|1|PUNCT
+*CHI:	0 [=! negando] .
+*MOT:	no [/] no ?
+%mor:	adv|no=no ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	0 [=! asintiendo] .
+*MOT:	sí .
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	ahora a [/-] ya no puedes entrar !
+%mor:	adv|ahora=now adv|ya=already adv|no=no v|pode-2S&PRES=can
+	inf|entra-INF=come_in !
+%gra:	1|2|JCT 2|4|JCT 3|4|JCT 4|0|ROOT 5|4|COMP 6|4|PUNCT
+*CHI:	oh (.) pobrecillos .
+%mor:	co|oh=oh adj|pobre-DIM-PL=poor .
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+*MOT:	le da frío ?
+%mor:	pro:ind|le&m=him v|da-3S&PRES=give n|frío&m=cold ?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	ah (.) ya pueden .
+%mor:	co|ah adv|ya=already v|pode-3P&PRES=can .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*MOT:	espera (.) a_ver (.) así .
+%mor:	v|espera-3S&PRES=wait co|a_ver adv|así=thus .
+%gra:	1|0|ROOT 2|1|OBJ 3|2|JCT 4|1|PUNCT
+*CHI:	pero +/.
+%mor:	conj|pero=but +/.
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	pero por la ventana que salto tan grande (.) oye .
+%mor:	conj|pero=but prep|por=for det:art|el&f&SG=the n|ventana&f=window
+	pro:rel|que=that v|salta-1S&PRES=jump adv|tan=such adj|grande=big
+	co|oye=listen .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|4|REL 6|5|CMOD 7|6|JCT 8|7|MOD
+	9|5|CMOD 10|1|PUNCT
+*CHI:	estoy con ellos !
+%mor:	aux|esta-1S&PRES=be prep|con=with pro:sub|ello-m-PL=he !
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*MOT:	ánda (.) todos juntitos .
+%mor:	imp|anda-2S&IMP=walk pro:indef|todo-m-PL=all
+	adj|junto-DIM-PL=nearby .
+%gra:	1|0|ROOT 2|1|COMP 3|2|MOD 4|1|PUNCT
+*CHI:	y la vaca Elena ?
+%mor:	coord|y=and det:art|el&f&SG=the n|vaca&f=cow n:prop|Elena ?
+%gra:	1|0|ROOT 2|3|DET 3|1|COORD 4|3|MOD 5|1|COORD
+*MOT:	la vaca Elena (.) estaba tan flaca la vaca Elena que en vez de
+	leche daba pena .
+%mor:	det:art|el&f&SG=the n|vaca&f=cow n:prop|Elena cop|esta-13S&PAS=be
+	adv|tan=such adj|flaco-f=skinny det:art|el&f&SG=the n|vaca&f=cow
+	n:prop|Elena pro:rel|que=that prep|en=in n|vez&f=turn prep|de=of
+	n|leche&f=milk v|da-13S&PAS=give n|pena&f=pain .
+%gra:	1|2|DET 2|4|SUBJ 3|2|MOD 4|0|ROOT 5|6|JCT 6|4|PRED 7|8|DET 8|6|OBJ
+	9|8|MOD 10|8|REL 11|10|JCT 12|11|POBJ 13|12|JCT 14|13|POBJ 15|16|DET
+	16|11|POBJ 17|4|PUNCT
+*CHI:	oye no puede salir !
+%mor:	co|oye=listen adv|no=no v|pode-3S&PRES=can inf|sali-INF=leave !
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|COMP 5|3|PUNCT
+*MOT:	no puede entrar que es diferente .
+%mor:	adv|no=no v|pode-3S&PRES=can inf|entra-INF=come_in pro:rel|que=that
+	cop|se-3S&PRES=be adj|diferente=different .
+%gra:	1|2|JCT 2|0|ROOT 3|2|COMP 4|3|REL 5|4|CMOD 6|5|PRED 7|2|PUNCT
+*MOT:	la vaca es muy grande .
+%mor:	det:art|el&f&SG=the n|vaca&f=cow cop|se-3S&PRES=be adv|muy=very
+	adj|grande=big .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|PRED 6|3|PUNCT
+*CHI:	porqué camino voy ?
+%mor:	pro:int|porqué=why n|camino&m=road v|i-1S&PRES=go ?
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	aquí está (.) mira .
+%mor:	adv|aquí=here cop|esta-3S&PRES=be co|mira=look .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	ves como sí .
+%mor:	co|ves=see adv|como=like co|sí=yes .
+%gra:	1|0|ROOT 2|3|MOD 3|1|POBJ 4|1|PUNCT
+*MOT:	huy (.) esta vaca creo que no cabe .
+%mor:	co|huy=oh det:dem|este-f=this n|vaca&f=cow v|cree-1S&PRES=believe
+	pro:rel|que=that adv|no=no v|cabe-3S&PRES=fit .
+%gra:	1|3|DET 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|REL 6|7|JCT 7|5|ROOT 8|7|PUNCT
+*CHI:	oy (.) ahora esa .
+%mor:	co|oy adv|ahora=now det:dem|ese-f=that .
+%gra:	1|0|ROOT 2|3|MOD 3|1|POBJ 4|1|PUNCT
+%com:	la madre toca el timbre
+*CHI:	llaman .
+%mor:	v|llama-3P&PRES=call .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	quién llama ?
+%mor:	pro:int|quién=who v|llama-3S&PRES=call ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	tú .
+%mor:	pro:sub|tú=you .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	yo ?
+%mor:	pro:sub|yo=I ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	llamas (.) tú .
+%mor:	v|llama-2S&PRES=call pro:sub|tú=you .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%com:	la madre vuelve a llamar
+*CHI:	quién es ?
+%mor:	pro:int|quién=who cop|se-3S&PRES=be ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*MOT:	soy yo .
+%mor:	cop|se-1S&PRES=be pro:sub|yo=I .
+%gra:	1|0|ROOT 2|1|PRED 3|1|PUNCT
+*CHI:	y cómo te llamas ?
+%mor:	coord|y=and pro:int|cómo=how pro:obj|te=you v|llama-2S&PRES=call ?
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|1|COORD 5|1|COORD
+*MOT:	Caperucita_Roja .
+%mor:	n:prop|Caperucita_Roja .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	Caperucita (.) toma el bolso .
+%mor:	n:prop|Caperucita v|toma-3S&PRES=take det:art|el&m&SG=the
+	n|bolso&m=money_bag .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*MOT:	y tú quién eres ?
+%mor:	coord|y=and pro:sub|tú=you pro:int|quién=who cop|se-2S&PRES=be ?
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|1|COORD 5|1|COORD
+*CHI:	yo soy la [/] la abuelita .
+%mor:	pro:sub|yo=I cop|se-1S&PRES=be det:art|el&f&SG=the
+	n|abuelo&f-DIM=grandparent .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*MOT:	ah !
+%mor:	co|ah !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	adiós !
+%mor:	co|adiós=goodbye !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	todos a salir .
+%mor:	qn|todo-m-PL=all prepart|a=to inf|sali-INF=leave .
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|1|PUNCT
+*CHI:	tú (.) bien serra(d)o .
+%mor:	pro:sub|tú=you adv|bien=well part|serra-PPART-m=saw .
+%gra:	1|0|ROOT 2|3|MOD 3|1|POBJ 4|1|PUNCT
+%com:	cierra la puerta de la casa
+*MOT:	qué pasa ?
+%mor:	pro:int|qué=what v|pasa-3S&PRES=pass ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	qué estoy cansada .
+%mor:	pro:int|qué=what cop|esta-1S&PRES=be part|cansa-PPART-f=tire .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%com:	se apoya en el respaldo de la silla
+*MOT:	sí [=! incrédula] .
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	estás cansada ya ?
+%mor:	cop|esta-2S&PRES=be part|cansa-PPART-f=tire adv|ya=already ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|JCT 4|1|PUNCT
+*MOT:	pues cuando lleguen las cinco y media de la tarde ya me dirás como
+	estás .
+%mor:	co|pues=well pro:rel|cuando=when v|llega-3P&SUB&PRES=arrive
+	det:art|el&f-PL=the det:num|cinco=five coord|y=and
+	n|media&f=stocking prep|de=of det:art|el&f&SG=the adv|tarde=late
+	adv|ya=already pro:obj|me=me v|deci-2S&FUT=say adv|como=like
+	cop|esta-2S&PRES=be .
+%gra:	1|0|ROOT 2|1|REL 3|2|COMP 4|5|DET 5|12|MOD 6|5|CONJ 7|6|COORD 8|7|JCT
+	9|10|DET 10|11|JCT 11|8|POBJ 12|15|SUBJ 13|15|SUBJ 14|13|JCT 15|3|OBJ
+	16|1|PUNCT
+*CHI:	mamá (.) puedo ponerme de rodillas .
+%mor:	n|mamá&f=mommy v|pode-1S&PRES=can inf|pone-INF~pro:clit|1S=put
+	prep|de=of n|rodilla&f-PL=knee .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COMP 4|3|OBJ2 5|4|JCT 6|5|POBJ 7|2|PUNCT
+*MOT:	sí puedes ponerte de rodillas si estás más cómoda .
+%mor:	co|sí=yes v|pode-2S&PRES=can inf|pone-INF~pro:clit|2S=put
+	prep|de=of n|rodilla&f-PL=knee conj|si=if cop|esta-2S&PRES=be
+	adv|más=more adj|cómodo-f=comfortable .
+%gra:	1|2|SUBJ 2|8|SUBJ 3|2|COMP 4|3|OBJ2 5|4|JCT 6|5|POBJ 7|6|MOD 8|0|ROOT
+	9|10|MOD 10|8|PRED 11|8|PUNCT
+*CHI:	más cerca (.) más [/] más .
+%mor:	adv|más=more adv|cerca=near adv|más=more .
+%gra:	1|2|JCT 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%com:	la madre le acerca la casita
+*CHI:	así [/] así [/] así .
+%mor:	adv|así=thus .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	<qué te pilla> [/] que te pilla .
+%mor:	pro:rel|que=that pro:obj|te=you v|pilla-3S&PRES=catch .
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|CMOD 4|1|PUNCT
+*CHI:	<ya está> [/] <ya está> [/] ya .
+%mor:	adv|ya=already .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	cuidado que se cae todo y se rompe toda la casa .
+%mor:	co|cuidado=careful pro:rel|que=that pro:refl|se=itself
+	v|cae-3S&PRES=fall pro:indef|todo-m=all coord|y=and
+	pro:refl|se=itself imp|rompe-2S&IMP=break qn|todo-f=all
+	det:art|el&f&SG=the n|casa&f=house .
+%gra:	1|0|ROOT 2|1|REL 3|4|SUBJ 4|2|COMP 5|4|COMP 6|5|CONJ 7|6|COORD 8|7|PRED
+	9|8|COMP 10|11|DET 11|9|OBJ 12|1|PUNCT
+*MOT:	mira .
+%mor:	co|mira=look .
+%gra:	1|0|ROOT 2|1|PUNCT
+%com:	señala la puerta
+*CHI:	quién es ?
+%mor:	pro:int|quién=who cop|se-3S&PRES=be ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%com:	toca el timbre
+*MOT:	cierra la puerta .
+%mor:	v|cerra-3S&PRES=close det:art|el&f&SG=the n|puerta&f=door .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	quién es ?
+%mor:	pro:int|quién=who cop|se-3S&PRES=be ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	ahora yo (.) venga .
+%mor:	adv|ahora=now pro:sub|yo=I co|venga=come_on .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	a_ver (.) ála .
+%mor:	co|a_ver co|ála .
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*CHI:	quién es usted ?
+%mor:	pro:int|quién=who cop|se-3S&PRES=be pro:sub|usted=you ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	quién es usted ?
+%mor:	pro:int|quién=who cop|se-3S&PRES=be pro:sub|usted=you ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	puedo entrar ?
+%mor:	v|pode-1S&PRES=can inf|entra-INF=come_in ?
+%gra:	1|0|ROOT 2|1|COMP 3|1|PUNCT
+*CHI:	todos aquí .
+%mor:	qn|todo-m-PL=all adv|aquí=here .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+%com:	a la habitación
+*MOT:	no se si se van a salir .
+%mor:	adv|no=no pro:refl|se=itself conj|si=if pro:refl|se=itself
+	v|i-3P&PRES=go prepart|a=to inf|sali-INF=leave .
+%gra:	1|2|JCT 2|5|SUBJ 3|2|JCT 4|3|POBJ 5|0|ROOT 6|7|INF 7|5|OBJ 8|5|PUNCT
+*MOT:	el columpio lo has puesto ahí también ?
+%mor:	det:art|el&m&SG=the n|columpio&m=swing pro:obj|le-m=him
+	aux|habe-2S&PRES=have part|pone-PPART-m=put adv|ahí=there
+	adv|también=also ?
+%gra:	1|2|DET 2|5|SUBJ 3|2|MOD 4|5|AUX 5|0|ROOT 6|7|JCT 7|5|JCT 8|5|PUNCT
+*CHI:	sí (.) así .
+%mor:	co|sí=yes adv|así=thus .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*MOT:	pues si sabes cerrarlo tú también muy bien .
+%mor:	co|pues=well conj|si=if co|sabes=you_know
+	inf|cerra-INF~pro:clit|OBJ&m=close pro:sub|tú=you adv|también=also
+	adv|muy=very adv|bien=well .
+%gra:	1|0|ROOT 2|1|COMP 3|2|COMP 4|3|COMP 5|4|OBJ2 6|4|OBJ 7|8|JCT 8|9|JCT
+	9|6|JCT 10|1|PUNCT
+*MOT:	mira una chimenea .
+%mor:	co|mira=look det:art|un-f=one n|chimenea&f=chimney .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	en dónde ?
+%mor:	prep|en=in pro:int|dónde=where ?
+%gra:	1|0|ROOT 2|1|POBJ 3|1|PUNCT
+*MOT:	cuidado que si no está bien cerrada se caerá todo (.) eh ?
+%mor:	co|cuidado=careful pro:rel|que=that conj|si=if adv|no=no
+	cop|esta-3S&PRES=be adv|bien=well part|cerra-PPART-f=close
+	pro:refl|se=itself v|cae-3S&FUT=fall qn|todo-m=all co|eh ?
+%gra:	1|0|ROOT 2|1|REL 3|4|MOD 4|5|JCT 5|2|COMP 6|7|JCT 7|5|PRED 8|7|OBJ
+	9|8|CMOD 10|11|MOD 11|9|OBJ 12|1|PUNCT
+*MOT:	ánda mira (.) si hay otro niño y un perrito .
+%mor:	imp|anda-2S&IMP=walk co|mira=look conj|si=if
+	v|habe-3S&PRES&SPEC=have pro:indef|otro-m=other n|niño-m=child
+	coord|y=and det:art|un&m=one n|perro&m-DIM=dog .
+%gra:	1|0|ROOT 2|1|COMP 3|4|SUBJ 4|2|CMOD 5|6|DET 6|4|OBJ 7|6|CONJ 8|9|DET
+	9|7|COORD 10|1|PUNCT
+*CHI:	dónde ?
+%mor:	pro:int|dónde=where ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	mira .
+%mor:	co|mira=look .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	un perro y un niñito .
+%mor:	det:art|un&m=one n|perro-m=dog coord|y=and det:art|un&m=one
+	n|niño&m-DIM=child .
+%gra:	1|2|DET 2|0|ROOT 3|2|CONJ 4|5|DET 5|3|COORD 6|2|PUNCT
+*CHI:	y ahora cómo lo podemos hacer así ?
+%mor:	coord|y=and adv|ahora=now pro:int|cómo=how pro:obj|le-m=him
+	v|pode-1P&PRES=can inf|hace-INF=do adv|así=thus ?
+%gra:	1|0|ROOT 2|3|JCT 3|1|COORD 4|1|COORD 5|1|COORD 6|5|COMP 7|6|JCT
+	8|1|PUNCT
+%com:	le da la vuelta a la casa
+*MOT:	cuidado que no está cerrada (.) cuidado .
+%mor:	co|cuidado=careful pro:rel|que=that adv|no=no cop|esta-3S&PRES=be
+	part|cerra-PPART-f=close co|cuidado=careful .
+%gra:	1|0|ROOT 2|1|REL 3|4|JCT 4|2|COMP 5|4|PRED 6|5|OBJ 7|1|PUNCT
+*CHI:	<todo(s) [*] no caben> [/] todo(s) [*] no caben aquí .
+%mor:	qn|todo-m-PL=all adv|no=no v|cabe-3P&PRES=fit adv|aquí=here .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*MOT:	yo creo que sí te caben .
+%mor:	pro:sub|yo=I v|cree-1S&PRES=believe pro:rel|que=that co|sí=yes
+	pro:obj|te=you v|cabe-3P&PRES=fit .
+%gra:	1|0|ROOT 2|1|CMOD 3|2|REL 4|3|CMOD 5|4|SCON 6|5|ROOT 7|6|PUNCT
+*MOT:	lo que pasa es que no los das coloca(d)o bien .
+%mor:	pro:obj|le-m=him pro:rel|que=that v|pasa-3S&PRES=pass
+	cop|se-3S&PRES=be pro:rel|que=that adv|no=no pro:ind|le-m-PL=him
+	v|da-2S&PRES=give part|coloca-PPART-m=place adv|bien=well .
+%gra:	1|3|SUBJ 2|1|REL 3|4|SUBJ 4|0|ROOT 5|4|REL 6|7|JCT 7|8|SUBJ 8|5|CMOD
+	9|8|PRED 10|9|JCT 11|4|PUNCT
+*MOT:	creo que hay que sacar el columpio de ahí y sacar esto de aquí y
+	poner esto aquí arriba y esto aquí abajo .
+%mor:	v|cree-1S&PRES=believe pro:rel|que=that v|habe-3S&PRES&SPEC=have
+	pro:rel|que=that inf|saca-INF=bring_out det:art|el&m&SG=the
+	n|columpio&m=swing prep|de=of adv|ahí=there coord|y=and
+	inf|saca-INF=bring_out pro:dem|esto=this_one prep|de=of
+	adv|aquí=here coord|y=and inf|pone-INF=put pro:dem|esto=this_one
+	adv|aquí=here adv|arriba=above coord|y=and pro:dem|esto=this_one
+	adv|aquí=here adv|abajo=below .
+%gra:	1|0|ROOT 2|1|REL 3|2|COMP 4|3|REL 5|4|COMP 6|7|DET 7|5|OBJ 8|7|JCT
+	9|8|POBJ 10|9|CONJ 11|10|COORD 12|11|OBJ 13|12|JCT 14|13|POBJ 15|14|CONJ
+	16|15|COORD 17|16|OBJ 18|19|JCT 19|17|JCT 20|19|CONJ 21|20|COORD 22|23|JCT
+	23|21|JCT 24|1|PUNCT
+*CHI:	aquí ?
+%mor:	adv|aquí=here ?
+%gra:	1|0|ROOT 2|1|PUNCT
+%com:	pone el columpio abajo en la cocina
+*MOT:	no .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	<pero no> [//] pero sacar lo de abajo .
+%mor:	conj|pero=but inf|saca-INF=bring_out pro:obj|le-m=him prep|de=of
+	adv|abajo=below .
+%gra:	1|0|ROOT 2|1|COMP 3|2|OBJ 4|3|JCT 5|4|POBJ 6|1|PUNCT
+*MOT:	verás (.) vamos a_ver .
+%mor:	v|ve-2S&FUT=see co|vamos=go co|a_ver .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*MOT:	esto arriba .
+%mor:	pro:dem|esto=this_one adv|arriba=above .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+%com:	las camas en la habitación
+*MOT:	todo esto arriba (.) verás .
+%mor:	qn|todo-m=all pro:dem|esto=this_one adv|arriba=above
+	v|ve-2S&FUT=see .
+%gra:	1|4|SUBJ 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|PUNCT
+*MOT:	oye pero ayuda .
+%mor:	v|oí-3S&PRES=hear conj|pero=but v|ayuda-3S&PRES=help .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*MOT:	todo esto aquí .
+%mor:	qn|todo-m=all pro:dem|esto=this_one adv|aquí=here .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+%com:	sube los muebles a las dos habitaciones superiores
+*MOT:	y ahora esto aquí .
+%mor:	coord|y=and adv|ahora=now pro:dem|esto=this_one adv|aquí=here .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|3|JCT 5|1|PUNCT
+%com:	pone el columpio en la habitación de la puerta
+*MOT:	ves como cierra ?
+%mor:	co|ves=see adv|como=like v|cerra-3S&PRES=close ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*CHI:	y ahora [/] ahora .
+%mor:	coord|y=and adv|ahora=now .
+%gra:	1|0|ROOT 2|1|COORD 3|1|PUNCT
+*MOT:	has comprobado como sí ?
+%mor:	aux|habe-2S&PRES=have part|comproba-PPART-m=verify adv|como=like
+	co|sí=yes ?
+%gra:	1|2|AUX 2|0|ROOT 3|4|MOD 4|2|POBJ 5|2|PUNCT
+*CHI:	ahora tú .
+%mor:	adv|ahora=now pro:sub|tú=you .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*MOT:	ahora yo qué ?
+%mor:	adv|ahora=now pro:sub|yo=I pro:int|qué=what ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	no lo saques !
+%mor:	adv|no=no pro:obj|le-m=him v|saca-2S&SUB&PRES=bring_out !
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%com:	el coche
+*MOT:	ah bueno (.) pues la subo .
+%mor:	co|ah co|bueno=good co|pues=well det:art|el&f&SG=the
+	v|subi-1S&PRES=go_up .
+%gra:	1|5|SUBJ 2|5|SUBJ 3|5|SUBJ 4|5|DET 5|0|ROOT 6|5|PUNCT
+%com:	la puerta del garaje
+*CHI:	que no !
+%mor:	pro:rel|que=that adv|no=no !
+%gra:	1|0|ROOT 2|3|JCT 3|1|PUNCT
+*MOT:	bueno (.) un poco .
+%mor:	co|bueno=good det:art|un&m=one adv|poco=few .
+%gra:	1|0|ROOT 2|3|DET 3|1|JCT 4|1|PUNCT
+*CHI:	venga .
+%mor:	co|venga=come_on .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	venga .
+%mor:	co|venga=come_on .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	xxx .
+*CHI:	si no ha subi(d)o .
+%mor:	conj|si=if adv|no=no aux|habe-3S&PRES=have part|subi-PPART-m=go_up
+	.
+%gra:	1|0|ROOT 2|4|JCT 3|4|AUX 4|1|SCL 5|1|PUNCT
+*MOT:	cuidado (.) que no me pilles que como me pille +...
+%mor:	co|cuidado=careful pro:rel|que=that adv|no=no pro:obj|me=me
+	v|pilla-2S&SUB&PRES=catch pro:rel|que=that adv|como=like
+	pro:obj|me=me v|pilla-13S&SUB&PRES=catch +...
+%gra:	1|0|ROOT 2|1|REL 3|4|JCT 4|2|CMOD 5|4|CMOD 6|5|REL 7|8|JCT 8|9|SUBJ
+	9|6|CMOD 10|1|PUNCT
+*MOT:	oh (.) y ahora qué ?
+%mor:	co|oh=oh coord|y=and adv|ahora=now pro:int|qué=what ?
+%gra:	1|0|ROOT 2|1|CONJ 3|4|JCT 4|2|COORD 5|1|PUNCT
+%com:	la niña intenta volver a abrir la casita
+*MOT:	eh (.) cuidado .
+%mor:	co|eh co|cuidado=careful .
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*MOT:	ahora (.) a_ver si puedes .
+%mor:	adv|ahora=now co|a_ver conj|si=if v|pode-2S&PRES=can .
+%gra:	1|2|JCT 2|4|SUBJ 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*MOT:	que hay que bajarle el asa .
+%mor:	pro:rel|que=that v|habe-3S&PRES&SPEC=have pro:rel|que=that
+	inf|baja-INF~pro:clit|3S=come_down det:art|el&m&SG=the
+	v|asa-3S&PRES=roast .
+%gra:	1|0|ROOT 2|1|CMOD 3|2|REL 4|3|COMP 5|4|OBJ2 6|7|DET 7|4|OBJ 8|1|PUNCT
+*MOT:	mira (.) si le subes el asa (.) mira .
+%mor:	co|mira=look conj|si=if pro:ind|le&m=him v|subi-2S&PRES=go_up
+	det:art|el&m&SG=the v|asa-3S&PRES=roast co|mira=look .
+%gra:	1|0|ROOT 2|1|REL 3|2|SCL 4|3|CMOD 5|6|DET 6|4|OBJ 7|6|OBJ 8|1|PUNCT
+*MOT:	a_ver si puedes .
+%mor:	co|a_ver conj|si=if v|pode-2S&PRES=can .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*MOT:	despacio porque tienes muchas fuerzas .
+%mor:	adv|despacio=slowly conj|porque=because v|tene-2S&PRES=have
+	pro:indef|mucho-f-PL=much v|forza-2S&PRES=force .
+%gra:	1|2|JCT 2|3|SUBJ 3|5|SUBJ 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*MOT:	a_ver ahora (.) ves ?
+%mor:	co|a_ver adv|ahora=now v|ve-2S&PRES=see ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*MOT:	es que cierra así .
+%mor:	cop|se-3S&PRES=be pro:rel|que=that v|cerra-3S&PRES=close
+	adv|así=thus .
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|3|JCT 5|1|PUNCT
+%com:	la niña juega a abrir y cerrar la casa
+*CHI:	mamá .
+%mor:	n|mamá&f=mommy .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	qué ?
+%mor:	pro:int|qué=what ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	quiero el barco .
+%mor:	v|quere-1S&PRES=want det:art|el&m&SG=the n|barco-m=boat .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MOT:	que quieres el barco ?
+%mor:	pro:rel|que=that v|quere-2S&PRES=want det:art|el&m&SG=the
+	n|barco-m=boat ?
+%gra:	1|0|ROOT 2|1|CMOD 3|4|DET 4|2|OBJ 5|1|PUNCT
+*MOT:	ah (.) yo no se dónde está eso .
+%mor:	co|ah pro:sub|yo=I adv|no=no pro:refl|se=itself pro:int|dónde=where
+	cop|esta-3S&PRES=be pro:dem|eso=that_one .
+%gra:	1|6|SUBJ 2|6|SUBJ 3|4|JCT 4|6|SUBJ 5|6|SUBJ 6|0|ROOT 7|6|PRED 8|6|PUNCT
+*MOT:	es que ni lo conozco .
+%mor:	cop|se-3S&PRES=be pro:rel|que=that coord|ni=nor pro:obj|le-m=him
+	v|conoce-1S&PRES=know .
+%gra:	1|0|ROOT 2|1|REL 3|2|CONJ 4|3|COORD 5|3|COORD 6|1|PUNCT
+*MOT:	ánda (.) si podemos jugar a_ver los colores (.) también .
+%mor:	imp|anda-2S&IMP=walk conj|si=if v|pode-1P&PRES=can
+	inf|juga-INF=play co|a_ver det:art|el&m-PL=the
+	v|colora-2S&SUB&PRES=color adv|también=also .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|COMP 5|4|JCT 6|7|DET 7|5|POBJ 8|7|JCT
+	9|3|PUNCT
+*MOT:	eh (.) sabes cómo se llaman los colores ?
+%mor:	co|eh v|sabe-2S&PRES=know pro:int|cómo=how pro:refl|se=itself
+	v|llama-3P&PRES=call det:art|el&m-PL=the v|colora-2S&SUB&PRES=color
+	?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|SCON 5|4|CMOD 6|7|DET 7|5|OBJ 8|2|PUNCT
+*CHI:	<rojo amarillo> [/] (.) <rojo amarillo> [/] (.) <rojo amarillo> [/]
+	(.) rojo amarillo .
+%mor:	adj|rojo-m=red adj|amarillo-m=yellow .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+*MOT:	dónde está el rojo ?
+%mor:	pro:int|dónde=where cop|esta-3S&PRES=be det:art|el&m&SG=the
+	adj|rojo-m=red ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*MOT:	no veo .
+%mor:	adv|no=no v|ve-1S&PRES=see .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*CHI:	rojo .
+%mor:	adj|rojo-m=red .
+%gra:	1|0|ROOT 2|1|PUNCT
+%com:	le enseña un muñeco rojo
+*MOT:	ah (.) rojo (.) vale .
+%mor:	co|ah adj|rojo-m=red co|vale=okay .
+%gra:	1|3|DET 2|3|MOD 3|0|ROOT 4|3|PUNCT
+*MOT:	y amarillo dónde porque yo no me se los colores .
+%mor:	coord|y=and adj|amarillo-m=yellow pro:int|dónde=where
+	conj|porque=because pro:sub|yo=I adv|no=no pro:obj|me=me
+	pro:refl|se=itself det:art|el&m-PL=the v|colora-2S&SUB&PRES=color .
+%gra:	1|0|CONJ 2|1|COORD 3|1|COORD 4|1|COORD 5|1|COORD 6|7|JCT 7|5|CMOD
+	8|7|SCON 9|10|DET 10|8|ROOT 11|10|PUNCT
+*CHI:	amarillo éste .
+%mor:	adj|amarillo-m=yellow pro:dem|éste=this_one .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+%com:	coge una muñeca y señala su pelo rubio
+*MOT:	ah (.) ése y éste ?
+%mor:	co|ah pro:dem|ése=that_one coord|y=and pro:dem|éste=this_one ?
+%gra:	1|0|ROOT 2|1|REL 3|2|CONJ 4|3|COORD 5|1|PUNCT
+%com:	coge la mesa naranja
+*MOT:	éste qué es ?
+%mor:	pro:dem|éste=this_one pro:int|qué=what cop|se-3S&PRES=be ?
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PRED
+*CHI:	una mesa .
+%mor:	det:art|un-f=one n|mesa&f=table .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	no (.) pero qué color ?
+%mor:	adv|no=no conj|pero=but pro:int|qué=what n|color&m=hue ?
+%gra:	1|2|JCT 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	orange@s:eng .
+%mor:	L2|orange .
+%gra:	1|0|ROOT 2|1|PUNCT
+%com:	lo dice en inglés
+*MOT:	orange@s:eng ?
+%mor:	L2|orange ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	orange@s:eng .
+%mor:	L2|orange .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	orange@s:eng .
+%mor:	L2|orange .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	y si no es en inglés cómo se llama (.) porque vamos +...
+%mor:	coord|y=and conj|si=if adv|no=no cop|se-3S&PRES=be prep|en=in
+	n|inglés&m pro:int|cómo=how pro:refl|se=itself n|llama&f=flame
+	conj|porque=because v|i-1P&PRES=go +...
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|1|COORD 5|1|JCT 6|5|POBJ 7|11|SUBJ
+	8|9|DET 9|11|SUBJ 10|9|MOD 11|5|POBJ 12|1|COORD
+*CHI:	mira mamá (.) los tres .
+%mor:	v|mira-3S&PRES=look n|mamá&f=mommy det:art|el&m-PL=the
+	det:num|tres=three .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+%com:	pone a tres muñecos en el columpio
+*MOT:	huy qué bien los tres !
+%mor:	co|huy=oh pro:int|qué=what adv|bien=well det:art|el&m-PL=the
+	det:num|tres=three !
+%gra:	1|0|ROOT 2|1|JCT 3|5|JCT 4|5|DET 5|2|POBJ 6|1|PUNCT
+*MOT:	espera (.) vamos a balancearlos .
+%mor:	imp|espera-2S&IMP=wait v|i-1P&PRES=go prepart|a=to
+	inf|balancea-INF~pro:clit|OBJ&m&PL=balance .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|OBJ2 6|2|PUNCT
+*MOT:	ay (.) qué se caen !
+%mor:	co|ay=ay pro:int|qué=what pro:refl|se=itself v|cae-3P&PRES=fall !
+%gra:	1|4|SUBJ 2|4|SUBJ 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*MOT:	no les des tan fuerte que se pueden caer .
+%mor:	adv|no=no pro:ind|le&m-PL=him v|da-2S&SUB&PRES=give adv|tan=such
+	adj|fuerte=strong pro:rel|que=that pro:refl|se=itself
+	v|pode-3P&PRES=can inf|cae-INF=fall .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|MOD 6|5|REL 7|6|COMP 8|9|INF
+	9|7|COMP 10|3|PUNCT
+*CHI:	no se caen (.) verás .
+%mor:	adv|no=no pro:refl|se=itself v|cae-3P&PRES=fall v|ve-2S&FUT=see .
+%gra:	1|2|JCT 2|3|SUBJ 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	uno (.) y dos .
+%mor:	pro:indef|uno=one coord|y=and det:num|dos=two .
+%gra:	1|0|ROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*CHI:	uno (.) mira !
+%mor:	pro:indef|uno=one co|mira=look !
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*CHI:	uno +/.
+%mor:	pro:indef|uno=one +/.
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	y dos .
+%mor:	coord|y=and det:num|dos=two .
+%gra:	1|0|ROOT 2|1|COORD 3|1|PUNCT
+*CHI:	no .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	mira (.) <uno dos> [/] <uno dos> [/] uno dos .
+%mor:	co|mira=look det:num|uno=one det:num|dos=two .
+%gra:	1|0|ROOT 2|3|MOD 3|1|POBJ 4|1|PUNCT
+*MOT:	y uno .
+%mor:	coord|y=and pro:indef|uno=one .
+%gra:	1|0|ROOT 2|1|COORD 3|1|PUNCT
+*CHI:	uno dos .
+%mor:	det:num|uno=one det:num|dos=two .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+*MOT:	ah (.) para dónde ha ido la niña ?
+%mor:	co|ah prep|para=for pro:int|dónde=where aux|habe-3S&PRES=have
+	part|i-PPART-m=go det:art|el&f&SG=the co|niña=child ?
+%gra:	1|0|ROOT 2|3|INF 3|1|CMOD 4|5|AUX 5|3|JCT 6|7|DET 7|5|POBJ 8|1|PUNCT
+*MOT:	pero bueno (.) todos los niños caídos !
+%mor:	conj|pero=but co|bueno=good qn|todo-m-PL=all det:art|el&m-PL=the
+	n|niño-m-PL=child part|cae-PPART-m-PL=fall !
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|5|DET 5|3|OBJ 6|5|MOD 7|1|PUNCT
+*CHI:	0 [=! riendo] .
+*MOT:	pero bueno que les <vamos a tener que llevarles al hospital> [//]
+	vamos a tener que llevarlos al hospital porque se caen y se dan un
+	golpe tan grande .
+%mor:	conj|pero=but co|bueno=good pro:rel|que=that pro:ind|le&m-PL=him
+	v|i-1P&PRES=go prepart|a=to inf|tene-INF=have prep|que=than
+	inf|lleva-INF~pro:clit|OBJ&m&PL=carry prepart|a~det:art|el&m=to
+	n|hospital&m=hospital conj|porque=because pro:refl|se=itself
+	v|cae-3P&PRES=fall coord|y=and pro:refl|se=itself v|da-3P&PRES=give
+	det:art|un&m=one n|golpe&m=blow adv|tan=such adj|grande=big .
+%gra:	1|0|ROOT 2|1|COMP 3|2|REL 4|5|SUBJ 5|3|COMP 6|7|INF 7|5|COMP 8|7|JCT
+	9|8|POBJ 10|9|OBJ2 11|7|OBJ 12|13|DET 13|11|OBJ 14|13|MOD 15|14|SCL
+	16|15|COMP 17|16|CONJ 18|17|COORD 19|18|CMOD 20|21|DET 21|19|OBJ 22|23|MOD
+	23|21|MOD 24|1|PUNCT
+*CHI:	éste se hace mucha sangre .
+%mor:	pro:dem|éste=this_one pro:refl|se=itself v|hace-3S&PRES=do
+	qn|mucho-f=many n|sangre&f=blood .
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|5|DET 5|3|OBJ 6|1|PUNCT
+*MOT:	mucha ?
+%mor:	qn|mucho-f=many ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	sí .
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	pero mucha ?
+%mor:	conj|pero=but pro:indef|mucho-f=many ?
+%gra:	1|0|ROOT 2|1|SCL 3|1|PUNCT
+*MOT:	oye no tires más los muñecos que no me levantaré a por ellos .
+%mor:	co|oye=listen adv|no=no v|tira-2S&SUB&PRES=throw adv|más=more
+	det:art|el&m-PL=the n|muñeco-m-PL=doll pro:rel|que=that adv|no=no
+	pro:obj|me=me v|levanta-1S&FUT=raise prepart|a=to prep|por=for
+	pro:sub|ello-m-PL=he .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|JCT 5|6|DET 6|3|OBJ 7|6|REL 8|9|JCT
+	9|10|SUBJ 10|7|CMOD 11|10|OBJ 12|11|JCT 13|12|POBJ 14|3|PUNCT
+*CHI:	qué ?
+%mor:	pro:int|qué=what ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	oye (.) moza !
+%mor:	co|oye=listen n|mozo-f=child !
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*CHI:	qué ?
+%mor:	pro:int|qué=what ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	moza .
+%mor:	n|mozo-f=child .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	tú mozo .
+%mor:	pro:sub|tú=you n|mozo-m=child .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	moza .
+%mor:	n|mozo-f=child .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	<oy (.) no> [/] oy (.) no !
+%mor:	co|oy adv|no=no !
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+%com:	pone muñecos en los columpios
+*MOT:	no se que quieres hacer .
+%mor:	adv|no=no pro:refl|se=itself pro:rel|que=that v|quere-2S&PRES=want
+	inf|hace-INF=do .
+%gra:	1|2|JCT 2|0|ROOT 3|2|REL 4|3|COMP 5|4|COMP 6|2|PUNCT
+*CHI:	éste aquí (.) ay !
+%mor:	pro:dem|éste=this_one adv|aquí=here co|ay=ay !
+%gra:	1|0|ROOT 2|3|MOD 3|1|POBJ 4|1|PUNCT
+%com:	casi se le cae el columpio
+*MOT:	que no te recojo nada que se caiga (.) eh ?
+%mor:	pro:rel|que=that adv|no=no pro:obj|te=you re#v|coge-1S&PRES=take
+	v|nada-3S&PRES=swim pro:rel|que=that pro:refl|se=itself
+	v|cae-13S&SUB&PRES=fall co|eh ?
+%gra:	1|0|ROOT 2|3|JCT 3|1|COMP 4|3|PRED 5|4|JCT 6|5|REL 7|6|COMP 8|7|COMP
+	9|8|OBJ 10|1|PUNCT
+*MOT:	eso ya lo sabes así que ándate con mucho cuidado .
+%mor:	pro:dem|eso=that_one adv|ya=already pro:obj|le-m=him
+	v|sabe-2S&PRES=know adv|así=thus prep|que=than
+	imp|anda-2S&IMP~pro:clit|2S=walk prep|con=with adv|mucho=much
+	n|cuidado&m=care .
+%gra:	1|4|SUBJ 2|3|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|JCT 7|6|POBJ 8|7|OBJ2
+	9|4|JCT 10|11|MOD 11|9|POBJ 12|4|PUNCT
+*MOT:	oh (.) me gusta ésta que tiene coleta (.) eh ?
+%mor:	co|oh=oh pro:obj|me=me v|gusta-3S&PRES=like pro:dem|éste-f=this_one
+	pro:rel|que=that v|tene-3S&PRES=have n|coleta&f=ponytail co|eh ?
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|REL 6|5|CMOD 7|6|OBJ 8|7|MOD
+	9|3|PUNCT
+*CHI:	<a qué no> [/-] no te gustan éstos ?
+%mor:	adv|no=no pro:obj|te=you v|gusta-3P&PRES=like
+	pro:dem|éste-m-PL=this_one ?
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	también pero me gusta más ésta que tiene coleta .
+%mor:	adv|también=also conj|pero=but pro:obj|me=me v|gusta-3S&PRES=like
+	adv|más=more pro:dem|éste-f=this_one pro:rel|que=that
+	v|tene-3S&PRES=have n|coleta&f=ponytail .
+%gra:	1|2|JCT 2|4|SUBJ 3|4|SUBJ 4|0|ROOT 5|6|MOD 6|4|OBJ 7|6|REL 8|7|CMOD
+	9|8|OBJ 10|4|PUNCT
+*MOT:	es tan guapa (.) verdad ?
+%mor:	cop|se-3S&PRES=be adv|tan=such adj|guapo-f=handsome
+	n|verdad&f=truth ?
+%gra:	1|0|ROOT 2|4|MOD 3|4|MOD 4|1|PRED 5|1|PUNCT
+*CHI:	pues ellas se van a montar aquí .
+%mor:	co|pues=well pro:sub|ello-f-PL=he pro:refl|se=itself v|i-3P&PRES=go
+	prepart|a=to inf|monta-INF=climb_on adv|aquí=here .
+%gra:	1|4|SUBJ 2|1|JCT 3|2|POBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|6|OBJ 8|4|PUNCT
+%com:	el coche
+*MOT:	se van a montar aquí ?
+%mor:	pro:refl|se=itself v|i-3P&PRES=go prepart|a=to
+	inf|monta-INF=climb_on adv|aquí=here ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|JCT 6|2|PUNCT
+*CHI:	verás (.) éste conduce .
+%mor:	v|ve-2S&FUT=see pro:dem|éste=this_one v|conduci-3S&PRES=drive .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	éste se sienta y mira .
+%mor:	pro:dem|éste=this_one pro:refl|se=itself v|senta-3S&PRES=sit
+	coord|y=and co|mira=look .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|3|CONJ 5|4|COORD 6|1|PUNCT
+*MOT:	huy (.) qué conduce la niña ?
+%mor:	co|huy=oh pro:int|qué=what v|conduci-3S&PRES=drive
+	det:art|el&f&SG=the co|niña=child ?
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	ésta (.) pero no es una niña .
+%mor:	pro:dem|éste-f=this_one conj|pero=but adv|no=no cop|se-3S&PRES=be
+	det:art|un-f=one co|niña=child .
+%gra:	1|4|SUBJ 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|DET 6|4|PRED 7|4|PUNCT
+*CHI:	ay (.) <mamá me falta éste> [/] mamá me falta éste .
+%mor:	co|ay=ay n|mamá&f=mommy pro:obj|me=me v|falta-3S&PRES=be_lacking
+	pro:dem|éste=this_one .
+%gra:	1|2|DET 2|4|SUBJ 3|2|MOD 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%com:	imita voz infantil
+*CHI:	ese se queda aquí con sus animales y con su padre .
+%mor:	det:dem|ese=that pro:refl|se=itself v|queda-3S&PRES=stay
+	adv|aquí=here prep|con=with co|sus n|animal&m-PL=animal coord|y=and
+	prep|con=with det:poss|su&3S=his n|padre&m=father .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|JCT 6|7|DET 7|5|POBJ 8|7|CONJ
+	9|8|COORD 10|11|DET 11|9|POBJ 12|3|PUNCT
+*CHI:	ála (.) adiós !
+%mor:	co|ála co|adiós=goodbye !
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+@End

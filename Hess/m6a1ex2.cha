@@ -1,0 +1,1075 @@
+@UTF8
+@PID:	11312/c-00032636-1
+@Begin
+@Languages:	spa
+@Participants:	KAR Karina Adult , CHI Alexis Target_Child
+@ID:	spa|Hess|KAR|||||Adult|||
+@ID:	spa|Hess|CHI|6;08.25||||Target_Child|||
+@Date:	28-JUN-1999
+@Comment:	Education of CHI is primero , particular
+@Transcriber:	Karina Hess
+@Situation:	Tarea B (completar una narración)
+@Comment:	sólo se transcribe a partir de la presentación del reactivo
+*KAR:	había una vez una niña .
+%mor:	v|habe-13S&PAS=have det:art|un-f=one n|vez&f=turn det:art|un-f=one
+	co|niña=child .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|5|DET 5|3|MOD 6|1|PUNCT
+*KAR:	que le tenía mu:cho miedo a la oscuridad .
+%mor:	pro:rel|que=that pro:ind|le&m=him v|tene-13S&PAS=have
+	adv|mucho=much n|miedo&m=fear prepart|a=to det:art|el&f&SG=the
+	n|oscuridad&f=darkness .
+%gra:	1|0|ROOT 2|1|COMP 3|2|CMOD 4|5|MOD 5|3|OBJ 6|5|MOD 7|8|DET 8|6|OBJ
+	9|1|PUNCT
+*KAR:	ahora vas tú .
+%mor:	adv|ahora=now v|i-2S&PRES=go pro:sub|tú=you .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	y de repente un día la niña cuando se fueron sus papás .
+%mor:	coord|y=and prep|de=of n|repente&m=suddenness det:art|un&m=one
+	n|día&m=day det:art|el&f&SG=the co|niña=child conj|cuando=when
+	pro:refl|se=itself cop|se-3P&PRET=be co|sus n|papá&m-PL=father .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|5|DET 5|2|POBJ 6|7|DET 7|1|COORD 8|7|PRED
+	9|8|SCL 10|9|COMP 11|12|DET 12|10|PRED 13|1|PUNCT
+%xsub:	$AV
+%cod:	$O:eve $O:tie
+*CHI:	se había ido la luz .
+%mor:	pro:refl|se=itself aux|habe-13S&PAS=have part|i-PPART-m=go
+	det:art|el&f&SG=the n|luz&f=light .
+%gra:	1|0|ROOT 2|3|AUX 3|1|COMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+%cod:	$O:gra
+%gpx:	mira brevemente a KAR y sigue viendo hacia el frente
+*CHI:	entonces de repente <ella &vi> [/] <ella (.) &vi> [//] ella iba por
+	unas velas .
+%mor:	adv|entonces=then prep|de=of n|repente&m=suddenness
+	pro:sub|ello-f=he v|i-13S&PAS=go prep|por=for det:art|un-f-PL=one
+	n|vela&f-PL=candle .
+%gra:	1|4|JCT 2|1|JCT 3|2|POBJ 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+%xsub:	$AV
+%cod:	$C $O:par $O:obj
+*CHI:	pero como no tenían velas en su casa .
+%mor:	conj|pero=but adv|como=like adv|no=no v|tene-3P&PAS=have
+	n|vela&f-PL=candle prep|en=in det:poss|su&3S=his n|casa&f=house .
+%gra:	1|4|SUBJ 2|1|JCT 3|4|JCT 4|0|ROOT 5|4|OBJ 6|5|JCT 7|8|DET 8|6|POBJ
+	9|4|PUNCT
+%cod:	$E:cau $E:neg $O:obj $O:lug
+*CHI:	porque se [//] iban a comprarlas su papá (.) y su mamá .
+%mor:	conj|porque=because v|i-3P&PAS=go prepart|a=to
+	inf|compra-INF~pro:clit|OBJ&f&PL=buy det:poss|su&3S=his
+	n|papá&m=father coord|y=and det:poss|su&3S=his n|mamá&f=mommy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|OBJ2 6|7|DET 7|4|OBJ 8|2|CONJ
+	9|10|DET 10|8|COORD 11|2|PUNCT
+%cod:	$E:cau $O:par
+%gpx:	mira brevemente a KAR
+*CHI:	entonces de repente se asustó mucho .
+%mor:	adv|entonces=then prep|de=of n|repente&m=suddenness
+	pro:refl|se=itself v|asusta-3S&PRET=frighten adv|mucho=much .
+%gra:	1|4|JCT 2|1|JCT 3|2|POBJ 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|PUNCT
+%xsub:	$AV $V $AV
+%cod:	$C $E:sup
+%gpx:	mira brevemente a KAR
+*CHI:	y de repente se fue a_ver a una muñeca .
+%mor:	coord|y=and prep|de=of n|repente&m=suddenness pro:refl|se=itself
+	v|i-3S&PRET=go co|a_ver prepart|a=to det:art|un-f=one
+	n|muñeco-f=doll .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|2|POBJ 5|1|COORD 6|5|PRED 7|6|COMP 8|9|DET
+	9|7|OBJ 10|1|PUNCT
+%xsub:	$AV
+%cod:	$C $O:obj
+*CHI:	y empezó a jugar .
+%mor:	coord|y=and v|empeza-3S&PRET=begin prepart|a=to inf|juga-INF=play .
+%gra:	1|0|ROOT 2|1|COORD 3|4|INF 4|2|COMP 5|1|PUNCT
+%cod:	$C
+*CHI:	para que no se asustara .
+%mor:	prep|para=for pro:rel|que=that adv|no=no pro:refl|se=itself
+	v|asusta-13S&SUB&PAS=frighten .
+%gra:	1|0|ROOT 2|1|REL 3|4|JCT 4|5|SUBJ 5|2|CMOD 6|1|PUNCT
+%xsub:	$V
+%cod:	$E:cau $E:emo $E:neg
+%gpx:	mira brevemente a KAR
+*CHI:	entonces (...) un día cuando sus amigas vinieron a su casa .
+%mor:	adv|entonces=then det:art|un&m=one n|día&m=day conj|cuando=when
+	co|sus n|amigo-f-PL=friend v|veni-3P&PRET=come prepart|a=to
+	det:poss|su&3S=his n|casa&f=house .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|MOD 5|6|DET 6|7|SUBJ 7|4|SCL 8|7|COMP
+	9|10|DET 10|8|OBJ 11|1|PUNCT
+%cod:	$O:tie $O:eve $O:par $O:lug
+*CHI:	otra vez se ha(b)í(a) [//] había ido la luz .
+%mor:	qn|otro-f=other n|vez&f=turn pro:refl|se=itself
+	aux|habe-13S&PAS=have part|i-PPART-m=go det:art|el&f&SG=the
+	n|luz&f=light .
+%gra:	1|2|DET 2|5|SUBJ 3|2|MOD 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+%cod:	$O:gra $E:sup
+%gpx:	mira brevemente a KAR
+*CHI:	entonces otra vez fueron por otras velas .
+%mor:	adv|entonces=then qn|otro-f=other n|vez&f=turn cop|se-3P&PRET=be
+	prep|por=for qn|otro-f-PL=other n|vela&f-PL=candle .
+%gra:	1|3|JCT 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+%cod:	$C $E:sup $O:obj
+*CHI:	entonces se quedaron ellas solitas .
+%mor:	adv|entonces=then pro:refl|se=itself v|queda-3P&PRET=stay
+	pro:sub|ello-f-PL=he adj|solo-DIM-PL=alone .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|MOD 6|3|PUNCT
+%xsub:	$A
+%cod:	$C $O:par $E:pal
+*CHI:	pero también ellas tenían miedo .
+%mor:	conj|pero=but adv|también=also pro:sub|ello-f-PL=he
+	v|tene-3P&PAS=have n|miedo&m=fear .
+%gra:	1|0|ROOT 2|3|JCT 3|1|COMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+%cod:	$E:cau $E:sup $E:emo
+*CHI:	entonces cada una dijo +"/.
+%mor:	adv|entonces=then qn|cada=each pro:indef|una=one v|deci-3S&PRET=say
+	+"/.
+%gra:	1|2|JCT 2|4|SUBJ 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%cod:	$C $O:par
+*CHI:	+" mejor vamos a jugar .
+%mor:	adj|mejor=better v|i-1P&PRES=go prepart|a=to inf|juga-INF=play .
+%gra:	1|2|MOD 2|0|ROOT 3|4|INF 4|2|COMP 5|2|PUNCT
+%xsub:	$AV
+%cod:	$E:dis $E:pal
+*CHI:	entonces empezaron a jugar .
+%mor:	adv|entonces=then v|empeza-3P&PRET=begin prepart|a=to
+	inf|juga-INF=play .
+%gra:	1|2|JCT 2|0|ROOT 3|4|INF 4|2|COMP 5|2|PUNCT
+%cod:	$C
+%gpx:	mira brevemente a KAR
+*CHI:	hasta que llegó su mamá y su papá .
+%mor:	prep|hasta=until pro:rel|que=that v|llega-3S&PRET=arrive
+	det:poss|su&3S=his n|mamá&f=mommy coord|y=and det:poss|su&3S=his
+	n|papá&m=father .
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|5|DET 5|3|OBJ 6|5|CONJ 7|8|DET 8|6|COORD
+	9|1|PUNCT
+%cod:	$C $O:par
+*CHI:	entonces (..) de repente empezaron a jugar afuera .
+%mor:	adv|entonces=then prep|de=of n|repente&m=suddenness
+	v|empeza-3P&PRET=begin prepart|a=to inf|juga-INF=play
+	adv|afuera=outside .
+%gra:	1|4|JCT 2|1|JCT 3|2|POBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|6|OBJ 8|4|PUNCT
+%xsub:	$AV
+%cod:	$C $O:lug
+*CHI:	pero también se había ido la luz <de la:> [/] de la calle .
+%mor:	conj|pero=but adv|también=also pro:refl|se=itself
+	aux|habe-13S&PAS=have part|i-PPART-m=go det:art|el&f&SG=the
+	n|luz&f=light prep|de=of det:art|el&f&SG=the n|calle&f=street .
+%gra:	1|3|JCT 2|3|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|7|JCT
+	9|10|DET 10|8|POBJ 11|5|PUNCT
+%cod:	$O:gra $E:sup $O:lug $E:cau
+*CHI:	entonces de repente empezaron a jugar a las estrías .
+%mor:	adv|entonces=then prep|de=of n|repente&m=suddenness
+	v|empeza-3P&PRET=begin prepart|a=to inf|juga-INF=play prepart|a=to
+	det:art|el&f-PL=the n|estría&f-PL=line .
+%gra:	1|4|JCT 2|1|JCT 3|2|POBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|6|OBJ 8|9|DET
+	9|7|OBJ 10|4|PUNCT
+%xsub:	$AV
+%cod:	$C
+%gpx:	mira brevemente a KAR
+*CHI:	entonces (..) cuando de repente vio una [//] como una sombra de luz
+	.
+%mor:	co|entonces conj|cuando=when prep|de=of n|repente&m=suddenness
+	v|ve-3S&PRET=see adv|como=like det:art|un-f=one n|sombra&f=shade
+	prep|de=of n|luz&f=light .
+%gra:	1|5|SUBJ 2|1|POBJ 3|2|JCT 4|3|POBJ 5|0|ROOT 6|5|JCT 7|8|DET 8|5|OBJ
+	9|8|JCT 10|9|POBJ 11|5|PUNCT
+%xsub:	$AV $A
+%cod:	$C $E:sup
+*CHI:	fue a_ver .
+%mor:	cop|se-3S&PRET=be co|a_ver .
+%gra:	1|0|ROOT 2|1|PRED 3|1|PUNCT
+%cod:	$C
+*CHI:	y de repente que (..) todas sus amigas fueron a_ver también .
+%mor:	coord|y=and prep|de=of n|repente&m=suddenness pro:rel|que=that
+	pro:indef|todo-f-PL=all co|sus n|amigo-f-PL=friend cop|se-3P&PRET=be
+	co|a_ver adv|también=also .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|3|REL 5|8|SUBJ 6|7|DET 7|8|SUBJ 8|4|CMOD
+	9|8|PRED 10|9|JCT 11|1|PUNCT
+%xsub:	$AV $A
+%cod:	$C $O:par
+*CHI:	y había una sombra ahí .
+%mor:	coord|y=and v|habe-13S&PAS=have det:art|un-f=one n|sombra&f=shade
+	adv|ahí=there .
+%gra:	1|0|ROOT 2|1|COORD 3|4|DET 4|2|OBJ 5|4|MOD 6|1|PUNCT
+%cod:	$O:gra $O:lug
+*CHI:	parecía .
+%mor:	v|parece-13S&PAS=seem .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xsub:	$V
+%cod:	$E:jus $E:pal
+*CHI:	que estaba agarrando los cables de la luz .
+%mor:	prep|que=than cop|esta-13S&PAS=be part|agarra-PRPART=grab
+	det:art|el&m-PL=the n|cable&m-PL=cable prep|de=of
+	det:art|el&f&SG=the n|luz&f=light .
+%gra:	1|0|ROOT 2|1|POBJ 3|2|PRED 4|5|DET 5|3|OBJ 6|5|JCT 7|8|DET 8|6|POBJ
+	9|1|PUNCT
+*CHI:	y además de todo no era una sombra .
+%mor:	coord|y=and adv|además=likewise prep|de=of pro:indef|todo-m=all
+	adv|no=no cop|se-13S&PAS=be det:art|un-f=one n|sombra&f=shade .
+%gra:	1|0|ROOT 2|1|COORD 3|2|JCT 4|3|POBJ 5|4|JCT 6|1|COORD 7|8|DET 8|6|PRED
+	9|1|PUNCT
+%cod:	$E:jus $E:sup $E:neg
+%gpx:	niega ligeramente con la cabeza
+*CHI:	sino que es .
+%mor:	conj|sino=except pro:rel|que=that cop|se-3S&PRES=be .
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|1|PUNCT
+%cod:	$E:jus
+*CHI:	que estaba agarrando el de la luz los cables para arreglar la luz .
+%mor:	prep|que=than cop|esta-13S&PAS=be part|agarra-PRPART=grab
+	det:art|el&m&SG=the prep|de=of det:art|el&f&SG=the n|luz&f=light
+	det:art|el&m-PL=the n|cable&m-PL=cable prep|para=for
+	inf|arregla-INF=order det:art|el&f&SG=the n|luz&f=light .
+%gra:	1|0|ROOT 2|1|POBJ 3|2|PRED 4|3|OBJ 5|4|JCT 6|7|DET 7|5|POBJ 8|9|DET
+	9|7|MOD 10|11|INF 11|9|CMOD 12|13|DET 13|11|OBJ 14|1|PUNCT
+%cod:	$O:par $O:obj
+%gpx:	mira brevemente a KAR
+*CHI:	entonces de repente (..) después vieron .
+%mor:	adv|entonces=then prep|de=of n|repente&m=suddenness
+	adv|después=after v|ve-3P&PRET=see .
+%gra:	1|5|JCT 2|1|JCT 3|2|POBJ 4|5|JCT 5|0|ROOT 6|5|PUNCT
+%cod:	$C
+*CHI:	que había una sombra .
+%mor:	pro:rel|que=that v|habe-13S&PAS=have det:art|un-f=one
+	n|sombra&f=shade .
+%gra:	1|0|ROOT 2|1|CMOD 3|4|DET 4|2|OBJ 5|1|PUNCT
+%cod:	$O:obj
+*CHI:	que ya era muy rara .
+%mor:	pro:rel|que=that adv|ya=already cop|se-13S&PAS=be adv|muy=very
+	adj|raro-f=rare .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|PRED 6|3|PUNCT
+%xsub:	$AV $A
+%cod:	$E:jus
+%gpx:	mira brevemente a KAR
+*CHI:	que esa: (..) era (..) +/.
+%mor:	pro:rel|que=that det:dem|ese-f=that cop|se-13S&PAS=be +/.
+%gra:	1|3|SUBJ 2|3|DET 3|0|ROOT 4|3|PUNCT
+*CHI:	esa sombra no tenía alguien .
+%mor:	det:dem|ese-f=that n|sombra&f=shade adv|no=no v|tene-13S&PAS=have
+	pro:indef|alguien=someone .
+%gra:	1|2|DET 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%cod:	$E:tan $E:neg
+*CHI:	que la estaba hac(iendo) +/.
+%mor:	pro:rel|que=that det:art|el&f&SG=the aux|esta-13S&PAS=be
+	part|hace-PRPART=do +/.
+%gra:	1|0|ROOT 2|4|DET 3|4|AUX 4|1|CMOD 5|1|PUNCT
+*CHI:	<que alguien> [//] que la estaba haciendo .
+%mor:	pro:rel|que=that det:art|el&f&SG=the aux|esta-13S&PAS=be
+	part|hace-PRPART=do .
+%gra:	1|0|ROOT 2|4|DET 3|4|AUX 4|1|CMOD 5|1|PUNCT
+%cod:	$E:tan
+*CHI:	entonces se echaron a correr .
+%mor:	adv|entonces=then pro:refl|se=itself v|echa-3P&PRET=throw
+	prepart|a=to inf|corre-INF=run .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|OBJ 6|3|PUNCT
+%cod:	$C
+*CHI:	pero había cuatro en cada lado .
+%mor:	conj|pero=but v|habe-13S&PAS=have det:num|cuatro=four prep|en=in
+	qn|cada=each n|lado&m=side .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+%cod:	$O:gra
+%gpx:	mira brevemente a KAR
+*CHI:	entonces se echaron a correr .
+%mor:	adv|entonces=then pro:refl|se=itself v|echa-3P&PRET=throw
+	prepart|a=to inf|corre-INF=run .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|OBJ 6|3|PUNCT
+%cod:	$C
+*CHI:	y se empezaron a abrazar (..) las [/] las compañeras <y también>
+	[/] y también (.) ella .
+%mor:	coord|y=and pro:refl|se=itself v|empeza-3P&PRET=begin prepart|a=to
+	inf|abraza-INF=embrace det:art|el&f-PL=the
+	n|compañero-f-PL=companion coord|y=and adv|también=also
+	pro:sub|ello-f=he .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|5|INF 5|3|COMP 6|7|DET 7|5|OBJ 8|7|CONJ
+	9|10|JCT 10|8|COORD 11|1|PUNCT
+%cod:	$C $O:par
+%gpx:	mira brevemente a KAR
+*CHI:	entonces de repente cuando se empiezan a venir los cuatro de cada
+	parte .
+%mor:	adv|entonces=then prep|de=of n|repente&m=suddenness
+	conj|cuando=when pro:refl|se=itself v|empeza-3P&PRES=begin
+	prepart|a=to inf|veni-INF=come det:art|el&m-PL=the
+	det:num|cuatro=four prep|de=of qn|cada=each n|parte&f=part .
+%gra:	1|5|JCT 2|1|JCT 3|2|POBJ 4|3|MOD 5|6|SUBJ 6|0|ROOT 7|6|COMP 8|7|COMP
+	9|10|DET 10|8|OBJ 11|10|JCT 12|13|DET 13|11|POBJ 14|6|PUNCT
+%xsub:	$AV
+%cod:	$O:eve $O:par $O:lug
+*CHI:	se hizo cada vez más grande .
+%mor:	pro:refl|se=itself v|hace-3S&PRET=do qn|cada=each n|vez&f=turn
+	adv|más=more adj|grande=big .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|6|MOD 6|4|MOD 7|2|PUNCT
+%xsub:	$AV $A
+%cod:	$C $E:sup
+%gpx:	mira brevemente a KAR
+*CHI:	pero también era un árbol .
+%mor:	conj|pero=but adv|también=also cop|se-13S&PAS=be det:art|un&m=one
+	n|árbol&m=tree .
+%gra:	1|3|SUBJ 2|1|JCT 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+%cod:	$E:cau $O:obj
+*CHI:	eran cuatro árboles .
+%mor:	cop|se-3P&PAS=be det:num|cuatro=four n|árbol&m-PL=tree .
+%gra:	1|0|ROOT 2|3|DET 3|1|PRED 4|1|PUNCT
+%cod:	$O:obj
+*CHI:	entonces de repente había una niña .
+%mor:	adv|entonces=then prep|de=of n|repente&m=suddenness
+	v|habe-13S&PAS=have det:art|un-f=one co|niña=child .
+%gra:	1|4|JCT 2|1|JCT 3|2|POBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%xsub:	$AV
+%cod:	$O:par
+*CHI:	que también era su amiga .
+%mor:	pro:rel|que=that adv|también=also cop|se-13S&PAS=be
+	det:poss|su&3S=his n|amigo-f=friend .
+%gra:	1|0|ROOT 2|3|JCT 3|1|CMOD 4|5|DET 5|3|PRED 6|1|PUNCT
+%cod:	$O:par $E:sup
+*CHI:	que había llegado tarde .
+%mor:	pro:rel|que=that aux|habe-13S&PAS=have part|llega-PPART-m=arrive
+	adv|tarde=late .
+%gra:	1|0|ROOT 2|3|AUX 3|1|COMP 4|3|JCT 5|1|PUNCT
+%xsub:	$AV
+%cod:	$O:tie
+*CHI:	entonces de repente (..) la [/] su amiga también tenía miedo .
+%mor:	adv|entonces=then prep|de=of n|repente&m=suddenness
+	det:poss|su&3S=his n|amigo-f=friend adv|también=also
+	v|tene-13S&PAS=have n|miedo&m=fear .
+%gra:	1|5|JCT 2|1|JCT 3|2|POBJ 4|5|DET 5|0|ROOT 6|5|JCT 7|6|CMOD 8|7|OBJ
+	9|5|PUNCT
+%cod:	$O:par $E:emo $E:sup
+%gpx:	mira brevemente a KAR
+*CHI:	y también como empezó a_ver .
+%mor:	coord|y=and adv|también=also adv|como=like v|empeza-3S&PRET=begin
+	co|a_ver .
+%gra:	1|0|ROOT 2|1|COORD 3|4|JCT 4|1|COORD 5|4|PRED 6|1|PUNCT
+%cod:	$C $E:sup
+*CHI:	que estaban allá sus amigas .
+%mor:	pro:rel|que=that cop|esta-3P&PAS=be adv|allá=there co|sus
+	n|amigo-f-PL=friend .
+%gra:	1|0|ROOT 2|1|CMOD 3|5|JCT 4|5|DET 5|2|PRED 6|1|PUNCT
+%cod:	$O:lug $O:par
+*CHI:	también se fue a correr con ellas .
+%mor:	adv|también=also pro:refl|se=itself v|i-3S&PRET=go prepart|a=to
+	inf|corre-INF=run prep|con=with pro:sub|ello-f-PL=he .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|6|POBJ 8|3|PUNCT
+%cod:	$C $E:sup $O:par
+*CHI:	entonces de repente todas saludaron a ella .
+%mor:	adv|entonces=then prep|de=of n|repente&m=suddenness
+	pro:indef|todo-f-PL=all v|saluda-3P&PRET=greet prepart|a=to
+	pro:sub|ello-f=he .
+%gra:	1|4|JCT 2|1|JCT 3|2|POBJ 4|5|SUBJ 5|0|ROOT 6|7|INF 7|5|OBJ 8|5|PUNCT
+%xsub:	$AV
+%cod:	$C $O:par $O:par
+*CHI:	pero sin darse cuenta ella estaba atrás .
+%mor:	conj|pero=but prep|sin=without inf|da-INF~pro:clit|3S&REFL=give
+	co|cuenta pro:sub|ello-f=he cop|esta-13S&PAS=be adv|atrás=back .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|3|OBJ2 5|3|JCT 6|7|SUBJ 7|5|POBJ 8|7|PRED
+	9|1|PUNCT
+%xsub:	$AV
+%cod:	$E:pal $O:par $O:lug
+%gpx:	mira brevemente a KAR
+*CHI:	pero no sabían .
+%mor:	conj|pero=but adv|no=no v|sabe-3P&PAS=know .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%xsub:	$V
+%cod:	$C $E:neg $E:emo $E:pal
+*CHI:	quién era .
+%mor:	pro:int|quién=who cop|se-13S&PAS=be .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	nada más era una sombra .
+%mor:	pro:indef|nada=nothing adv|más=more cop|se-13S&PAS=be
+	det:art|un-f=one n|sombra&f=shade .
+%gra:	1|3|SUBJ 2|3|MOD 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+%xsub:	$AV
+%cod:	$O:obj
+*CHI:	esa sombra venía de arriba .
+%mor:	det:dem|ese-f=that n|sombra&f=shade v|veni-13S&PAS=come prep|de=of
+	adv|arriba=above .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+%cod:	$O:obj $O:lug
+*CHI:	esa sombra <mejor se> [//] mejor la fueron a investigar .
+%mor:	det:dem|ese-f=that n|sombra&f=shade adj|mejor=better
+	det:art|el&f&SG=the cop|se-3P&PRET=be prepart|a=to
+	inf|investiga-INF=investigate .
+%gra:	1|2|DET 2|5|SUBJ 3|2|MOD 4|5|DET 5|0|ROOT 6|7|INF 7|5|PRED 8|5|PUNCT
+%xsub:	$AV
+%cod:	$C $O:obj $E:pal
+*CHI:	de qué era .
+%mor:	prep|de=of pro:int|qué=what cop|se-13S&PAS=be .
+%gra:	1|0|ROOT 2|1|POBJ 3|1|POBJ 4|1|PUNCT
+*CHI:	fueron corriendo a su habitación .
+%mor:	cop|se-3P&PRET=be part|corre-PRPART=run prepart|a=to
+	det:poss|su&3S=his n|habitación&f=dwelling .
+%gra:	1|0|ROOT 2|1|PRED 3|2|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+%cod:	$C $O:lug
+*CHI:	no esta(ba) +/.
+%mor:	adv|no=no cop|esta-13S&PAS=be +/.
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*CHI:	no estaba nadie .
+%mor:	adv|no=no cop|esta-13S&PAS=be pro:indef|nadie=nobody .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%cod:	$O:gra $E:neg
+*CHI:	fueron corriendo a la habitación de sus padres .
+%mor:	cop|se-3P&PRET=be part|corre-PRPART=run prepart|a=to
+	det:art|el&f&SG=the n|habitación&f=dwelling prep|de=of co|sus
+	n|padre&m-PL=father .
+%gra:	1|0|ROOT 2|1|PRED 3|2|JCT 4|5|DET 5|3|POBJ 6|5|JCT 7|8|DET 8|6|POBJ
+	9|1|PUNCT
+%cod:	$C $O:lug
+*CHI:	y no había nadie .
+%mor:	coord|y=and adv|no=no v|habe-13S&PAS=have pro:indef|nadie=nobody .
+%gra:	1|0|ROOT 2|3|JCT 3|1|COORD 4|3|PRED 5|1|PUNCT
+%cod:	$O:gra $E:neg
+*CHI:	fueron a la azotea .
+%mor:	cop|se-3P&PRET=be prepart|a=to det:art|el&f&SG=the
+	n|azotea&f=platform .
+%gra:	1|0|ROOT 2|1|PRED 3|4|DET 4|2|OBJ 5|1|PUNCT
+%cod:	$C $O:lug
+*CHI:	no había nadie .
+%mor:	adv|no=no v|habe-13S&PAS=have pro:indef|nadie=nobody .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$O:gra $E:neg
+*CHI:	fueron al cuarto de sus hermanos .
+%mor:	cop|se-3P&PRET=be prepart|a~det:art|el&m=to n|cuarto&m=quarter
+	prep|de=of co|sus n|hermano-m-PL=sibling .
+%gra:	1|0|ROOT 2|1|PRED 3|4|DET 4|2|OBJ 5|4|JCT 6|7|DET 7|5|POBJ 8|1|PUNCT
+%cod:	$C $O:lug
+*CHI:	no había nadie .
+%mor:	adv|no=no v|habe-13S&PAS=have pro:indef|nadie=nobody .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$O:gra $E:neg
+%gpx:	niega ligeramente con la cabeza y mira a KAR
+*CHI:	entonces de repente (..) como los hermanos se habían ido a jugar a
+	otra casa .
+%mor:	adv|entonces=then prep|de=of n|repente&m=suddenness adv|como=like
+	det:art|el&m-PL=the n|hermano-m-PL=sibling pro:refl|se=itself
+	v|habe-3P&PAS=have part|i-PPART-m=go prepart|a=to inf|juga-INF=play
+	prepart|a=to qn|otro-f=other n|casa&f=house .
+%gra:	1|8|JCT 2|1|JCT 3|2|POBJ 4|8|JCT 5|6|DET 6|8|SUBJ 7|6|MOD 8|0|ROOT
+	9|8|OBJ 10|11|INF 11|9|COMP 12|11|JCT 13|14|DET 14|12|POBJ 15|8|PUNCT
+%cod:	$O:eve $O:par $O:lug
+*CHI:	sus amigas como ya eran de segundo .
+%mor:	co|sus n|amigo-f-PL=friend adv|como=like adv|ya=already
+	cop|se-3P&PAS=be prep|de=of adj|segundo-m=second .
+%gra:	1|2|DET 2|3|SUBJ 3|4|JCT 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|PUNCT
+%cod:	$O:par
+*CHI:	entonces de repente se echaron a correr .
+%mor:	adv|entonces=then prep|de=of n|repente&m=suddenness
+	pro:refl|se=itself v|echa-3P&PRET=throw prepart|a=to
+	inf|corre-INF=run .
+%gra:	1|5|JCT 2|1|JCT 3|2|POBJ 4|2|POBJ 5|0|ROOT 6|7|INF 7|5|OBJ 8|5|PUNCT
+%xsub:	$AV
+%cod:	$C
+*CHI:	pero es que tenían mucho miedo .
+%mor:	conj|pero=but cop|se-3S&PRES=be pro:rel|que=that v|tene-3P&PAS=have
+	adv|mucho=much n|miedo&m=fear .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|REL 4|3|CMOD 5|6|MOD 6|4|OBJ 7|2|PUNCT
+%xsub:	$A
+%cod:	$E:emo $E:sup $E:jus
+*CHI:	que: estaban temblando .
+%mor:	pro:rel|que=that cop|esta-3P&PAS=be part|tembla-PRPART=tremble .
+%gra:	1|0|ROOT 2|1|CMOD 3|2|PRED 4|1|PUNCT
+%cod:	$E:emo
+*CHI:	y también como estaban afuera .
+%mor:	coord|y=and adv|también=also adv|como=like cop|esta-3P&PAS=be
+	co|afuera .
+%gra:	1|0|ROOT 2|1|COORD 3|4|JCT 4|1|COORD 5|1|COORD 6|1|PUNCT
+%cod:	$O:lug
+*CHI:	y ya era de noche .
+%mor:	coord|y=and adv|ya=already cop|se-13S&PAS=be prep|de=of
+	n|noche&f=night .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|3|JCT 5|4|POBJ 6|1|PUNCT
+%cod:	$O:tie
+*CHI:	hacía mucho frío .
+%mor:	v|hace-13S&PAS=do adv|mucho=much n|frío&m=cold .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%xsub:	$A
+%cod:	$O:gra
+*CHI:	enton(ces) [//] y no había suéter +/.
+%mor:	coord|y=and adv|no=no v|habe-13S&PAS=have n|suéter&m=sweater +/.
+%gra:	1|0|ROOT 2|3|JCT 3|1|COORD 4|3|OBJ 5|1|COORD
+*CHI:	no traían suéter .
+%mor:	adv|no=no v|trae-3P&PAS=carry n|suéter&m=sweater .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$O:obj
+*CHI:	entonces de repente dijo (..) +/.
+%mor:	adv|entonces=then prep|de=of n|repente&m=suddenness
+	v|deci-3S&PRET=say +/.
+%gra:	1|4|JCT 2|1|JCT 3|2|POBJ 4|0|ROOT 5|4|PUNCT
+%xsub:	$AV
+*CHI:	dijo (..) +/.
+%mor:	v|deci-3S&PRET=say +/.
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	dijo una niña +"/.
+%mor:	v|deci-3S&PRET=say det:art|un-f=one co|niña=child +"/.
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%cod:	$C $O:par
+*CHI:	+" ya sé !
+%mor:	adv|ya=already v|sabe-1S&PRES=know !
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+%xsub:	$V
+%cod:	$E:dis $E:emo $E:pal $E:exc
+*CHI:	+" vamos a entrar a la casa .
+%mor:	v|i-1P&PRES=go prepart|a=to inf|entra-INF=come_in prepart|a=to
+	det:art|el&f&SG=the n|casa&f=house .
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|3|OBJ 5|6|DET 6|4|OBJ 7|1|PUNCT
+%cod:	$E:dis $O:lug
+*CHI:	+" y vamos a ir por unos guantes y suéter .
+%mor:	coord|y=and v|i-1P&PRES=go prepart|a=to inf|i-INF=go prep|por=for
+	pro:indef|uno-PL=one n|guante&m-PL=glove coord|y=and
+	n|suéter&m=sweater .
+%gra:	1|0|ROOT 2|1|COORD 3|4|INF 4|2|COMP 5|4|JCT 6|7|DET 7|5|POBJ 8|7|CONJ
+	9|8|COORD 10|1|PUNCT
+%cod:	$E:dis $O:obj
+*CHI:	entonces de repente la niña dijo .
+%mor:	adv|entonces=then prep|de=of n|repente&m=suddenness
+	det:art|el&f&SG=the n|niño-f=child v|deci-3S&PRET=say .
+%gra:	1|6|JCT 2|1|JCT 3|2|POBJ 4|5|DET 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
+%xsub:	$AV
+%cod:	$C $O:par
+*CHI:	que estaba cerrada la perilla .
+%mor:	pro:rel|que=that cop|esta-13S&PAS=be part|cerra-PPART-f=close
+	det:art|el&f&SG=the n|pera&f-DIM=pear .
+%gra:	1|0|ROOT 2|1|CMOD 3|2|PRED 4|5|DET 5|3|OBJ 6|1|PUNCT
+%cod:	$O:gra
+*CHI:	pero la había dejado abierta .
+%mor:	conj|pero=but pro:obj|la-f=she aux|habe-13S&PAS=have
+	part|deja-PPART-m=leave part|abri-PPART-f=open .
+%gra:	1|0|ROOT 2|1|JCT 3|4|AUX 4|2|POBJ 5|4|OBJ 6|1|PUNCT
+%cod:	$O:gra
+*CHI:	y de repente alguien estaba adentro .
+%mor:	coord|y=and prep|de=of n|repente&m=suddenness
+	pro:indef|alguien=someone cop|esta-13S&PAS=be adv|adentro=inside .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|2|POBJ 5|1|COORD 6|5|PRED 7|1|PUNCT
+%xsub:	$AV
+%cod:	$O:gra
+*CHI:	fueron por una escalera .
+%mor:	cop|se-3P&PRET=be prep|por=for det:art|un-f=one
+	n|escalera&f=staircase .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+%cod:	$C $O:obj
+*CHI:	y la pusieron .
+%mor:	coord|y=and pro:obj|la-f=she v|pone-3P&PRET=put .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|1|PUNCT
+%cod:	$C
+*CHI:	entonces empezaron a subir subir subir .
+%mor:	adv|entonces=then v|empeza-3P&PRET=begin prepart|a=to
+	inf|subi-INF=go_up inf|subi-INF=go_up inf|subi-INF=go_up .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|3|COMP 5|4|COMP 6|5|COMP 7|2|PUNCT
+%cod:	$C $E:rep
+*CHI:	y no había nadie .
+%mor:	coord|y=and adv|no=no v|habe-13S&PAS=have pro:indef|nadie=nobody .
+%gra:	1|0|ROOT 2|3|JCT 3|1|COORD 4|3|PRED 5|1|PUNCT
+%cod:	$O:gra $E:neg
+*CHI:	de repente (.) alguien [//] la luz (.) no pu(do) +/.
+%mor:	prep|de=of n|repente&m=suddenness det:art|el&f&SG=the n|luz&f=light
+	adv|no=no v|pode-3S&PRET=can +/.
+%gra:	1|0|ROOT 2|1|POBJ 3|4|DET 4|6|SUBJ 5|6|JCT 6|1|POBJ 7|1|PUNCT
+*CHI:	no pudo hacer nada con la +/.
+%mor:	adv|no=no v|pode-3S&PRET=can inf|hace-INF=do imp|nada-2S&IMP=swim
+	prep|con=with det:art|el&f&SG=the +/.
+%gra:	1|2|JCT 2|0|ROOT 3|2|COMP 4|3|OBJ 5|4|JCT 6|5|POBJ 7|2|PUNCT
+*CHI:	porque [//] toda la luz se había ido .
+%mor:	qn|todo-f=all det:art|el&f&SG=the n|luz&f=light pro:refl|se=itself
+	aux|habe-13S&PAS=have part|i-PPART-m=go .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|JCT 5|6|AUX 6|4|POBJ 7|1|PUNCT
+%cod:	$O:gra
+*CHI:	no pudo hacer nada .
+%mor:	adv|no=no v|pode-3S&PRET=can inf|hace-INF=do pro:indef|nada=nothing
+	.
+%gra:	1|2|JCT 2|0|ROOT 3|2|COMP 4|3|OBJ 5|2|PUNCT
+%cod:	$C $E:pal
+*CHI:	entonces de repente (..) entonces de repente (..) un día cuando ya
+	se había terminado la fiesta .
+%mor:	adv|entonces=then prep|de=of n|repente&m=suddenness
+	adv|entonces=then prep|de=of n|repente&m=suddenness det:art|un&m=one
+	n|día&m=day pro:rel|cuando=when adv|ya=already pro:refl|se=itself
+	aux|habe-13S&PAS=have part|termina-PPART-m=end det:art|el&f&SG=the
+	n|fiesta&f=festival .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|JCT 5|4|JCT 6|5|POBJ 7|8|DET 8|6|OBJ
+	9|8|REL 10|11|JCT 11|9|CMOD 12|13|AUX 13|11|COMP 14|15|DET 15|13|OBJ
+	16|1|PUNCT
+%cod:	$O:eve $O:tie
+*CHI:	entonces se fueron .
+%mor:	adv|entonces=then pro:refl|se=itself cop|se-3P&PRET=be .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%cod:	$C
+*CHI:	pero ella se había quedado solita .
+%mor:	conj|pero=but pro:sub|ello-f=he pro:refl|se=itself
+	aux|habe-13S&PAS=have part|queda-PPART-m=stay adj|solo-DIM=alone .
+%gra:	1|0|ROOT 2|1|SCL 3|2|JCT 4|5|AUX 5|3|POBJ 6|5|OBJ 7|1|PUNCT
+%xsub:	$A
+%cod:	$O:par $O:gra $E:pal
+*CHI:	porque sus papás se fueron a visitar a alguien .
+%mor:	conj|porque=because co|sus n|papá&m-PL=father pro:refl|se=itself
+	cop|se-3P&PRET=be prepart|a=to inf|visita-INF=visit prepart|a=to
+	pro:indef|alguien=someone .
+%gra:	1|5|SUBJ 2|3|DET 3|1|POBJ 4|3|MOD 5|0|ROOT 6|5|PRED 7|6|COMP 8|9|INF
+	9|7|OBJ 10|5|PUNCT
+%cod:	$E:cau $O:par
+*CHI:	pero es que ella como estaba con sus amigas .
+%mor:	conj|pero=but cop|se-3S&PRES=be pro:rel|que=that pro:sub|ello-f=he
+	adv|como=like cop|esta-13S&PAS=be prep|con=with co|sus
+	n|amigo-f-PL=friend .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|REL 4|6|SUBJ 5|4|JCT 6|3|CMOD 7|6|JCT 8|9|DET
+	9|7|POBJ 10|2|PUNCT
+%cod:	$O:gra $O:par
+*CHI:	no podía ir .
+%mor:	adv|no=no v|pode-13S&PAS=can inf|i-INF=go .
+%gra:	1|2|JCT 2|0|ROOT 3|2|COMP 4|2|PUNCT
+%xsub:	$V
+%cod:	$E:pal
+%gpx:	mira brevemente a KAR
+*CHI:	y de repente se había quedado sin luz .
+%mor:	coord|y=and prep|de=of n|repente&m=suddenness pro:refl|se=itself
+	aux|habe-13S&PAS=have part|queda-PPART-m=stay prep|sin=without
+	n|luz&f=light .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|2|POBJ 5|6|AUX 6|4|POBJ 7|6|JCT 8|7|POBJ
+	9|1|PUNCT
+%xsub:	$AV
+%cod:	$O:gra
+*CHI:	porque no pudo arreglar la luz el de la luz .
+%mor:	conj|porque=because adv|no=no v|pode-3S&PRET=can
+	inf|arregla-INF=order det:art|el&f&SG=the n|luz&f=light
+	det:art|el&m&SG=the prep|de=of det:art|el&f&SG=the n|luz&f=light .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|COMP 5|6|DET 6|4|OBJ 7|6|MOD 8|7|JCT
+	9|10|DET 10|8|POBJ 11|3|PUNCT
+%xsub:	$V
+%cod:	$E:cau $O:obj $O:par
+*CHI:	y de repente que: se empieza a hacer más oscuro .
+%mor:	coord|y=and prep|de=of n|repente&m=suddenness pro:rel|que=that
+	pro:refl|se=itself v|empeza-3S&PRES=begin prepart|a=to
+	inf|hace-INF=do adv|más=more adj|oscuro-m=dark .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|3|REL 5|6|SUBJ 6|4|CMOD 7|6|OBJ 8|7|COMP
+	9|10|MOD 10|8|OBJ 11|1|PUNCT
+%xsub:	$AV $AV $A
+%cod:	$C $O:gra
+*CHI:	porque ya casi era de noche .
+%mor:	conj|porque=because adv|ya=already adv|casi=almost
+	cop|se-13S&PAS=be prep|de=of n|noche&f=night .
+%gra:	1|4|SUBJ 2|3|JCT 3|4|MOD 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+%xsub:	$AV
+%cod:	$E:cau $O:tie $E:sup
+*CHI:	ya casi era medianoche .
+%mor:	adv|ya=already adv|casi=almost cop|se-13S&PAS=be
+	n|medianoche&f=midnight .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+%xsub:	$AV
+%cod:	$E:sup $O:tie
+*CHI:	que: [/] que ella [/] ella iba a hacer +/.
+%mor:	pro:rel|que=that pro:sub|ello-f=he v|i-13S&PAS=go prepart|a=to
+	inf|hace-INF=do +/.
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|5|INF 5|3|COMP 6|1|PUNCT
+*CHI:	ella iba a ir a lavarse los dientes .
+%mor:	pro:sub|ello-f=he v|i-13S&PAS=go prepart|a=to inf|i-INF=go
+	prepart|a=to inf|lava-INF~pro:clit|3S&REFL=wash det:art|el&m-PL=the
+	n|diente&m-PL=tooth .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|6|INF 6|4|OBJ 7|6|OBJ2 8|9|DET
+	9|7|OBJ 10|2|PUNCT
+%cod:	$O:par $O:gra
+*CHI:	cuando escuchó una cosa .
+%mor:	conj|cuando=when v|escucha-3S&PRET=listen det:art|un-f=one
+	n|cosa&f=thing .
+%gra:	1|0|ROOT 2|1|COMP 3|4|DET 4|2|OBJ 5|1|PUNCT
+%cod:	$C
+*CHI:	y de repente se empezó a abrazar .
+%mor:	coord|y=and prep|de=of n|repente&m=suddenness pro:refl|se=itself
+	v|empeza-3S&PRET=begin prepart|a=to inf|abraza-INF=embrace .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|2|POBJ 5|1|COORD 6|7|INF 7|5|COMP 8|1|PUNCT
+%xsub:	$AV
+%cod:	$C
+*CHI:	porque tenía mucho miedo .
+%mor:	conj|porque=because v|tene-13S&PAS=have adv|mucho=much
+	n|miedo&m=fear .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%xsub:	$A
+%cod:	$E:emo $E:cau
+*CHI:	entonces cuando se puso su pijama .
+%mor:	co|entonces conj|cuando=when pro:refl|se=itself v|pone-3S&PRET=put
+	det:poss|su&3S=his n|pijama&f=pyjamas .
+%gra:	1|0|ROOT 2|1|REL 3|2|SCL 4|3|CMOD 5|6|DET 6|4|OBJ 7|1|PUNCT
+%cod:	$C $O:obj
+*CHI:	y empezó a dormirse .
+%mor:	coord|y=and v|empeza-3S&PRET=begin prepart|a=to
+	inf|dormi-INF~pro:clit|3S&REFL=sleep .
+%gra:	1|0|ROOT 2|1|COORD 3|4|INF 4|2|COMP 5|4|OBJ2 6|1|PUNCT
+%cod:	$C
+*CHI:	&es [//] empezó a soñar .
+%mor:	v|empeza-3S&PRET=begin prepart|a=to inf|soña-INF=dream .
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|1|PUNCT
+%cod:	$C
+*CHI:	que la luz no regresaba .
+%mor:	pro:rel|que=that det:art|el&f&SG=the n|luz&f=light adv|no=no
+	v|regresa-13S&PAS=return .
+%gra:	1|5|SUBJ 2|3|DET 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|PUNCT
+%cod:	$O:gra $E:neg
+*CHI:	y que ella estaba solita .
+%mor:	coord|y=and pro:rel|que=that pro:sub|ello-f=he cop|esta-13S&PAS=be
+	adj|solo-DIM=alone .
+%gra:	1|0|ROOT 2|1|REL 3|2|COMP 4|3|COMP 5|4|PRED 6|1|PUNCT
+%xsub:	$A
+%cod:	$O:gra $O:par $E:pal
+*CHI:	que alguien que estaba adentro .
+%mor:	pro:rel|que=that pro:indef|alguien=someone pro:rel|que=that
+	cop|esta-13S&PAS=be adv|adentro=inside .
+%gra:	1|0|ROOT 2|1|CMOD 3|2|REL 4|3|CMOD 5|4|PRED 6|1|PUNCT
+%cod:	$O:par $O:lug
+*CHI:	<la estaba> [//] estaba persiguiéndola .
+%mor:	aux|esta-13S&PAS=be part|persegui-PRPART~pro:clit|OBJ&f=pursue .
+%gra:	1|2|AUX 2|0|ROOT 3|2|OBJ2 4|2|PUNCT
+%cod:	$C
+*CHI:	y de repente (..) cuando era la mañana .
+%mor:	coord|y=and prep|de=of n|repente&m=suddenness pro:rel|cuando=when
+	cop|se-13S&PAS=be det:art|el&f&SG=the n|mañana&f=morning .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|2|POBJ 5|4|CMOD 6|7|DET 7|5|PRED 8|1|PUNCT
+%xsub:	$AV
+%cod:	$O:tie
+*CHI:	y empezó a sonar el reloj <y e(l)> [//] y el despertador al mismo
+	tiempo .
+%mor:	coord|y=and v|empeza-3S&PRET=begin prepart|a=to inf|sona-INF=sound
+	det:art|el&m&SG=the n|reloj&m=clock coord|y=and det:art|el&m&SG=the
+	n|despertador&m=waker prepart|a~det:art|el&m=to adj|mismo-m=same
+	n|tiempo&m=season .
+%gra:	1|0|ROOT 2|1|COORD 3|4|INF 4|1|COORD 5|6|DET 6|4|OBJ 7|1|COORD 8|9|DET
+	9|7|COORD 10|9|MOD 11|13|DET 12|13|MOD 13|1|COORD 14|1|PUNCT
+%cod:	$O:gra
+*CHI:	se despertó gritando .
+%mor:	pro:refl|se=itself v|desperta-3S&PRET=wake_up
+	part|grita-PRPART=shout .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+%cod:	$C $E:sup
+*CHI:	pero de repente (.) después no [//] se tranquilizó .
+%mor:	conj|pero=but prep|de=of n|repente&m=suddenness adv|después=after
+	pro:refl|se=itself v|tranquiliza-3S&PRET=calm .
+%gra:	1|6|SUBJ 2|1|JCT 3|2|POBJ 4|5|JCT 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
+%xsub:	$V
+%cod:	$C $E:pal
+*CHI:	y ya no tuvo +/.
+%mor:	coord|y=and adv|ya=already adv|no=no v|tene-3S&PRET=have +/.
+%gra:	1|0|ROOT 2|3|JCT 3|4|JCT 4|1|COORD 5|1|COORD
+*CHI:	tuvo que ir a llamarlos a sus papás .
+%mor:	v|tene-3S&PRET=have pro:rel|que=that inf|i-INF=go prepart|a=to
+	inf|llama-INF~pro:clit|OBJ&m&PL=call prepart|a=to co|sus
+	n|papá&m-PL=father .
+%gra:	1|0|ROOT 2|1|REL 3|2|COMP 4|5|INF 5|3|COMP 6|5|OBJ2 7|5|JCT 8|9|DET
+	9|7|POBJ 10|1|PUNCT
+%cod:	$C $E:obl $O:par
+*CHI:	pero el teléfono no podía servir .
+%mor:	conj|pero=but det:art|el&m&SG=the n|teléfono&m=telephone adv|no=no
+	v|pode-13S&PAS=can inf|servi-INF=serve .
+%gra:	1|5|SUBJ 2|3|DET 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|COMP 7|5|PUNCT
+%xsub:	$V
+%cod:	$C $E:pal $O:obj
+*CHI:	porque no había regresado la luz .
+%mor:	conj|porque=because adv|no=no aux|habe-13S&PAS=have
+	part|regresa-PPART-m=return det:art|el&f&SG=the n|luz&f=light .
+%gra:	1|0|ROOT 2|4|JCT 3|4|AUX 4|1|COMP 5|6|DET 6|4|OBJ 7|1|PUNCT
+%cod:	$O:gra $E:neg
+*CHI:	entonces de repente cuando fue a hacer el desayuno .
+%mor:	adv|entonces=then prep|de=of n|repente&m=suddenness
+	pro:rel|cuando=when v|i-3S&PRET=go prepart|a=to inf|hace-INF=do
+	det:art|el&m&SG=the n|desayuno&m=breakfast .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|REL 5|4|CMOD 6|7|INF 7|5|COMP 8|9|DET
+	9|7|OBJ 10|1|PUNCT
+%xsub:	$AV
+%cod:	$O:eve
+*CHI:	cuando fue a hacer su sandwich .
+%mor:	conj|cuando=when v|i-3S&PRET=go prepart|a=to inf|hace-INF=do
+	det:poss|su&3S=his n|sandwich&m=sandwich .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|COMP 5|6|DET 6|4|OBJ 7|2|PUNCT
+%cod:	$O:eve $O:obj
+*CHI:	entonces de repente vio .
+%mor:	adv|entonces=then prep|de=of n|repente&m=suddenness
+	v|ve-3S&PRET=see .
+%gra:	1|4|JCT 2|1|JCT 3|2|POBJ 4|0|ROOT 5|4|PUNCT
+%xsub:	$AV
+%cod:	$C
+*CHI:	que algo se estaba moviendo .
+%mor:	pro:rel|que=that pro:indef|algo=something pro:refl|se=itself
+	aux|esta-13S&PAS=be part|move-PRPART=move .
+%gra:	1|0|ROOT 2|1|CMOD 3|2|JCT 4|5|AUX 5|3|POBJ 6|1|PUNCT
+%cod:	$C
+*CHI:	y vio .
+%mor:	coord|y=and v|ve-3S&PRET=see .
+%gra:	1|0|ROOT 2|1|COORD 3|1|PUNCT
+%cod:	$C
+*CHI:	que algo se estaba cayendo .
+%mor:	pro:rel|que=that pro:indef|algo=something pro:refl|se=itself
+	aux|esta-13S&PAS=be part|cae-PRPART=fall .
+%gra:	1|0|ROOT 2|1|CMOD 3|2|JCT 4|5|AUX 5|3|POBJ 6|1|PUNCT
+%cod:	$C
+*CHI:	entonces escuchó .
+%mor:	adv|entonces=then v|escucha-3S&PRET=listen .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+%cod:	$C
+*CHI:	<como que algo> [//] como que un jarrón se había roto .
+%mor:	adv|como=like pro:rel|que=that det:art|un&m=one
+	n|jarro&m-AUG=pitcher pro:refl|se=itself aux|habe-13S&PAS=have
+	part|rompe-PPART-m=break .
+%gra:	1|0|ROOT 2|1|REL 3|4|DET 4|2|CMOD 5|4|JCT 6|7|AUX 7|5|POBJ 8|1|PUNCT
+%xsub:	$AV
+%cod:	$C $E:sup
+*CHI:	entonces fue corriendo .
+%mor:	adv|entonces=then cop|se-3S&PRET=be part|corre-PRPART=run .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%cod:	$C
+*CHI:	como era una casa grande .
+%mor:	adv|como=like cop|se-13S&PAS=be det:art|un-f=one n|casa&f=house
+	adj|grande=big .
+%gra:	1|2|JCT 2|0|ROOT 3|4|DET 4|2|PRED 5|4|MOD 6|2|PUNCT
+%xsub:	$AV $A
+%cod:	$O:gra
+*CHI:	había dos jarrones .
+%mor:	v|habe-13S&PAS=have det:num|dos=two n|jarro&m-AUG-PL=pitcher .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%cod:	$O:obj
+*CHI:	que se habían roto al mismo tiempo .
+%mor:	pro:rel|que=that pro:refl|se=itself v|habe-3P&PAS=have
+	part|rompe-PPART-m=break prepart|a~det:art|el&m=to adj|mismo-m=same
+	n|tiempo&m=season .
+%gra:	1|0|ROOT 2|1|COMP 3|4|AUX 4|2|COMP 5|4|OBJ 6|8|DET 7|8|MOD 8|5|OBJ
+	9|1|PUNCT
+%gpx:	mira brevemente a KAR
+*CHI:	porque tenían dos cosas adentro .
+%mor:	conj|porque=because v|tene-3P&PAS=have det:num|dos=two
+	n|cosa&f-PL=thing adv|adentro=inside .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|MOD 6|2|PUNCT
+%cod:	$O:gra
+*CHI:	pero ella no xxx después .
+%mor:	conj|pero=but pro:sub|ello-f=he adv|no=no adv|después=after .
+%gra:	1|0|ROOT 2|1|JCT 3|4|JCT 4|2|POBJ 5|1|PUNCT
+%gpx:	mira brevemente a KAR
+*CHI:	no había nadie +/.
+%mor:	adv|no=no v|habe-13S&PAS=have pro:indef|nadie=nobody +/.
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	alguien había tocado atrás la puerta .
+%mor:	pro:indef|alguien=someone aux|habe-13S&PAS=have
+	part|toca-PPART-m=touch adv|atrás=back det:art|el&f&SG=the
+	n|puerta&f=door .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|3|OBJ 7|3|PUNCT
+%cod:	$C $O:par $O:lug $O:obj
+*CHI:	fue a_ver .
+%mor:	cop|se-3S&PRET=be co|a_ver .
+%gra:	1|0|ROOT 2|1|PRED 3|1|PUNCT
+%cod:	$C
+*CHI:	y no había nadie .
+%mor:	coord|y=and adv|no=no v|habe-13S&PAS=have pro:indef|nadie=nobody .
+%gra:	1|0|ROOT 2|3|JCT 3|1|COORD 4|3|PRED 5|1|PUNCT
+%cod:	$O:gra $E:neg
+*CHI:	entonces de repente la luz volvió .
+%mor:	adv|entonces=then prep|de=of n|repente&m=suddenness
+	det:art|el&f&SG=the n|luz&f=light v|volve-3S&PRET=turn .
+%gra:	1|6|JCT 2|1|JCT 3|2|POBJ 4|5|DET 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
+%xsub:	$AV
+%cod:	$C
+*CHI:	y se volvió a +/.
+%mor:	coord|y=and pro:refl|se=itself v|volve-3S&PRET=turn prepart|a=to
+	+/.
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|3|PRED 5|1|COORD
+*CHI:	la luz volvió .
+%mor:	det:art|el&f&SG=the n|luz&f=light v|volve-3S&PRET=turn .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%cod:	$C
+*CHI:	y de repente &vi [//] fue corriendo a (.) llamarle a sus papás .
+%mor:	coord|y=and prep|de=of n|repente&m=suddenness cop|se-3S&PRET=be
+	part|corre-PRPART=run prepart|a=to inf|llama-INF~pro:clit|3S=call
+	prepart|a=to co|sus n|papá&m-PL=father .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|COORD 5|4|PRED 6|7|INF 7|5|COMP 8|7|OBJ2
+	9|7|JCT 10|11|DET 11|9|POBJ 12|1|PUNCT
+%cod:	$C $O:par
+*CHI:	pero cuando (.) fue a: (.) fue a descolgar el teléfono .
+%mor:	conj|pero=but pro:rel|cuando=when v|i-3S&PRET=go prepart|a=to
+	v|i-3S&PRET=go prepart|a=to des#inf|colga-INF=hang
+	det:art|el&m&SG=the n|teléfono&m=telephone .
+%gra:	1|0|ROOT 2|1|REL 3|5|SUBJ 4|5|JCT 5|2|CMOD 6|5|PRED 7|6|COMP 8|9|DET
+	9|7|OBJ 10|1|PUNCT
+%cod:	$C $O:eve $O:obj
+*CHI:	ya se había ido otra vez la luz .
+%mor:	adv|ya=already pro:refl|se=itself aux|habe-13S&PAS=have
+	part|i-PPART-m=go qn|otro-f=other n|vez&f=turn det:art|el&f&SG=the
+	n|luz&f=light .
+%gra:	1|2|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|8|DET 8|6|OBJ
+	9|4|PUNCT
+%cod:	$O:gra $E:sup
+*CHI:	entonces de repente (...) entonces de repente cuando tenía que
+	hacer un trabajo y ir a la escuela .
+%mor:	adv|entonces=then prep|de=of n|repente&m=suddenness
+	adv|entonces=then prep|de=of n|repente&m=suddenness
+	pro:rel|cuando=when v|tene-13S&PAS=have pro:rel|que=that
+	inf|hace-INF=do det:art|un&m=one n|trabajo&m=work coord|y=and
+	inf|i-INF=go prepart|a=to det:art|el&f&SG=the n|escuela&f=school .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|JCT 5|4|JCT 6|5|POBJ 7|6|REL 8|7|CMOD
+	9|8|REL 10|9|COMP 11|12|DET 12|10|OBJ 13|12|CONJ 14|13|COORD 15|14|COMP
+	16|17|DET 17|15|OBJ 18|1|PUNCT
+%xsub:	$AV $V
+%cod:	$O:eve $O:lug
+*CHI:	ella tomó su bicicleta .
+%mor:	pro:sub|ello-f=he v|toma-3S&PRET=take det:poss|su&3S=his
+	n|bicicleta&f=bicycle .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%cod:	$C $O:obj
+*CHI:	y cuando estaba en la escuela .
+%mor:	coord|y=and conj|cuando=when cop|esta-13S&PAS=be prep|en=in
+	det:art|el&f&SG=the n|escuela&f=school .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|3|JCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+%cod:	$O:eve
+*CHI:	no había luz .
+%mor:	adv|no=no v|habe-13S&PAS=have n|luz&f=light .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$O:gra $E:neg
+*CHI:	entonces (..) como ya se le había hecho tarde .
+%mor:	adv|entonces=then adv|como=like adv|ya=already pro:refl|se=itself
+	pro:ind|le&m=him v|habe-13S&PAS=have v|hecha-1S&PRES=give
+	adv|tarde=late .
+%gra:	1|2|JCT 2|3|JCT 3|4|JCT 4|0|ROOT 5|4|COMP 6|5|COMP 7|6|OBJ 8|7|JCT
+	9|4|PUNCT
+%xsub:	$A
+%cod:	$O:gra
+*CHI:	al final fueron a_ver los xxx para darle el trabajo .
+%mor:	prepart|a~det:art|el&m=to n|final&m=end cop|se-3P&PRET=be co|a_ver
+	pro:ind|le-m-PL=him prep|para=for inf|da-INF~pro:clit|3S=give
+	det:art|el&m&SG=the n|trabajo&m=work .
+%gra:	1|4|SUBJ 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|5|COMP 7|8|INF 8|6|COMP
+	9|8|OBJ2 10|11|DET 11|8|OBJ 12|4|PUNCT
+%cod:	$C $O:tie
+*CHI:	<y que empez(an)> [//] y que empiezan ellas .
+%mor:	coord|y=and pro:rel|que=that v|empeza-3P&PRES=begin
+	pro:sub|ello-f-PL=he .
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|3|OBJ 5|1|PUNCT
+%cod:	$C $O:par
+*CHI:	(.) y también ella .
+%mor:	coord|y=and adv|también=also pro:sub|ello-f=he .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|1|PUNCT
+%cod:	$O:par
+*CHI:	entonces de repente ella dice +"/.
+%mor:	adv|entonces=then prep|de=of n|repente&m=suddenness
+	pro:sub|ello-f=he v|deci-3S&PRES=say +"/.
+%gra:	1|5|JCT 2|1|JCT 3|2|POBJ 4|3|MOD 5|0|ROOT 6|5|PUNCT
+%cod:	$C $O:par
+%gpx:	mira brevemente a KAR
+*CHI:	+" ya sé !
+%mor:	adv|ya=already v|sabe-1S&PRES=know !
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+%xsub:	$V
+%cod:	$E:dis $E:exc $E:pal $E:emo
+*CHI:	+" vamos a ir a tomar +/.
+%mor:	v|i-1P&PRES=go prepart|a=to inf|i-INF=go prepart|a=to
+	inf|toma-INF=take +/.
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|5|INF 5|3|OBJ 6|1|PUNCT
+*CHI:	+" vamos a ir a un restaurante .
+%mor:	v|i-1P&PRES=go prepart|a=to inf|i-INF=go prepart|a=to
+	det:art|un&m=one n|restaurante&m=restaurant .
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|3|OBJ 5|6|DET 6|4|OBJ 7|1|PUNCT
+%cod:	$C $E:dis $O:lug
+*CHI:	pero ese restaurante sí tenía luz .
+%mor:	conj|pero=but det:dem|ese=that n|restaurante&m=restaurant co|sí=yes
+	v|tene-13S&PAS=have n|luz&f=light .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|MOD 5|4|CMOD 6|5|OBJ 7|1|PUNCT
+%cod:	$O:gra $E:sup
+*CHI:	entonces lo que estaba pasando .
+%mor:	co|entonces pro:obj|le-m=him prep|que=than cop|esta-13S&PAS=be
+	part|pasa-PRPART=pass .
+%gra:	1|0|ROOT 2|1|REL 3|2|JCT 4|3|POBJ 5|4|PRED 6|1|PUNCT
+%cod:	$E:jus
+*CHI:	es .
+%mor:	cop|se-3S&PRES=be .
+%gra:	1|0|ROOT 2|1|PUNCT
+%cod:	$E:jus
+*CHI:	que ese restaurante estaba tomando todas las luces .
+%mor:	pro:rel|que=that det:dem|ese=that n|restaurante&m=restaurant
+	aux|esta-13S&PAS=be part|toma-PRPART=take qn|todo-f-PL=all
+	det:art|el&f-PL=the n|luz&f-PL=light .
+%gra:	1|0|ROOT 2|3|DET 3|5|SUBJ 4|5|AUX 5|1|COMP 6|5|COMP 7|8|DET 8|6|OBJ
+	9|1|PUNCT
+%xsub:	$A
+%cod:	$E:jus $O:lug
+%gpx:	mira brevemente a KAR
+*CHI:	entonces se quedaron ahí .
+%mor:	adv|entonces=then pro:refl|se=itself v|queda-3P&PRET=stay
+	adv|ahí=there .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%cod:	$R $O:lug .
+*CHI:	y ya no tuvo miedo .
+%mor:	coord|y=and adv|ya=already adv|no=no v|tene-3S&PRET=have
+	n|miedo&m=fear .
+%gra:	1|0|ROOT 2|1|COORD 3|4|JCT 4|1|COORD 5|4|OBJ 6|1|PUNCT
+%cod:	$R $E:emo $E:neg
+*CHI:	porque ya sabía porqué .
+%mor:	conj|porque=because adv|ya=already v|sabe-13S&PAS=know
+	pro:int|porqué=why .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%xsub:	$V
+%cod:	$E:emo $E:pal $E:cau
+*CHI:	y: y ya se puso feliz .
+%mor:	coord|y=and coord|y=and adv|ya=already pro:refl|se=itself
+	v|pone-3S&PRET=put adj|feliz=happy .
+%gra:	1|0|ROOT 2|1|CONJ 3|4|JCT 4|2|COORD 5|4|PRED 6|5|MOD 7|1|PUNCT
+%xsub:	$A
+%cod:	$R $E:emo $E:pal
+%gpx:	mira brevemente a KAR
+*CHI:	y se puso a trabajar .
+%mor:	coord|y=and pro:refl|se=itself v|pone-3S&PRET=put prepart|a=to
+	inf|trabaja-INF=work .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|5|INF 5|3|COMP 6|1|PUNCT
+%cod:	$R
+%gpx:	mira brevemente a KAR
+*CHI:	y entonces de repente , en lugar de estar asustada , se [/] ya no
+	estaba asustada .
+%mor:	coord|y=and adv|entonces=then prep|de=of n|repente&m=suddenness
+	cm|cm prep|en=in n|lugar&m=place prep|de=of inf|esta-INF=be
+	part|asusta-PPART-f=frighten cm|cm adv|ya=already adv|no=no
+	cop|esta-13S&PAS=be part|asusta-PPART-f=frighten .
+%gra:	1|0|ROOT 2|1|COORD 3|2|JCT 4|3|POBJ 5|4|MOD 6|5|JCT 7|6|POBJ 8|7|JCT
+	9|8|POBJ 10|9|OBJ 11|10|JCT 12|13|JCT 13|14|JCT 14|11|POBJ 15|14|PRED
+	16|1|PUNCT
+%xsub:	$A
+%cod:	$E:jus $E:emo $E:neg
+*CHI:	porque mira .
+%mor:	conj|porque=because v|mira-3S&PRES=look .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%cod:	$E:jus
+*CHI:	había una .
+%mor:	v|habe-13S&PAS=have det:art|un-f=one .
+%gra:	1|0|ROOT 2|3|DET 3|1|PUNCT
+%cod:	$O:par
+*CHI:	(..) que todavía tenía miedo .
+%mor:	pro:rel|que=that adv|todavía=still v|tene-13S&PAS=have
+	n|miedo&m=fear .
+%gra:	1|0|ROOT 2|3|JCT 3|1|COMP 4|3|OBJ 5|1|PUNCT
+%cod:	$E:emo $E:sup
+*CHI:	porque no había ido a ese restaurante .
+%mor:	conj|porque=because adv|no=no aux|habe-13S&PAS=have
+	part|i-PPART-m=go prepart|a=to det:dem|ese=that
+	n|restaurante&m=restaurant .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|AUX 4|0|ROOT 5|4|OBJ 6|7|DET 7|5|OBJ 8|4|PUNCT
+%cod:	$E:cau $E:neg $O:lug
+*CHI:	ésa [//] le contaron a ésa +/.
+%mor:	pro:ind|le&m=him v|conta-3P&PRET=count_tell prepart|a=to
+	pro:dem|ése-f=that_one +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|OBJ 5|2|PUNCT
+*CHI:	le contaron (.) a: +/.
+%mor:	pro:ind|le&m=him v|conta-3P&PRET=count_tell prepart|a=to +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	le contaron a +/.
+%mor:	pro:ind|le&m=him v|conta-3P&PRET=count_tell prepart|a=to +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%gpx:	mira brevemente a KAR
+*CHI:	sus [/] sus amigas le contaron a ella .
+%mor:	co|sus n|amigo-f-PL=friend pro:ind|le&m=him
+	v|conta-3P&PRET=count_tell prepart|a=to pro:sub|ello-f=he .
+%gra:	1|2|DET 2|4|SUBJ 3|2|MOD 4|0|ROOT 5|6|INF 6|4|OBJ 7|4|PUNCT
+%cod:	$R $O:par $O:par
+*CHI:	entonces de repente (...) regresó la luz .
+%mor:	adv|entonces=then prep|de=of n|repente&m=suddenness
+	v|regresa-3S&PRET=return det:art|el&f&SG=the n|luz&f=light .
+%gra:	1|4|JCT 2|1|JCT 3|2|POBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%xsub:	$AV
+%cod:	$R
+*CHI:	y vivieron felices .
+%mor:	coord|y=and v|vivi-3P&PRET=live adj|feliz-PL=happy .
+%gra:	1|0|ROOT 2|1|COORD 3|2|PRED 4|1|PUNCT
+%xsub:	$A
+%cod:	$R
+%gpx:	mira brevemente a KAR
+*CHI:	fin !
+%mor:	n|fin&m=end !
+%gra:	1|0|ROOT 2|1|PUNCT
+%cod:	$A:cod
+%gpx:	mira a KAR
+*KAR:	muy bien !
+%mor:	adv|muy=very adv|bien=well !
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+@Comment:	CHI no quiso cambiar su historia
+@End

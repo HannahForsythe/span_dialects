@@ -1,0 +1,621 @@
+@UTF8
+@PID:	11312/c-00032570-1
+@Begin
+@Languages:	spa
+@Participants:	KAR Karina Adult , CHI Oscar Target_Child
+@ID:	spa|Hess|KAR|||||Adult|||
+@ID:	spa|Hess|CHI|12;06.24||||Target_Child|||
+@Date:	25-MAY-1999
+@Comment:	Education of CHI is sexto , pública
+@Transcriber:	Karina Hess
+@Situation:	Tarea A (juicio sobre estructura narrativa y marcadores de
+	subjetividad)
+@Comment:	KAR cuenta las dos narraciones en dos ocasiones
+*KAR:	muy bien , Oscar .
+%mor:	adv|muy=very adv|bien=well cm|cm n:prop|Oscar .
+%gra:	1|0|ROOT 2|1|JCT 3|2|JCT 4|3|POBJ 5|1|PUNCT
+*KAR:	quién ganó ?
+%mor:	pro:int|quién=who v|gana-3S&PRET=win ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	el rojo .
+%mor:	det:art|el&m&SG=the adj|rojo-m=red .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+%xjui:	$PS
+*KAR:	el rojo , muy bien .
+%mor:	det:art|el&m&SG=the adj|rojo-m=red cm|cm adv|muy=very adv|bien=well
+	.
+%gra:	1|2|DET 2|3|MOD 3|0|ROOT 4|5|JCT 5|3|JCT 6|3|PUNCT
+*KAR:	porqué ?
+%mor:	pro:int|porqué=why ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	porque: (.) cómo se llama ?
+%mor:	conj|porque=because pro:int|cómo=how pro:refl|se=itself
+	v|llama-3S&PRES=call ?
+%gra:	1|4|SUBJ 2|4|SUBJ 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	porque cuando: él quería .
+%mor:	conj|porque=because pro:rel|cuando=when pro:sub|él&m=he
+	v|quere-13S&PAS=want .
+%gra:	1|0|ROOT 2|1|REL 3|4|SUBJ 4|2|ROOT 5|4|PUNCT
+*CHI:	que cómo se llama que viniera su mamá temprano .
+%mor:	pro:rel|que=that pro:int|cómo=how pro:refl|se=itself
+	v|llama-3S&PRES=call pro:rel|que=that v|veni-13S&SUB&PAS=come
+	det:poss|su&3S=his n|mamá&f=mommy adj|temprano-m=early .
+%gra:	1|0|ROOT 2|4|SUBJ 3|4|SUBJ 4|1|CMOD 5|4|REL 6|5|CMOD 7|8|DET 8|6|OBJ
+	9|8|MOD 10|1|PUNCT
+*CHI:	no venía .
+%mor:	adv|no=no v|veni-13S&PAS=come .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*CHI:	y cuando quería .
+%mor:	coord|y=and conj|cuando=when v|quere-13S&PAS=want .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|1|PUNCT
+*CHI:	que llegara tarde .
+%mor:	pro:rel|que=that v|llega-13S&SUB&PAS=arrive adv|tarde=late .
+%gra:	1|0|ROOT 2|1|CMOD 3|2|JCT 4|1|PUNCT
+*CHI:	no [//] osea venía temprano .
+%mor:	co|osea v|veni-13S&PAS=come adj|temprano-m=early .
+%gra:	1|0|ROOT 2|1|COMP 3|2|OBJ 4|1|PUNCT
+*KAR:	aha@i .
+%mor:	co|aha .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	y por eso decidió darle una lección a su mamá +/.
+%mor:	coord|y=and prep|por=for pro:dem|eso=that_one
+	v|decidi-3S&PRET=decide inf|da-INF~pro:clit|3S=give det:art|un-f=one
+	n|lección&f=lesson prepart|a=to det:poss|su&3S=his n|mamá&f=mommy
+	+/.
+%gra:	1|0|ROOT 2|4|JCT 3|2|POBJ 4|1|COORD 5|4|COMP 6|5|OBJ2 7|8|DET 8|5|OBJ
+	9|5|JCT 10|11|DET 11|9|POBJ 12|1|COORD
+%xjui:	$C:res
+*KAR:	aha@i .
+%mor:	co|aha .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	para que viniera más temprano .
+%mor:	prep|para=for pro:rel|que=that v|veni-13S&SUB&PAS=come adv|más=more
+	adj|temprano-m=early .
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|5|MOD 5|3|OBJ 6|1|PUNCT
+*KAR:	aha@i .
+%mor:	co|aha .
+%gra:	1|0|ROOT 2|1|PUNCT
+*KAR:	eso fue lo que dijo él .
+%mor:	pro:dem|eso=that_one cop|se-3S&PRET=be pro:obj|le-m=him
+	pro:rel|que=that v|deci-3S&PRET=say pro:sub|él&m=he .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|REL 5|4|CMOD 6|5|OBJ 7|2|PUNCT
+%act:	levanta al rojo
+*KAR:	y él en cambio ?
+%mor:	coord|y=and pro:sub|él&m=he prep|en=in n|cambio&m=change ?
+%gra:	1|0|ROOT 2|1|COORD 3|2|JCT 4|3|POBJ 5|1|COORD
+%act:	levanta al amarillo
+*CHI:	él dijo que .
+%mor:	pro:sub|él&m=he v|deci-3S&PRET=say pro:rel|que=that .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|REL 4|2|PUNCT
+*CHI:	cómo se llama que siempre venía &-eh este: Alejandro por su ma(má)
+	+/.
+%mor:	pro:int|cómo=how pro:refl|se=itself v|llama-3S&PRES=call
+	pro:rel|que=that adv|siempre=always v|veni-13S&PAS=come
+	det:dem|este=this n:prop|Alejandro prep|por=for det:poss|su&3S=his
+	n|mamá&f=mommy +/.
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|REL 5|6|JCT 6|4|CMOD 7|8|DET 8|6|OBJ
+	9|8|JCT 10|11|DET 11|9|POBJ 12|3|PUNCT
+*CHI:	su mamá venía por Alejandro .
+%mor:	det:poss|su&3S=his n|mamá&f=mommy v|veni-13S&PAS=come prep|por=for
+	n:prop|Alejandro .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*KAR:	mhm@i .
+%mor:	co|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	y que: siempre se lo llevaba a su casa .
+%mor:	coord|y=and pro:rel|que=that adv|siempre=always pro:refl|se=itself
+	pro:obj|le-m=him v|lleva-13S&PAS=carry prepart|a=to
+	det:poss|su&3S=his n|casa&f=house .
+%gra:	1|0|ROOT 2|1|REL 3|4|JCT 4|6|SUBJ 5|6|JCT 6|2|CMOD 7|6|JCT 8|9|DET
+	9|7|POBJ 10|1|PUNCT
+*CHI:	o sea , no lo dejaba en lados desconocidos .
+%mor:	coord|o=or cop|se-13S&SUB&PRES=be cm|cm adv|no=no pro:obj|le-m=him
+	v|deja-13S&PAS=leave prep|en=in n|lado&m-PL=side
+	des#part|conoce-PPART-m-PL=know .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|5|JCT 5|1|COORD 6|1|COORD 7|6|JCT
+	8|7|POBJ 9|1|COORD 10|1|PUNCT
+*KAR:	mhm@i , muy bien .
+%mor:	co|mhm cm|cm adv|muy=very adv|bien=well .
+%gra:	1|0|ROOT 2|1|JCT 3|4|JCT 4|2|POBJ 5|1|PUNCT
+*KAR:	enton(ce)s esta fue mejor historia .
+%mor:	co|entonces det:dem|este-f=this cop|se-3S&PRET=be adj|mejor=better
+	n|historia&f=story .
+%gra:	1|0|ROOT 2|5|DET 3|5|DET 4|5|MOD 5|1|OBJ 6|1|PUNCT
+*KAR:	tú consideras ?
+%mor:	pro:sub|tú=you v|considera-2S&PRES=consider ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%act:	levanta al rojo
+*CHI:	0 .
+%act:	asiente
+*KAR:	en cuanto a la manera en la que hablaron .
+%mor:	prep|en=in pro:indef|cuanto-m=how_much prepart|a=to
+	det:art|el&f&SG=the n|manera&f=manner prep|en=in det:art|el&f&SG=the
+	prep|que=than v|habla-3P&PRET=speak .
+%gra:	1|0|ROOT 2|1|POBJ 3|2|COMP 4|5|DET 5|3|OBJ 6|5|JCT 7|6|POBJ 8|7|JCT
+	9|8|POBJ 10|1|PUNCT
+*KAR:	fue [/] fue igual ?
+%mor:	cop|se-3S&PRET=be co|igual=equal ?
+%gra:	1|0|ROOT 2|1|PRED 3|1|PUNCT
+*CHI:	no .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*KAR:	cu(ál) [//] cuál fue mejor o: ?
+%mor:	pro:int|cuál=which v|i-3S&PRET=go adj|mejor=better coord|o=or ?
+%gra:	1|0|ROOT 2|1|JCT 3|4|MOD 4|2|POBJ 5|1|PUNCT
+*CHI:	fue el amarillo .
+%mor:	v|i-3S&PRET=go det:art|el&m&SG=the adj|amarillo-m=yellow .
+%gra:	1|0|ROOT 2|3|DET 3|1|PRED 4|1|PUNCT
+*KAR:	sí ?
+%mor:	co|sí=yes ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*KAR:	porqué ?
+%mor:	pro:int|porqué=why ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	porque como que él este: cómo se llama +/.
+%mor:	conj|porque=because adv|como=like pro:rel|que=that pro:sub|él&m=he
+	det:dem|este=this pro:int|cómo=how pro:refl|se=itself
+	v|llama-3S&PRES=call +/.
+%gra:	1|0|ROOT 2|1|JCT 3|2|REL 4|8|SUBJ 5|8|DET 6|8|SUBJ 7|8|SUBJ 8|3|CMOD
+	9|1|PUNCT
+*CHI:	porque se ve .
+%mor:	conj|porque=because pro:refl|se=itself v|ve-3S&PRES=see .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	que él tiene este: interés en el estudio .
+%mor:	pro:rel|que=that pro:sub|él&m=he v|tene-3S&PRES=have
+	det:dem|este=this n|interés&m=interest prep|en=in
+	det:art|el&m&SG=the n|estudio&m=study .
+%gra:	1|0|ROOT 2|1|COMP 3|2|CMOD 4|5|DET 5|3|OBJ 6|5|JCT 7|8|DET 8|6|POBJ
+	9|1|PUNCT
+*CHI:	y por eso siempre xxx este: cómo se llama relata .
+%mor:	coord|y=and prep|por=for pro:dem|eso=that_one adv|siempre=always
+	det:dem|este=this pro:int|cómo=how pro:refl|se=itself
+	v|llama-3S&PRES=call v|relata-3S&PRES=relate .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|3|JCT 5|6|DET 6|2|POBJ 7|6|COMP 8|7|COMP
+	9|8|OBJ 10|1|PUNCT
+*CHI:	lo que es Alejandro .
+%mor:	pro:obj|le-m=him pro:rel|que=that cop|se-3S&PRES=be
+	n:prop|Alejandro .
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|3|PRED 5|1|PUNCT
+*KAR:	o sea , tú sien(tes) [//] sentiste .
+%mor:	coord|o=or cop|se-13S&SUB&PRES=be cm|cm pro:sub|tú=you
+	v|senti-2S&PRET=feel .
+%gra:	1|0|ROOT 2|1|COORD 3|5|SUBJ 4|5|SUBJ 5|2|PRED 6|1|PUNCT
+*KAR:	que él tenía interés en el estudio .
+%mor:	pro:rel|que=that pro:sub|él&m=he v|tene-13S&PAS=have
+	n|interés&m=interest prep|en=in det:art|el&m&SG=the
+	n|estudio&m=study .
+%gra:	1|0|ROOT 2|1|CMOD 3|2|CMOD 4|3|OBJ 5|4|JCT 6|7|DET 7|5|POBJ 8|1|PUNCT
+*KAR:	y él no ?
+%mor:	coord|y=and pro:sub|él&m=he co|no ?
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|1|COORD
+%act:	levanta primero al amarillo y luego al rojo
+*CHI:	0 .
+%act:	asiente
+*KAR:	porqué no ?
+%mor:	pro:int|porqué=why adv|no=no ?
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*CHI:	porque se escondía este: abajo del escritorio de la directora +/.
+%mor:	conj|porque=because pro:refl|se=itself v|esconde-13S&PAS=hide
+	det:dem|este=this adv|abajo=below prep|de~det:art|el&m=of
+	n|escritorio&m=desk prep|de=of det:art|el&f&SG=the
+	n|director-f=director +/.
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|JCT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|8|JCT 10|11|DET 11|9|POBJ 12|3|PUNCT
+*KAR:	pero él [/] él también decía eso , no ?
+%mor:	conj|pero=but pro:sub|él&m=he adv|también=also v|deci-13S&PAS=say
+	pro:dem|eso=that_one cm|cm co|no ?
+%gra:	1|4|SUBJ 2|3|JCT 3|4|JCT 4|0|ROOT 5|4|JCT 6|7|MOD 7|5|POBJ 8|4|PUNCT
+*CHI:	asustaba a su mamá .
+%mor:	v|asusta-13S&PAS=frighten prepart|a=to det:poss|su&3S=his
+	n|mamá&f=mommy .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*CHI:	sí , pero: (...) .
+%mor:	co|sí=yes cm|cm conj|pero=but .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*KAR:	porqué sentiste .
+%mor:	pro:int|porqué=why v|senti-2S&PRET=feel .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*KAR:	que como que él era más responsable o: ?
+%mor:	pro:rel|que=that adv|como=like pro:rel|que=that pro:sub|él&m=he
+	cop|se-13S&PAS=be adv|más=more adj|responsable=responsible
+	coord|o=or ?
+%gra:	1|0|ROOT 2|1|COMP 3|2|REL 4|5|SUBJ 5|3|CMOD 6|7|MOD 7|8|MOD 8|5|PRED
+	9|1|PUNCT
+*CHI:	0 .
+*KAR:	eso quieres decir ?
+%mor:	pro:dem|eso=that_one v|quere-2S&PRES=want inf|deci-INF=say ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COMP 4|2|PUNCT
+*KAR:	que como que él era más responsable ?
+%mor:	pro:rel|que=that adv|como=like pro:rel|que=that pro:sub|él&m=he
+	cop|se-13S&PAS=be adv|más=more adj|responsable=responsible ?
+%gra:	1|0|ROOT 2|1|CMOD 3|2|REL 4|5|SUBJ 5|3|COMP 6|7|MOD 7|5|PRED 8|1|PUNCT
+*CHI:	sí .
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*KAR:	<porqué> [/] porqué lo sentiste así ?
+%mor:	pro:int|porqué=why pro:obj|le-m=him v|senti-2S&PRET=feel
+	adv|así=thus ?
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*CHI:	porque: (...) porque él decía cómo se llama +/.
+%mor:	conj|porque=because conj|porque=because pro:sub|él&m=he
+	v|deci-13S&PAS=say pro:int|cómo=how pro:refl|se=itself
+	v|llama-3S&PRES=call +/.
+%gra:	1|7|SUBJ 2|7|SUBJ 3|7|SUBJ 4|7|SUBJ 5|7|SUBJ 6|7|SUBJ 7|0|ROOT
+	8|7|PUNCT
+*CHI:	porque él decía que cómo se llama .
+%mor:	conj|porque=because pro:sub|él&m=he v|deci-13S&PAS=say
+	pro:rel|que=that pro:int|cómo=how pro:refl|se=itself
+	v|llama-3S&PRES=call .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|REL 5|7|SUBJ 6|7|SUBJ 7|4|CMOD 8|3|PUNCT
+*CHI:	que su mamá siempre lo llevaba a su ca:sa .
+%mor:	pro:rel|que=that det:poss|su&3S=his n|mamá&f=mommy
+	adv|siempre=always pro:obj|le-m=him v|lleva-13S&PAS=carry
+	prepart|a=to det:poss|su&3S=his n|casa&f=house .
+%gra:	1|0|ROOT 2|3|DET 3|6|SUBJ 4|5|JCT 5|6|SUBJ 6|1|COMP 7|6|COMP 8|9|DET
+	9|7|OBJ 10|1|PUNCT
+*CHI:	no lo llevaba +/.
+%mor:	adv|no=no pro:obj|le-m=him v|lleva-13S&PAS=carry +/.
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	no lo dejaba en lados desconocidos .
+%mor:	adv|no=no pro:obj|le-m=him v|deja-13S&PAS=leave prep|en=in
+	n|lado&m-PL=side des#part|conoce-PPART-m-PL=know .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|5|MOD 7|3|PUNCT
+%xjui:	$C:mor
+*KAR:	aha@i , muy bien .
+%mor:	co|aha cm|cm adv|muy=very adv|bien=well .
+%gra:	1|0|ROOT 2|1|JCT 3|4|JCT 4|2|POBJ 5|1|PUNCT
+*KAR:	ahora , este tú eres un juez .
+%mor:	adv|ahora=now cm|cm det:dem|este=this pro:sub|tú=you
+	cop|se-2S&PRES=be det:art|un&m=one n|juez&m=judge .
+%gra:	1|2|JCT 2|4|SUBJ 3|4|DET 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|PRED 8|5|PUNCT
+*KAR:	y tienes que [/] que decir en cuanto a la historia .
+%mor:	coord|y=and v|tene-2S&PRES=have pro:rel|que=that inf|deci-INF=say
+	prep|en=in pro:indef|cuanto-m=how_much prepart|a=to
+	det:art|el&f&SG=the n|historia&f=story .
+%gra:	1|0|ROOT 2|1|COORD 3|2|REL 4|3|COMP 5|4|JCT 6|5|POBJ 7|6|COMP 8|9|DET
+	9|7|OBJ 10|1|PUNCT
+*KAR:	cuál fue más +/.
+%mor:	pro:int|cuál=which v|i-3S&PRET=go adv|más=more +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*KAR:	cuál te pareció más como una historia ?
+%mor:	pro:int|cuál=which pro:obj|te=you v|parece-3S&PRET=seem
+	adv|más=more adv|como=like det:art|un-f=one n|historia&f=story ?
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|JCT 6|7|DET 7|3|OBJ 8|3|PUNCT
+*KAR:	cuál de los dos niños ?
+%mor:	pro:int|cuál=which prep|de=of det:art|el&m-PL=the det:num|dos=two
+	n|niño-m-PL=child ?
+%gra:	1|0|ROOT 2|1|JCT 3|5|DET 4|5|MOD 5|2|POBJ 6|1|PUNCT
+*CHI:	él .
+%mor:	pro:sub|él&m=he .
+%gra:	1|0|ROOT 2|1|PUNCT
+%act:	señala el rojo
+*KAR:	el rojo , muy bien .
+%mor:	det:art|el&m&SG=the adj|rojo-m=red cm|cm adv|muy=very adv|bien=well
+	.
+%gra:	1|2|DET 2|3|MOD 3|0|ROOT 4|5|JCT 5|3|JCT 6|3|PUNCT
+*KAR:	porqué má(s) [//] fue más como historia ?
+%mor:	pro:int|porqué=why v|i-3S&PRET=go adv|más=more adv|como=like
+	n|historia&f=story ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|MOD 4|5|MOD 5|2|OBJ 6|2|PUNCT
+*CHI:	porque: un día este iba a pasar este su programa favorito .
+%mor:	conj|porque=because det:art|un&m=one n|día&m=day det:dem|este=this
+	v|i-13S&PAS=go prepart|a=to inf|pasa-INF=pass
+	aux|esta-13S&SUB&PRES=be det:poss|su&3S=his n|programa&m=programme
+	adj|favorito-m=favorite .
+%gra:	1|5|SUBJ 2|3|DET 3|5|SUBJ 4|3|MOD 5|0|ROOT 6|7|INF 7|5|COMP 8|7|JCT
+	9|10|DET 10|8|POBJ 11|10|MOD 12|5|PUNCT
+*KAR:	aha@i .
+%mor:	co|aha .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	y no vino su mamá a tiempo para llevarlo a verlo .
+%mor:	coord|y=and adv|no=no n|vino&m=wine det:poss|su&3S=his
+	n|mamá&f=mommy prepart|a=to n|tiempo&m=season prep|para=for
+	inf|lleva-INF~pro:clit|OBJ&m=carry prepart|a=to
+	inf|ve-INF~pro:clit|OBJ&m=see .
+%gra:	1|0|ROOT 2|3|JCT 3|1|COORD 4|5|DET 5|1|COORD 6|7|DET 7|1|COORD 8|9|INF
+	9|1|COORD 10|9|OBJ2 11|12|INF 12|9|COMP 13|12|OBJ2 14|1|PUNCT
+*CHI:	y: pu(e)s se escondió abajo del escritorio para darle una lección .
+%mor:	coord|y=and co|pues=well pro:refl|se=itself v|esconde-3S&PRET=hide
+	adv|abajo=below prep|de~det:art|el&m=of n|escritorio&m=desk
+	prep|para=for inf|da-INF~pro:clit|3S=give det:art|un-f=one
+	n|lección&f=lesson .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|1|COORD 5|4|JCT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|10|INF 10|8|CMOD 11|10|OBJ2 12|13|DET 13|11|OBJ 14|1|PUNCT
+*KAR:	enton(ce)s porque dijo eso .
+%mor:	adv|entonces=then conj|porque=because v|deci-3S&PRET=say
+	pro:dem|eso=that_one .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*KAR:	se te hace .
+%mor:	pro:refl|se=itself pro:obj|te=you v|hace-3S&PRES=do .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*KAR:	que fue más como una historia ?
+%mor:	pro:rel|que=that v|i-3S&PRET=go adv|más=more adv|como=like
+	det:art|un-f=one n|historia&f=story ?
+%gra:	1|0|ROOT 2|1|CMOD 3|4|JCT 4|2|JCT 5|6|DET 6|2|OBJ 7|1|PUNCT
+*CHI:	aha@i .
+%mor:	co|aha .
+%gra:	1|0|ROOT 2|1|PUNCT
+*KAR:	entonces qué le dirías a él +/.
+%mor:	co|entonces pro:int|qué=what pro:ind|le&m=him v|deci-2S&COND=say
+	prepart|a=to pro:sub|él&m=he +/.
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|3|CMOD 5|6|INF 6|4|OBJ 7|1|PUNCT
+%act:	levanta el amarillo
+*KAR:	o sea , en tal caso él ganó , no ?
+%mor:	coord|o=or cop|se-13S&SUB&PRES=be cm|cm prep|en=in adj|tal=such
+	n|caso&m=event pro:sub|él&m=he v|gana-3S&PRET=win cm|cm co|no ?
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|3|JCT 5|6|MOD 6|4|POBJ 7|6|MOD 8|1|COORD
+	9|10|MOD 10|8|OBJ 11|1|PUNCT
+%act:	levanta el rojo
+*KAR:	él ganó el concurso .
+%mor:	pro:sub|él&m=he v|gana-3S&PRET=win det:art|el&m&SG=the
+	n|concurso&m=concourse .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*KAR:	entonces qué le dirías a él .
+%mor:	co|entonces pro:int|qué=what pro:ind|le&m=him v|deci-2S&COND=say
+	prepart|a=to pro:sub|él&m=he .
+%gra:	1|4|SUBJ 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|OBJ 7|4|PUNCT
+*KAR:	como para que su historia hubiera sido má:s como historia ?
+%mor:	adv|como=like prep|para=for pro:rel|que=that det:poss|su&3S=his
+	n|historia&f=story v|habe-13S&SUB&PAS=have part|se-PPART-m=be
+	adv|más=more adv|como=like n|historia&f=story ?
+%gra:	1|0|ROOT 2|1|JCT 3|2|REL 4|5|DET 5|6|SUBJ 6|3|CMOD 7|10|MOD 8|10|MOD
+	9|10|MOD 10|6|OBJ 11|1|PUNCT
+%act:	levanta al amarillo
+*KAR:	qué le falló ?
+%mor:	pro:int|qué=what pro:ind|le&m=him v|falla-3S&PRET=fail ?
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*KAR:	o en qué se equivocó ?
+%mor:	coord|o=or prep|en=in pro:int|qué=what pro:refl|se=itself
+	v|equivoca-3S&PRET=be_mistaken ?
+%gra:	1|0|ROOT 2|1|JCT 3|5|SUBJ 4|5|SUBJ 5|2|POBJ 6|1|COORD
+*CHI:	pu(e)s que sea más [/] <más breve> [//] o sea , más larga .
+%mor:	co|pues=well pro:rel|que=that cop|se-13S&SUB&PRES=be coord|o=or
+	cop|se-13S&SUB&PRES=be cm|cm adv|más=more v|larga-3S&PRES=go_away .
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|3|CONJ 5|4|COORD 6|8|SUBJ 7|8|MOD 8|4|COORD
+	9|1|PUNCT
+%xjui:	$F:lon
+*KAR:	más larga ?
+%mor:	adv|más=more v|larga-3S&PRES=go_away ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*CHI:	aha@i .
+%mor:	co|aha .
+%gra:	1|0|ROOT 2|1|PUNCT
+*KAR:	o sea , se te hizo .
+%mor:	coord|o=or cop|se-13S&SUB&PRES=be cm|cm pro:refl|se=itself
+	pro:obj|te=you v|hace-3S&PRET=do .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|1|COORD 5|1|COORD 6|1|COORD 7|1|PUNCT
+*KAR:	que como que estaba demasiado corta ?
+%mor:	pro:rel|que=that adv|como=like pro:rel|que=that cop|esta-13S&PAS=be
+	adj|demasiado-m=excessive v|corta-3S&PRES=cut ?
+%gra:	1|0|ROOT 2|1|JCT 3|2|REL 4|3|COMP 5|6|MOD 6|4|PRED 7|1|PUNCT
+*CHI:	sí .
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*KAR:	ahora , para que sea una buena historia .
+%mor:	adv|ahora=now cm|cm prep|para=for pro:rel|que=that
+	cop|se-13S&SUB&PRES=be det:art|un-f=one adj|buen-f=good
+	n|historia&f=story .
+%gra:	1|2|JCT 2|0|ROOT 3|2|JCT 4|3|REL 5|4|CMOD 6|8|DET 7|8|MOD 8|5|PRED
+	9|2|PUNCT
+*KAR:	debe de ser larga ?
+%mor:	v|debe-3S&PRES=must prep|de=of n|ser&m=being
+	v|larga-3S&PRES=go_away ?
+%gra:	1|4|SUBJ 2|1|JCT 3|2|POBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	0 .
+%act:	asiente
+*KAR:	eso es .
+%mor:	pro:dem|eso=that_one cop|se-3S&PRES=be .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*KAR:	lo que quieres decir ?
+%mor:	pro:obj|le-m=him pro:rel|que=that v|quere-2S&PRES=want
+	inf|deci-INF=say ?
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|3|COMP 5|1|PUNCT
+*CHI:	0 .
+%act:	asiente
+*KAR:	o sea , ésta fue mejor .
+%mor:	coord|o=or cop|se-13S&SUB&PRES=be cm|cm pro:dem|éste-f=this_one
+	cop|se-3S&PRET=be adj|mejor=better .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|1|COORD 5|1|COORD 6|5|PRED 7|1|PUNCT
+*KAR:	porque fue más larga ?
+%mor:	conj|porque=because v|i-3S&PRET=go adv|más=more
+	v|larga-3S&PRES=go_away ?
+%gra:	1|2|SUBJ 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|PUNCT
+*CHI:	aha@i .
+%mor:	co|aha .
+%gra:	1|0|ROOT 2|1|PUNCT
+*KAR:	y ésta le falló .
+%mor:	coord|y=and pro:dem|éste-f=this_one pro:ind|le&m=him
+	v|falla-3S&PRET=fail .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|3|PRED 5|1|PUNCT
+*KAR:	porque: estuvo muy corta .
+%mor:	conj|porque=because cop|esta-3S&PRET=be adv|muy=very
+	v|corta-3S&PRES=cut .
+%gra:	1|2|SUBJ 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|PUNCT
+*KAR:	qué otra cosa más le recomendarías ?
+%mor:	pro:int|qué=what qn|otro-f=other n|cosa&f=thing adv|más=more
+	pro:ind|le&m=him v|recomenda-2S&COND=recommend ?
+%gra:	1|6|SUBJ 2|3|DET 3|6|SUBJ 4|5|MOD 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
+*CHI:	más breve .
+%mor:	adv|más=more adj|breve=brief .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+*KAR:	que fuera más breve o más larga ?
+%mor:	pro:rel|que=that adv|fuera=outside adv|más=more adj|breve=brief
+	coord|o=or adv|más=more v|larga-3S&PRES=go_away ?
+%gra:	1|0|ROOT 2|4|JCT 3|4|MOD 4|1|CMOD 5|4|CONJ 6|7|MOD 7|5|COORD 8|1|PUNCT
+*CHI:	más breve .
+%mor:	adv|más=more adj|breve=brief .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+*KAR:	pero si él fue .
+%mor:	conj|pero=but conj|si=if pro:sub|él&m=he v|i-3S&PRET=go .
+%gra:	1|4|SUBJ 2|4|SUBJ 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*KAR:	el que la dijo breve .
+%mor:	det:art|el&m&SG=the prep|que=than det:art|el&f&SG=the
+	v|deci-3S&PRET=say adj|breve=brief .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|4|MOD 6|1|PUNCT
+*KAR:	o cuál [/] cuál fue más larga (.) de las dos historias ?
+%mor:	coord|o=or pro:int|cuál=which v|i-3S&PRET=go adv|más=more
+	v|larga-3S&PRES=go_away prep|de=of det:art|el&f-PL=the
+	det:num|dos=two n|historia&f-PL=story ?
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|1|COORD 5|1|COORD 6|5|JCT 7|9|DET
+	8|9|MOD 9|6|POBJ 10|1|COORD
+*CHI:	el rojo .
+%mor:	det:art|el&m&SG=the adj|rojo-m=red .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*KAR:	el rojo .
+%mor:	det:art|el&m&SG=the adj|rojo-m=red .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*KAR:	enton(ce)s fue mejor ?
+%mor:	adv|entonces=then cop|se-3S&PRET=be adj|mejor=better ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	aha@i .
+%mor:	co|aha .
+%gra:	1|0|ROOT 2|1|PUNCT
+*KAR:	enton(ce)s es bue(no) [/] es bue(no) +/.
+%mor:	adv|entonces=then cop|se-3S&PRES=be cop|se-3S&PRES=be co|bueno=good
+	+/.
+%gra:	1|2|JCT 2|0|ROOT 3|2|PRED 4|3|PRED 5|2|PUNCT
+*KAR:	tú habías dicho .
+%mor:	pro:sub|tú=you v|habe-2S&PAS=have part|deci-PPART-m=say .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*KAR:	que era mejor .
+%mor:	pro:rel|que=that cop|se-13S&PAS=be adj|mejor=better .
+%gra:	1|0|ROOT 2|1|CMOD 3|2|PRED 4|1|PUNCT
+*KAR:	que fuera larga , no ?
+%mor:	pro:rel|que=that adv|fuera=outside v|larga-3S&PRES=go_away cm|cm
+	co|no ?
+%gra:	1|0|ROOT 2|3|JCT 3|1|CMOD 4|3|JCT 5|4|POBJ 6|1|PUNCT
+*CHI:	aha@i .
+%mor:	co|aha .
+%gra:	1|0|ROOT 2|1|PUNCT
+*KAR:	entonces a él le estás recomendando .
+%mor:	adv|entonces=then prepart|a=to pro:sub|él&m=he pro:ind|le&m=him
+	aux|esta-2S&PRES=be part|recomenda-PRPART=recommend .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PRED 4|3|JCT 5|6|AUX 6|4|POBJ 7|2|PUNCT
+*KAR:	que la haga corta ?
+%mor:	pro:rel|que=that det:art|el&f&SG=the v|hace-13S&SUB&PRES=do
+	v|corta-3S&PRES=cut ?
+%gra:	1|0|ROOT 2|3|DET 3|1|CMOD 4|3|OBJ 5|1|PUNCT
+*CHI:	0 .
+*KAR:	o sea , le estas dando: +/.
+%mor:	coord|o=or cop|se-13S&SUB&PRES=be cm|cm pro:ind|le&m=him
+	det:dem|este-f-PL=this part|da-PRPART=give +/.
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|3|JCT 5|6|DET 6|4|POBJ 7|1|COORD
+*KAR:	la idea es que [/] que tú le digas .
+%mor:	det:art|el&f&SG=the n|idea&f=idea cop|se-3S&PRES=be
+	pro:rel|que=that pro:sub|tú=you pro:ind|le&m=him
+	v|deci-2S&SUB&PRES=say .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|REL 5|7|SUBJ 6|7|OBJ 7|4|CMOD 8|3|PUNCT
+*KAR:	qué le falló .
+%mor:	pro:int|qué=what pro:ind|le&m=him v|falla-3S&PRET=fail .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*KAR:	o sea , le falló .
+%mor:	coord|o=or cop|se-13S&SUB&PRES=be cm|cm pro:ind|le&m=him
+	v|falla-3S&PRET=fail .
+%gra:	1|0|ROOT 2|1|COORD 3|5|SUBJ 4|5|SUBJ 5|2|PRED 6|1|PUNCT
+*KAR:	que estaba muy corta ?
+%mor:	pro:rel|que=that cop|esta-13S&PAS=be adv|muy=very
+	v|corta-3S&PRES=cut ?
+%gra:	1|0|ROOT 2|1|CMOD 3|4|JCT 4|2|PRED 5|1|PUNCT
+*KAR:	o que estaba muy larga ?
+%mor:	coord|o=or pro:rel|que=that cop|esta-13S&PAS=be adv|muy=very
+	v|larga-3S&PRES=go_away ?
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|5|JCT 5|3|PRED 6|1|COORD
+*CHI:	que estaba muy corta .
+%mor:	pro:rel|que=that cop|esta-13S&PAS=be adv|muy=very
+	v|corta-3S&PRES=cut .
+%gra:	1|0|ROOT 2|1|CMOD 3|4|JCT 4|2|PRED 5|1|PUNCT
+*KAR:	ah , muy corta (..) exacto , sí .
+%mor:	co|ah cm|cm adv|muy=very v|corta-3S&PRES=cut adj|exacto-m=exact
+	cm|cm co|sí=yes .
+%gra:	1|0|ROOT 2|3|JCT 3|4|JCT 4|1|PUNCT 5|6|MOD 6|4|OBJ 7|6|ROOT 8|7|PUNCT
+*KAR:	y entonces qué le recomendarías ?
+%mor:	coord|y=and adv|entonces=then pro:int|qué=what pro:ind|le&m=him
+	v|recomenda-2S&COND=recommend ?
+%gra:	1|0|ROOT 2|3|JCT 3|5|SUBJ 4|5|SUBJ 5|1|COORD 6|1|COORD
+*KAR:	que la hiciera más larga .
+%mor:	pro:rel|que=that det:art|el&f&SG=the v|hace-13S&SUB&PAS=do
+	adv|más=more v|larga-3S&PRES=go_away .
+%gra:	1|0|REL 2|3|OBJ 3|5|SUBJ 4|5|JCT 5|1|CMOD 6|5|PUNCT
+*CHI:	aha@i .
+%mor:	co|aha .
+%gra:	1|0|ROOT 2|1|PUNCT
+*KAR:	aparte de eso ?
+%mor:	adv|aparte=aside prep|de=of pro:dem|eso=that_one ?
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*CHI:	no , pu(e)s nada más .
+%mor:	adv|no=no cm|cm co|pues=well v|nada-3S&PRES=swim adv|más=more .
+%gra:	1|2|JCT 2|4|SUBJ 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*KAR:	nada más .
+%mor:	pro:indef|nada=nothing adv|más=more .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*KAR:	que la hiciera más larga ?
+%mor:	pro:rel|que=that det:art|el&f&SG=the v|hace-13S&SUB&PAS=do
+	adv|más=more v|larga-3S&PRES=go_away ?
+%gra:	1|0|ROOT 2|3|SUBJ 3|5|SUBJ 4|5|JCT 5|1|CMOD 6|1|PUNCT
+*CHI:	sí .
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*KAR:	entonces en realidad la [/] la diferencia más grande entre las
+	historias fue .
+%mor:	adv|entonces=then prep|en=in n|realidad&f=reality
+	det:art|el&f&SG=the n|diferencia&f=difference adv|más=more
+	adj|grande=big prep|entre=between det:art|el&f-PL=the
+	n|historia&f-PL=story v|i-3S&PRET=go .
+%gra:	1|5|JCT 2|1|JCT 3|2|POBJ 4|5|DET 5|11|SUBJ 6|7|MOD 7|5|MOD 8|5|JCT
+	9|10|DET 10|8|POBJ 11|0|ROOT 12|11|PUNCT
+*KAR:	que ésta era larga .
+%mor:	pro:rel|que=that pro:dem|éste-f=this_one cop|se-13S&PAS=be
+	v|larga-3S&PRES=go_away .
+%gra:	1|0|ROOT 2|3|MOD 3|1|COMP 4|3|PRED 5|1|PUNCT
+*KAR:	y que ésta era corta ?
+%mor:	coord|y=and pro:rel|que=that pro:dem|éste-f=this_one
+	cop|se-13S&PAS=be v|corta-3S&PRES=cut ?
+%gra:	1|0|ROOT 2|1|REL 3|4|SUBJ 4|2|CMOD 5|4|PRED 6|1|COORD
+*CHI:	mhm@i .
+%mor:	co|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+%com:	afirma
+*KAR:	esa fue la diferencia más [/] más importante ?
+%mor:	det:dem|ese-f=that cop|se-3S&PRET=be det:art|el&f&SG=the
+	n|diferencia&f=difference adv|más=more adj|importante=important ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|6|MOD 6|4|MOD 7|2|PUNCT
+*CHI:	sí .
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*KAR:	o [/] o de las cosas que dijeron ?
+%mor:	coord|o=or prep|de=of det:art|el&f-PL=the n|cosa&f-PL=thing
+	prep|que=than v|deci-3P&PRET=say ?
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|4|JCT 6|5|POBJ 7|1|COORD
+*CHI:	no , que esa fue más larga .
+%mor:	adv|no=no cm|cm pro:rel|que=that det:dem|ese-f=that v|i-3S&PRET=go
+	adv|más=more v|larga-3S&PRES=go_away .
+%gra:	1|2|MOD 2|0|ROOT 3|2|REL 4|7|DET 5|7|SUBJ 6|7|JCT 7|3|COMP 8|2|PUNCT
+*CHI:	y ésa más corta .
+%mor:	coord|y=and pro:dem|ése-f=that_one adv|más=more v|corta-3S&PRES=cut
+	.
+%gra:	1|0|ROOT 2|1|COORD 3|4|JCT 4|1|COORD 5|1|PUNCT
+*KAR:	mhm@i (.) bueno .
+%mor:	co|mhm co|bueno=good .
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*KAR:	entonces para que una historia sea buena .
+%mor:	adv|entonces=then prep|para=for pro:rel|que=that det:art|un-f=one
+	n|historia&f=story cop|se-13S&SUB&PRES=be adj|buen-f=good .
+%gra:	1|0|ROOT 2|1|JCT 3|2|REL 4|5|DET 5|6|SUBJ 6|3|CMOD 7|6|PRED 8|1|PUNCT
+*KAR:	tiene que ser larga .
+%mor:	v|tene-3S&PRES=have pro:rel|que=that cop|se-INF=be
+	v|larga-3S&PRES=go_away .
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|3|PRED 5|1|PUNCT
+*CHI:	aha@i .
+%mor:	co|aha .
+%gra:	1|0|ROOT 2|1|PUNCT
+*KAR:	eso es lo que tú quieres decir .
+%mor:	pro:dem|eso=that_one cop|se-3S&PRES=be pro:obj|le-m=him
+	pro:rel|que=that pro:sub|tú=you v|quere-2S&PRES=want
+	inf|deci-INF=say .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|REL 5|4|COMP 6|7|INF 7|5|COMP 8|2|PUNCT
+*CHI:	0 .
+%act:	asiente
+*KAR:	muy bien .
+%mor:	adv|muy=very adv|bien=well .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+@End

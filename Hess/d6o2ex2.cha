@@ -1,0 +1,104 @@
+@UTF8
+@PID:	11312/c-00032591-1
+@Begin
+@Languages:	spa
+@Participants:	KAR Karina Adult , CHI Juan_Carlos Target_Child
+@ID:	spa|Hess|KAR|||||Adult|||
+@ID:	spa|Hess|CHI|6;09.18||||Target_Child|||
+@Date:	19-MAY-1999
+@Comment:	Education of CHI is primero , pública
+@Transcriber:	Karina Hess
+@Situation:	Tarea B (completar una narración)
+@Comment:	sólo se transcribe desde el reactivo
+*KAR:	había una vez un niño .
+%mor:	v|habe-13S&PAS=have det:art|un-f=one n|vez&f=turn det:art|un&m=one
+	n|niño-m=child .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|5|DET 5|3|OBJ 6|1|PUNCT
+*KAR:	que le tenía mu:cho miedo a la oscuridad .
+%mor:	pro:rel|que=that pro:ind|le&m=him v|tene-13S&PAS=have
+	adv|mucho=much n|miedo&m=fear prepart|a=to det:art|el&f&SG=the
+	n|oscuridad&f=darkness .
+%gra:	1|0|ROOT 2|1|COMP 3|2|CMOD 4|5|MOD 5|3|OBJ 6|5|MOD 7|8|DET 8|6|OBJ
+	9|1|PUNCT
+*KAR:	ahora tú síguela .
+%mor:	adv|ahora=now pro:sub|tú=you imp|segui-2S&IMP~pro:clit|OBJ&f=follow
+	.
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|3|OBJ2 5|1|PUNCT
+*CHI:	había un niño .
+%mor:	v|habe-13S&PAS=have det:art|un&m=one n|niño-m=child .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*KAR:	que estaba mucha oscuridad .
+%mor:	pro:rel|que=that cop|esta-13S&PAS=be qn|mucho-f=many
+	n|oscuridad&f=darkness .
+%gra:	1|0|ROOT 2|1|CMOD 3|4|DET 4|2|PRED 5|1|PUNCT
+%gpx:	mira al piso
+*CHI:	y le daba miedo .
+%mor:	coord|y=and pro:ind|le&m=him v|da-13S&PAS=give n|miedo&m=fear .
+%gra:	1|0|ROOT 2|1|COORD 3|4|DET 4|1|COORD 5|1|PUNCT
+%cod:	$O:cas $E:emo $E:pal
+%gpx:	mira brevemente a KAR
+*CHI:	y salió un monstruo .
+%mor:	coord|y=and v|sali-3S&PRET=leave det:art|un&m=one
+	n|monstruo-m=monster .
+%gra:	1|0|ROOT 2|1|COORD 3|4|DET 4|2|OBJ 5|1|PUNCT
+%cod:	$C $O:par
+*CHI:	y le chupó la sangre .
+%mor:	coord|y=and pro:ind|le&m=him v|chupa-3S&PRET=suck
+	det:art|el&f&SG=the n|sangre&f=blood .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|5|DET 5|3|OBJ 6|1|PUNCT
+%cod:	$C
+%gpx:	mira brevemente a KAR
+*CHI:	y luego salieron la [/] la Llorona (..) la Llorona .
+%mor:	coord|y=and adv|luego=afterwards v|sali-3P&PRET=leave
+	det:art|el&f&SG=the n:prop|Llorona det:art|el&f&SG=the
+	n:prop|Llorona .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|5|DET 5|3|OBJ 6|7|DET 7|5|APP 8|1|PUNCT
+%cod:	$C $O:par
+%gpx:	mira brevemente a KAR
+*CHI:	y luego (.) llegaron más vampiros .
+%mor:	coord|y=and adv|luego=afterwards v|llega-3P&PRET=arrive
+	adv|más=more n|vampiro&m-PL=vampire .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|5|MOD 5|3|OBJ 6|1|PUNCT
+%xsub:	$A
+%cod:	$C $O:par
+*CHI:	y que saca su cruz .
+%mor:	coord|y=and pro:rel|que=that v|saca-3S&PRES=bring_out
+	det:poss|su&3S=his n|cruz&f=cross .
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|5|DET 5|3|OBJ 6|1|PUNCT
+%cod:	$C $O:obj
+%gpx:	mira brevemente a KAR
+*CHI:	y se las enseña .
+%mor:	coord|y=and pro:refl|se=itself det:art|el&f-PL=the
+	v|enseña-3S&PRES=teach .
+%gra:	1|0|ROOT 2|1|COORD 3|4|DET 4|1|COORD 5|1|PUNCT
+%cod:	$C
+*CHI:	y se jueron [: fueron] corriendo .
+%mor:	coord|y=and pro:refl|se=itself cop|se-3P&PRET=be
+	part|corre-PRPART=run .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|3|PRED 5|1|PUNCT
+%cod:	$R
+%gpx:	mira brevemente a KAR
+*CHI:	se jueron [: fueron] a su tumba .
+%mor:	pro:refl|se=itself cop|se-3P&PRET=be prepart|a=to
+	det:poss|su&3S=his n|tumba&f=tomb .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|DET 5|3|OBJ 6|2|PUNCT
+%cod:	$R $O:lug
+%gpx:	mira brevemente a KAR
+*KAR:	mhm@i .
+%mor:	co|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	ahí terminó .
+%mor:	adv|ahí=there v|termina-3S&PRET=end .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+%cod:	$A:cod
+%gpx:	mira a KAR
+*KAR:	ahí terminó ?
+%mor:	adv|ahí=there v|termina-3S&PRET=end ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*CHI:	0 .
+%act:	asiente
+*KAR:	muy bien .
+%mor:	adv|muy=very adv|bien=well .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+@Comment:	CHI no quiso cambiar su historia
+@End
