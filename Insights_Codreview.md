@@ -1,4 +1,4 @@
-Project proposal for Data Incubator
+Codreview for Insights interview
 ================
 
 available at: <https://github.com/HannahForsythe/span_dialects>
@@ -820,7 +820,9 @@ vs. Paraguayan.
 | `## ## Call: ## lm(formula = est_prop ~ dialect_ordered, data = ratios) ## ## Residuals: ##       Min        1Q    Median        3Q       Max ## -0.075646 -0.020030 -0.006182  0.014441  0.155123 ## ## Coefficients: ##                            Estimate Std. Error t value Pr(>\|t\|) ## (Intercept)                 0.06224    0.01093   5.696 1.26e-07 *** ## dialect_orderedMexican      0.01341    0.01164   1.152    0.252 ## dialect_orderedArgentinian  0.02294    0.01784   1.286    0.201 ## dialect_orderedParaguayan   0.01489    0.01453   1.024    0.308 ## --- ## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1 ## ## Residual standard error: 0.03455 on 99 degrees of freedom ## Multiple R-squared:  0.01941,    Adjusted R-squared:  -0.0103 ## F-statistic: 0.6533 on 3 and 99 DF,  p-value: 0.5827`                          |
 | `r estar_over_ser.lmer <- lm(estar_over_ser ~ dialect_ordered, data = ratios) summary(estar_over_ser.lmer)`                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | `## ## Call: ## lm(formula = estar_over_ser ~ dialect_ordered, data = ratios) ## ## Residuals: ##      Min       1Q   Median       3Q      Max ## -0.31447 -0.06873 -0.00554  0.05842  0.60861 ## ## Coefficients: ##                            Estimate Std. Error t value Pr(>\|t\|) ## (Intercept)                 0.26402    0.04059   6.505  3.2e-09 *** ## dialect_orderedMexican      0.05045    0.04324   1.167   0.2461 ## dialect_orderedArgentinian  0.14878    0.06628   2.245   0.0270 * ## dialect_orderedParaguayan   0.10610    0.05399   1.965   0.0522 . ## --- ## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1 ## ## Residual standard error: 0.1283 on 99 degrees of freedom ## Multiple R-squared:  0.06713,    Adjusted R-squared:  0.03886 ## F-statistic: 2.375 on 3 and 99 DF,  p-value: 0.0747` Takeaways from analysis 2: |
-| 1\) ‘ser’ frequency but NOT ‘estar’ frequency differentiates Spain vs. Argentianian (marginal) and Spain vs. Paraguayan 2) relative ‘estar’ to ‘ser’ frequency also differentiates Spain vs. Argentianian and Spain vs. Paraguayan 3) the size of inter-dialectal differences is greater for the relative ‘estar’/‘ser’ measure than just for ‘ser’ frequency: beta values are about twice as large.                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| 1\) ‘ser’ frequency but NOT ‘estar’ frequency differentiates Spain vs. Argentianian (marginal) and Spain vs. Paraguayan                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| 2\) relative ‘estar’ to ‘ser’ frequency also differentiates Spain vs. Argentianian and Spain vs. Paraguayan                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| 3\) the size of inter-dialectal differences is greater for the relative ‘estar’/‘ser’ measure than just for ‘ser’ frequency: beta values are about twice as large.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 
 The final step (for now) is to try this technique with other
 similar-meaning words. However, since most words are much, much less
@@ -1085,13 +1087,15 @@ chico_over_nino.lmer <- lm(chico_over_nino ~ dialect, data = ratios)
     ## Multiple R-squared:  0.5069, Adjusted R-squared:  0.4919 
     ## F-statistic: 33.92 on 3 and 99 DF,  p-value: 3.645e-15
 
-General conclusions: In sum, the exploratory analysis shows that: 1)
-Every dialect can be distinguished from every other dialect along at
-least SOME feature explored here. 2) Rates of individual pronoun
-subjects are a promising and easy-to-implement feature to use when
-distinguishing dialects. 3) In some cases, the ratio of similar-meaning
-word PAIRS may provide additional insight, over and above the overall
-rates of the INDIVIDUAL words.
+General conclusions: In sum, the exploratory analysis shows that:
+
+1)  Every dialect can be distinguished from every other dialect along at
+    least SOME feature explored here.
+2)  Rates of individual pronoun subjects are a promising and
+    easy-to-implement feature to use when distinguishing dialects.
+3)  In some cases, the ratio of similar-meaning word PAIRS may provide
+    additional insight, over and above the overall rates of the
+    INDIVIDUAL words.
 
 Before implementing the proposed classifier, I will do a full-blown
 exploration of all words in this dataset to see which ones may be

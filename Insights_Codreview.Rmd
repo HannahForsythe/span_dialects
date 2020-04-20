@@ -1,5 +1,5 @@
 ---
-title: "Project proposal for Data Incubator"
+title: "Codreview for Insights interview"
 output: rmarkdown::github_document
 editor_options: 
   chunk_output_type: console
@@ -558,7 +558,9 @@ estar_over_ser.lmer <- lm(estar_over_ser ~ dialect_ordered, data = ratios)
 Takeaways from analysis 2:
 
 1) 'ser' frequency but NOT 'estar' frequency differentiates Spain vs. Argentianian (marginal) and Spain vs. Paraguayan
+
 2) relative 'estar' to 'ser' frequency also differentiates Spain vs. Argentianian and Spain vs. Paraguayan
+
 3) the size of inter-dialectal differences is greater for the relative 'estar'/'ser' measure than just for 'ser' frequency: beta values are about twice as large.
 
 -----
